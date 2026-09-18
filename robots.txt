@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amamori-reform.com/sitemap.xml
