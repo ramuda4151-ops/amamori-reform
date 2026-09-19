@@ -1,0 +1,23 @@
+{
+ "slug": "sagamihara",
+ "city": "相模原市",
+ "pref": "神奈川県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_sagamihara",
+ "area_wide": "関東全域",
+ "consumer_center": "相模原市消費生活総合センター",
+ "date_pub": "2026-09-18",
+ "date_mod": "2026-09-20",
+ "intro_local": "相模原市は緑区の山あいから南区の住宅街まで戸建てが多く、築20〜30年を超えた住宅では防水シートやコーキングの寿命切れによる雨漏りが起きやすいエリア。台風や大雨のたびに被害の相談が増えます。",
+ "companies": [
+  "アメトメ",
+  "桜ルーフ",
+  "町田相模原水漏れ・雨漏り修理センター",
+  "雨漏りねっと",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>桜ルーフ</td>\n            <td>9:00〜18:00<br>（日曜定休）</td>\n            <td>相模原・町田・多摩・横浜など</td>\n            <td>屋根専門店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>町田相模原水漏れ・<br>雨漏り修理センター</td>\n            <td>9:00〜18:00<br>（日曜除く）</td>\n            <td>相模原市（南区・中央区・緑区）・町田・大和・座間</td>\n            <td>ハウスメンテナンス</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>雨漏りねっと</td>\n            <td>10:00〜18:00<br>（日曜定休）</td>\n            <td>神奈川県全域ほか</td>\n            <td>協同組合運営</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>桜ルーフ｜相模原エリアにも対応する地元密着の屋根専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_sakura.jpg\" alt=\"桜ルーフ公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：桜ルーフ 公式サイト</figcaption>\n      </figure>\n      <p>町田市に本社を置き、相模原市・大和市などを施工エリアとする地元密着の屋根専門店。施工実績1,500件超で、<span class=\"mk\">ドローンを使った屋根診断</span>にも対応しています。代表みずから現地調査を行うスタイルで、相模原・町田エリアの住宅事情に詳しいのが強みです。</p>\n      <ul class=\"check\">\n        <li>相談・診断・見積もり無料、施工後の定期点検も無料</li>\n        <li>自社職人施工（下請けなし）</li>\n        <li>受付9:00〜18:00・日曜定休。緊急時は受付時間に注意</li>\n      </ul>\n      <p>「近場の専門店にじっくり見てもらいたい」派におすすめの1社です。</p>\n      <p class=\"ext-link\"><a href=\"https://www.sakuraroof.jp/\" target=\"_blank\" rel=\"nofollow noopener\">桜ルーフの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>町田相模原水漏れ・雨漏り修理センター｜追加料金なしの明瞭会計</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_eh_sagamihara.jpg\" alt=\"町田相模原水漏れ・雨漏り修理センター公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：町田相模原水漏れ・雨漏り修理センター 公式サイト</figcaption>\n      </figure>\n      <p>アースホーム合同会社が運営するハウスメンテナンスの専門店。相模原市の南区・中央区・緑区をカバーし、<span class=\"mk\">事前見積もり後の追加料金は一切なし</span>という明瞭会計が特徴です。修理箇所が再度トラブルになった場合は無償対応してくれます。</p>\n      <ul class=\"check\">\n        <li>無料相談実施中・部分修理は5,400円〜</li>\n        <li>修繕箇所の再トラブルは無償対応、工事後の定期点検あり</li>\n        <li>受付9:00〜18:00（日曜除く）</li>\n      </ul>\n      <p class=\"ext-link\"><a href=\"https://www.eh-syuuri-machidasagamihara.jp/\" target=\"_blank\" rel=\"nofollow noopener\">町田相模原水漏れ・雨漏り修理センターの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>雨漏りねっと｜神奈川県住宅設備協同組合が運営</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_amamorinet.jpg\" alt=\"雨漏りねっと公式サイトの相模原市ページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：雨漏りねっと 公式サイト</figcaption>\n      </figure>\n      <p>神奈川県住宅設備協同組合が運営する雨漏り修理サービスで、相模原市を含む神奈川県全域に対応。<span class=\"mk\">散水調査やドローン点検</span>など調査手段が豊富で、調査から施工まで一貫対応です。</p>\n      <ul class=\"check\">\n        <li>基本の目視点検・見積もりは無料</li>\n        <li>雨漏り診断士などの有資格者が在籍</li>\n        <li>火災保険や補助金申請の相談にも対応（受付10:00〜18:00・日曜定休）</li>\n      </ul>\n      <p class=\"ext-link\"><a href=\"https://amamori-net.com/kanagawa/sagamihara/\" target=\"_blank\" rel=\"nofollow noopener\">雨漏りねっとの公式サイトはこちら ›</a></p>\n    </div>\n\n    ",
+ "order": 2
+}

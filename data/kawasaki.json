@@ -1,0 +1,23 @@
+{
+ "slug": "kawasaki",
+ "city": "川崎市",
+ "pref": "神奈川県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_kawasaki",
+ "area_wide": "関東全域",
+ "consumer_center": "川崎市消費者行政センター",
+ "date_pub": "2026-09-18",
+ "date_mod": "2026-09-20",
+ "intro_local": "川崎市は住宅が密集し、築年数の経った戸建てやアパートも多いエリア。屋根の劣化に気づきにくく、雨漏りがかなり進行してから発覚するケースが目立ちます。",
+ "companies": [
+  "アメトメ",
+  "川崎市屋根修理マイスター",
+  "川崎水漏れ・雨漏り修理センター",
+  "あおい住建",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>川崎市屋根修理マイスター</td>\n            <td>9:00〜19:00<br>（土日祝対応）</td>\n            <td>川崎市全域・神奈川県全域</td>\n            <td>屋根専門店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>川崎水漏れ・雨漏り修理センター</td>\n            <td>9:00〜18:00<br>（日曜除く）</td>\n            <td>川崎市全域</td>\n            <td>ハウスメンテナンス</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>あおい住建</td>\n            <td>9:00〜18:00</td>\n            <td>東京都・神奈川県</td>\n            <td>屋根修理店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>川崎市屋根修理マイスター｜実績2,000件超・職人直営</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_roof_kawasaki.jpg\" alt=\"川崎市屋根修理マイスター公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：川崎市屋根修理マイスター 公式サイト</figcaption>\n      </figure>\n      <p>川崎市全域と神奈川県全域に対応する屋根修理の専門店。<span class=\"mk\">施工実績2,000件超・職人歴20年以上の代表が現場に立つ</span>直営スタイルで、散水調査による原因究明と再発防止を重視した修理が特徴です。</p>\n      <ul class=\"check\">\n        <li>現地調査・屋根診断・相談は無料</li>\n        <li>土日祝対応・緊急対応体制あり</li>\n        <li>火災保険申請手続きのサポートあり</li>\n      </ul>\n      <p class=\"ext-link\"><a href=\"https://roof-kawasaki.com/\" target=\"_blank\" rel=\"nofollow noopener\">川崎市屋根修理マイスターの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>川崎水漏れ・雨漏り修理センター｜市内3営業所の地域密着</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_eh_kawasaki.jpg\" alt=\"川崎水漏れ・雨漏り修理センター公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：川崎水漏れ・雨漏り修理センター 公式サイト</figcaption>\n      </figure>\n      <p>アースホーム合同会社が運営し、川崎市内に3つの営業所を持つハウスメンテナンス店。<span class=\"mk\">事前見積もり後の追加料金は一切なし</span>で、修繕箇所が再度トラブルになった場合は無償対応。赤外線調査で「なかなか止まらない雨漏り」の原因特定にも対応します。</p>\n      <ul class=\"check\">\n        <li>無料相談・見積もり対応、最低料金3,200円〜</li>\n        <li>修繕箇所の再トラブルは無償対応・定期点検あり</li>\n        <li>受付9:00〜18:00（日曜除く）</li>\n      </ul>\n      <p class=\"ext-link\"><a href=\"https://www.eh-syuuri-kawasaki.jp/\" target=\"_blank\" rel=\"nofollow noopener\">川崎水漏れ・雨漏り修理センターの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>あおい住建｜完全自社施工・雨漏り修理1万円〜</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_aoi.jpg\" alt=\"あおい住建の雨漏り修理ページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社あおい住建 公式サイト</figcaption>\n      </figure>\n      <p>世田谷区に本社を置き、川崎市・横浜市など東京都・神奈川県に対応する屋根修理店。<span class=\"mk\">足場まで含めた完全自社施工</span>で中間マージンを抑えており、雨漏り修理は1万円〜（税込）と部分修理の価格が明瞭です。</p>\n      <ul class=\"check\">\n        <li>経験10年以上の職人が対応、最短即日駆けつけ</li>\n        <li>調査・見積もり完全無料</li>\n        <li>受付9:00〜18:00</li>\n      </ul>\n      <p class=\"ext-link\"><a href=\"https://aoijuuken.com/\" target=\"_blank\" rel=\"nofollow noopener\">あおい住建の公式サイトはこちら ›</a></p>\n    </div>\n\n    ",
+ "order": 4
+}
