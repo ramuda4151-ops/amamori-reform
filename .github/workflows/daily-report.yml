@@ -1,0 +1,21 @@
+name: daily-seo-report
+on:
+  schedule:
+    - cron: '0 0 * * *'   # 毎日 09:00 JST
+  workflow_dispatch:       # 手動実行も可能
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install cryptography
+      - name: Post daily report to Discord
+        env:
+          GSC_SA_KEY: ${{ secrets.GSC_SA_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          GAS_STATS_URL: ${{ secrets.GAS_STATS_URL }}
+        run: python tools/daily_report.py

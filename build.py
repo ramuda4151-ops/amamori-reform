@@ -99,6 +99,49 @@ def lint(path, html):
     return not errs
 
 
+CLARITY_SNIPPET = '''<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "%s");
+  </script>
+'''
+
+
+BEACON_SNIPPET = '''<script>
+    (function(){
+      var EP="%s";
+      function send(t){
+        var a=document.querySelector('a[href*="asp.amamori-tometai.com"]');
+        var id=""; try{ id=new URL(a.href).searchParams.get("id")||""; }catch(_){}
+        try{ navigator.sendBeacon(EP, JSON.stringify({t:t,id:id,p:location.pathname})); }catch(_){}
+      }
+      document.addEventListener("click", function(e){
+        var a=e.target && e.target.closest ? e.target.closest("a") : null;
+        if(!a) return;
+        if(a.href && a.href.indexOf("asp.amamori-tometai.com")>-1) send("lp_click");
+        else if(a.href && a.href.indexOf("tel:")===0) send("tel_click");
+      }, true);
+    })();
+  </script>
+'''
+
+
+def inject_clarity(html):
+    cfg_path = f'{BASE}/site_config.json'
+    if not os.path.exists(cfg_path):
+        return html
+    cfg = json.load(open(cfg_path))
+    cid = cfg.get('clarity_id', '')
+    if cid:
+        html = html.replace('</head>', CLARITY_SNIPPET % cid + '</head>', 1)
+    gas = cfg.get('gas_click_url', '')
+    if gas:
+        html = html.replace('</head>', BEACON_SNIPPET % gas + '</head>', 1)
+    return html
+
+
 def main():
     only = sys.argv[1] if len(sys.argv) > 1 else None
     tpl = open(f'{BASE}/template/article.html', encoding='utf-8').read()
@@ -109,14 +152,14 @@ def main():
     for d in items:
         if only and d['slug'] != only:
             continue
-        html = render_article(d, tpl)
+        html = inject_clarity(render_article(d, tpl))
         os.makedirs(f'{BASE}/{d["slug"]}', exist_ok=True)
         with open(f'{BASE}/{d["slug"]}/index.html', 'w', encoding='utf-8') as f:
             f.write(html)
         ok &= lint(d['slug'], html)
         print(f'  built: {d["slug"]}/index.html')
 
-    top = render_top(items, top_tpl)
+    top = inject_clarity(render_top(items, top_tpl))
     with open(f'{BASE}/index.html', 'w', encoding='utf-8') as f:
         f.write(top)
     ok &= lint('index', top)
