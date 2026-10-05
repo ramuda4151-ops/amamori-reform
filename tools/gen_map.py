@@ -121,9 +121,9 @@ if __name__ == '__main__':
         print(f'map_{slug}.svg ({render(slug, city, pref)}B)')
         sys.exit()
     for p in sorted(glob.glob(f'{BASE}/data/*.json')):
-        if p.endswith('notion_db.json'):
-            continue
         d = json.load(open(p, encoding='utf-8'))
+        if not isinstance(d, dict) or 'slug' not in d:
+            continue
         if d['slug'] not in CITY_COORDS:
             print('SKIP (座標なし):', d['slug'])
             continue

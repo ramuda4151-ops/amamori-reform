@@ -27,10 +27,11 @@ def ja_date(iso):
 def load_data():
     items = []
     for p in sorted(glob.glob(f'{BASE}/data/*.json')):
-        if p.endswith('notion_db.json'):
-            continue
         with open(p, encoding='utf-8') as f:
-            items.append(json.load(f))
+            d = json.load(f)
+        if not isinstance(d, dict) or 'slug' not in d:
+            continue  # queue.json / notion_db.json 等はスキップ
+        items.append(d)
     # order（小さいほど上）→ 公開日で整列
     items.sort(key=lambda d: (d.get('order', 999), d['date_pub'], d['slug']))
     return items
