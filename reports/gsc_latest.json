@@ -1,0 +1,606 @@
+{
+ "generated": "2026-10-05",
+ "range7": [
+  "2026-09-27",
+  "2026-10-03"
+ ],
+ "range28": [
+  "2026-09-06",
+  "2026-10-03"
+ ],
+ "pages_7d": [
+  {
+   "keys": [
+    "/chiba/"
+   ],
+   "imp": 17,
+   "clicks": 0,
+   "pos": 79.4
+  },
+  {
+   "keys": [
+    "/fujisawa/"
+   ],
+   "imp": 17,
+   "clicks": 0,
+   "pos": 43.7
+  },
+  {
+   "keys": [
+    "/funabashi/"
+   ],
+   "imp": 7,
+   "clicks": 0,
+   "pos": 47
+  },
+  {
+   "keys": [
+    "/hachioji/"
+   ],
+   "imp": 14,
+   "clicks": 0,
+   "pos": 52.9
+  },
+  {
+   "keys": [
+    "/machida/"
+   ],
+   "imp": 3,
+   "clicks": 0,
+   "pos": 51.7
+  },
+  {
+   "keys": [
+    "/saitama/"
+   ],
+   "imp": 5,
+   "clicks": 0,
+   "pos": 44.4
+  },
+  {
+   "keys": [
+    "/sendai/"
+   ],
+   "imp": 2,
+   "clicks": 0,
+   "pos": 2.5
+  }
+ ],
+ "pages_28d": [
+  {
+   "keys": [
+    "/machida/"
+   ],
+   "imp": 23,
+   "clicks": 1,
+   "pos": 31.7
+  },
+  {
+   "keys": [
+    "/chiba/"
+   ],
+   "imp": 45,
+   "clicks": 0,
+   "pos": 74.5
+  },
+  {
+   "keys": [
+    "/fujisawa/"
+   ],
+   "imp": 38,
+   "clicks": 0,
+   "pos": 43.1
+  },
+  {
+   "keys": [
+    "/funabashi/"
+   ],
+   "imp": 14,
+   "clicks": 0,
+   "pos": 38.2
+  },
+  {
+   "keys": [
+    "/hachioji/"
+   ],
+   "imp": 31,
+   "clicks": 0,
+   "pos": 45.2
+  },
+  {
+   "keys": [
+    "/saitama/"
+   ],
+   "imp": 22,
+   "clicks": 0,
+   "pos": 34.5
+  },
+  {
+   "keys": [
+    "/sendai/"
+   ],
+   "imp": 9,
+   "clicks": 0,
+   "pos": 17.3
+  }
+ ],
+ "queries_28d": [
+  {
+   "keys": [
+    "/chiba/",
+    "アメトメ"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 18
+  },
+  {
+   "keys": [
+    "/chiba/",
+    "アメトメ 電話 番号"
+   ],
+   "imp": 2,
+   "clicks": 0,
+   "pos": 11
+  },
+  {
+   "keys": [
+    "/chiba/",
+    "八街 火災"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 25
+  },
+  {
+   "keys": [
+    "/chiba/",
+    "千葉市 屋根修理 業者 資格"
+   ],
+   "imp": 2,
+   "clicks": 0,
+   "pos": 94.5
+  },
+  {
+   "keys": [
+    "/chiba/",
+    "千葉市 屋根修理 雨漏り"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 98
+  },
+  {
+   "keys": [
+    "/chiba/",
+    "千葉市 屋根修理 雨漏り コーキング"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 95
+  },
+  {
+   "keys": [
+    "/chiba/",
+    "千葉市 瓦修理 業者 探し方"
+   ],
+   "imp": 2,
+   "clicks": 0,
+   "pos": 98.5
+  },
+  {
+   "keys": [
+    "/chiba/",
+    "千葉市 瓦修理 業者 資格"
+   ],
+   "imp": 2,
+   "clicks": 0,
+   "pos": 89.5
+  },
+  {
+   "keys": [
+    "/chiba/",
+    "千葉市 雨漏り修理"
+   ],
+   "imp": 2,
+   "clicks": 0,
+   "pos": 100
+  },
+  {
+   "keys": [
+    "/chiba/",
+    "千葉市 雨漏り修理 ベランダ"
+   ],
+   "imp": 2,
+   "clicks": 0,
+   "pos": 96
+  },
+  {
+   "keys": [
+    "/chiba/",
+    "千葉市 雨漏り修理 屋根 リスク"
+   ],
+   "imp": 2,
+   "clicks": 0,
+   "pos": 74
+  },
+  {
+   "keys": [
+    "/chiba/",
+    "千葉市 雨漏り修理 屋根 原因"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 90
+  },
+  {
+   "keys": [
+    "/chiba/",
+    "千葉市 雨漏り修理 屋根 放置"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 70
+  },
+  {
+   "keys": [
+    "/chiba/",
+    "千葉市 雨漏り修理 屋根 材料"
+   ],
+   "imp": 2,
+   "clicks": 0,
+   "pos": 96.5
+  },
+  {
+   "keys": [
+    "/chiba/",
+    "千葉市 雨漏り修理 屋根 種類"
+   ],
+   "imp": 2,
+   "clicks": 0,
+   "pos": 96.5
+  },
+  {
+   "keys": [
+    "/chiba/",
+    "千葉市 雨漏り修理 業者"
+   ],
+   "imp": 2,
+   "clicks": 0,
+   "pos": 97.5
+  },
+  {
+   "keys": [
+    "/chiba/",
+    "千葉市 雨漏り修理 業者 専門"
+   ],
+   "imp": 2,
+   "clicks": 0,
+   "pos": 93
+  },
+  {
+   "keys": [
+    "/chiba/",
+    "千葉市 雨漏り修理 業者 種類"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 94
+  },
+  {
+   "keys": [
+    "/chiba/",
+    "千葉県 雨漏り修理業者 比較"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 87
+  },
+  {
+   "keys": [
+    "/chiba/",
+    "雨漏り 修理 千葉"
+   ],
+   "imp": 7,
+   "clicks": 0,
+   "pos": 103
+  },
+  {
+   "keys": [
+    "/fujisawa/",
+    "藤沢 雨漏り修理"
+   ],
+   "imp": 13,
+   "clicks": 0,
+   "pos": 49.7
+  },
+  {
+   "keys": [
+    "/fujisawa/",
+    "藤沢市 雨樋修理"
+   ],
+   "imp": 2,
+   "clicks": 0,
+   "pos": 40
+  },
+  {
+   "keys": [
+    "/fujisawa/",
+    "藤沢市 雨漏り"
+   ],
+   "imp": 2,
+   "clicks": 0,
+   "pos": 54.5
+  },
+  {
+   "keys": [
+    "/fujisawa/",
+    "雨漏り 専門 業者"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 11
+  },
+  {
+   "keys": [
+    "/fujisawa/",
+    "雨漏り 藤沢"
+   ],
+   "imp": 11,
+   "clicks": 0,
+   "pos": 51.6
+  },
+  {
+   "keys": [
+    "/fujisawa/",
+    "雨漏り 藤沢市"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 52
+  },
+  {
+   "keys": [
+    "/fujisawa/",
+    "雨漏り修理 藤沢市"
+   ],
+   "imp": 2,
+   "clicks": 0,
+   "pos": 12.5
+  },
+  {
+   "keys": [
+    "/fujisawa/",
+    "雨漏れ 業者"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 12
+  },
+  {
+   "keys": [
+    "/funabashi/",
+    "屋根修理 船橋"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 89
+  },
+  {
+   "keys": [
+    "/funabashi/",
+    "船橋市 雨漏り"
+   ],
+   "imp": 4,
+   "clicks": 0,
+   "pos": 74.8
+  },
+  {
+   "keys": [
+    "/funabashi/",
+    "雨漏り工事 船橋市"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 72
+  },
+  {
+   "keys": [
+    "/hachioji/",
+    "アメトメ 口コミ"
+   ],
+   "imp": 3,
+   "clicks": 0,
+   "pos": 20.3
+  },
+  {
+   "keys": [
+    "/hachioji/",
+    "アメトメ 電話 番号"
+   ],
+   "imp": 4,
+   "clicks": 0,
+   "pos": 9.5
+  },
+  {
+   "keys": [
+    "/hachioji/",
+    "アメニモマケズ工務店 レビュー"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 31
+  },
+  {
+   "keys": [
+    "/hachioji/",
+    "八王子 屋根塗装 雨漏り"
+   ],
+   "imp": 4,
+   "clicks": 0,
+   "pos": 88.5
+  },
+  {
+   "keys": [
+    "/hachioji/",
+    "八王子 屋根工事 業者"
+   ],
+   "imp": 2,
+   "clicks": 0,
+   "pos": 46.5
+  },
+  {
+   "keys": [
+    "/hachioji/",
+    "八王子 雨漏り 修理"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 54
+  },
+  {
+   "keys": [
+    "/hachioji/",
+    "八王子市 屋根修理"
+   ],
+   "imp": 2,
+   "clicks": 0,
+   "pos": 89.5
+  },
+  {
+   "keys": [
+    "/hachioji/",
+    "八王子市 雨漏り修理"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 53
+  },
+  {
+   "keys": [
+    "/hachioji/",
+    "屋根修理 東京都八王子市"
+   ],
+   "imp": 4,
+   "clicks": 0,
+   "pos": 89.5
+  },
+  {
+   "keys": [
+    "/machida/",
+    "アメトメ"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 20
+  },
+  {
+   "keys": [
+    "/machida/",
+    "町田市 雨漏り"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 68
+  },
+  {
+   "keys": [
+    "/machida/",
+    "雨漏り 町田市"
+   ],
+   "imp": 4,
+   "clicks": 0,
+   "pos": 71
+  },
+  {
+   "keys": [
+    "/machida/",
+    "雨漏り修理 町田市"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 64
+  },
+  {
+   "keys": [
+    "/saitama/",
+    "さいたま市 雨漏り修理"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 87
+  },
+  {
+   "keys": [
+    "/saitama/",
+    "アメトメ"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 19
+  },
+  {
+   "keys": [
+    "/saitama/",
+    "アメトメ 口コミ"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 18
+  },
+  {
+   "keys": [
+    "/saitama/",
+    "アメトメ口コミ"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 18
+  },
+  {
+   "keys": [
+    "/saitama/",
+    "雨漏り 修理業者 さいたま市"
+   ],
+   "imp": 5,
+   "clicks": 0,
+   "pos": 86.2
+  },
+  {
+   "keys": [
+    "/saitama/",
+    "雨漏り 業者"
+   ],
+   "imp": 2,
+   "clicks": 0,
+   "pos": 12
+  },
+  {
+   "keys": [
+    "/sendai/",
+    "アメトメ"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 21
+  },
+  {
+   "keys": [
+    "/sendai/",
+    "仙台 雨漏り修理"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 81
+  },
+  {
+   "keys": [
+    "/sendai/",
+    "雨漏り 業者"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 11
+  }
+ ]
+}
