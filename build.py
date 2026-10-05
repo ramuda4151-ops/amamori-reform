@@ -50,6 +50,7 @@ def render_article(d, tpl):
         '{{LPID}}': d['lpid'],
         '{{AREA_WIDE}}': d['area_wide'],
         '{{NEARBY}}': d.get('nearby', '東京近郊'),
+        '{{EXTRA}}': d.get('extra_html', ''),
         '{{DATE_PUB}}': d['date_pub'],
         '{{DATE_MOD}}': d['date_mod'],
         '{{DATE_MOD_JA}}': '最終更新：' + ja_date(d['date_mod']),
