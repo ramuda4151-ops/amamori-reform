@@ -13,9 +13,10 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install cryptography
-      - name: Post daily report to Discord
+      - name: Post daily report to LINE
         env:
           GSC_SA_KEY: ${{ secrets.GSC_SA_KEY }}
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          LINE_GROUP_ID: ${{ secrets.LINE_GROUP_ID }}
           GAS_STATS_URL: ${{ secrets.GAS_STATS_URL }}
         run: python tools/daily_report.py

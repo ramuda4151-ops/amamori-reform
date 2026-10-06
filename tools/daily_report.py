@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""日次SEOレポートをDiscordに投稿する
+"""日次SEOレポートをLINEグループにpushする
 
 データソース:
 - Google Search Console API（サービスアカウント）: 記事別の表示回数・クリック・平均順位
@@ -7,12 +7,15 @@
 
 必要な環境変数:
 - GSC_SA_KEY: サービスアカウントのJSONキー（文字列）
-- DISCORD_WEBHOOK_URL: Discord WebhookのURL
+- LINE_CHANNEL_ACCESS_TOKEN: LINE Messaging APIのチャネルアクセストークン
+- LINE_GROUP_ID: 送信先グループID
 - GAS_STATS_URL: GASウェブアプリのURL（未設定ならLP遷移数はスキップ)
 
 GSCのデータは確定まで2日程度かかるため、2日前(PT基準)のデータを報告する。
+記事一覧は data/*.json から自動取得する（ハードコードしない）。
 """
 import datetime
+import glob
 import json
 import os
 import sys
@@ -21,26 +24,20 @@ import urllib.request
 
 SITE = 'sc-domain:amamori-reform.com'
 DOMAIN = 'https://amamori-reform.com'
+BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-PAGES = {
-    '/': 'トップ',
-    '/machida/': '町田',
-    '/sagamihara/': '相模原',
-    '/yokohama/': '横浜',
-    '/kawasaki/': '川崎',
-    '/fujisawa/': '藤沢',
-    '/yokosuka/': '横須賀',
-    '/saitama/': 'さいたま',
-    '/chiba/': '千葉',
-    '/funabashi/': '船橋',
-    '/hachioji/': '八王子',
-    '/sendai/': '仙台',
-}
-LPID_TO_PATH = {}  # amarefo_machida -> /machida/
-for path in PAGES:
-    slug = path.strip('/')
-    if slug:
-        LPID_TO_PATH[f'amarefo_{slug}'] = path
+
+def load_pages():
+    """data/*.json から {path: 市名} を公開順で返す（トップページ含む）"""
+    arts = []
+    for p in glob.glob(f'{BASE}/data/*.json'):
+        d = json.load(open(p, encoding='utf-8'))
+        if isinstance(d, dict) and 'slug' in d:
+            arts.append((d.get('order', 999), f"/{d['slug']}/", d.get('city', d['slug'])))
+    pages = {'/': 'トップ'}
+    for _, path, city in sorted(arts):
+        pages[path] = city.replace('市', '')
+    return pages
 
 
 def gsc_token(sa_json):
@@ -114,19 +111,29 @@ def gas_counts(gas_url, date_jst):
         return {}
 
 
-def post_discord(webhook, content):
-    body = json.dumps({'content': content}).encode()
-    req = urllib.request.Request(webhook, data=body, method='POST',
-                                 headers={'Content-Type': 'application/json'})
-    urllib.request.urlopen(req)
+def post_line(token, group_id, text):
+    body = json.dumps({
+        'to': group_id,
+        'messages': [{'type': 'text', 'text': text}],
+    }).encode()
+    req = urllib.request.Request(
+        'https://api.line.me/v2/bot/message/push', data=body, method='POST',
+        headers={'Content-Type': 'application/json',
+                 'Authorization': f'Bearer {token}'})
+    with urllib.request.urlopen(req) as r:
+        r.read()
 
 
 def main():
     sa_json = os.environ.get('GSC_SA_KEY')
-    webhook = os.environ.get('DISCORD_WEBHOOK_URL')
+    line_token = os.environ.get('LINE_CHANNEL_ACCESS_TOKEN')
+    line_group = os.environ.get('LINE_GROUP_ID')
     gas_url = os.environ.get('GAS_STATS_URL', '')
-    if not sa_json or not webhook:
-        sys.exit('GSC_SA_KEY / DISCORD_WEBHOOK_URL が未設定です')
+    if not sa_json or not line_token or not line_group:
+        sys.exit('GSC_SA_KEY / LINE_CHANNEL_ACCESS_TOKEN / LINE_GROUP_ID が未設定です')
+
+    pages = load_pages()
+    lpid_to_path = {f"amarefo_{p.strip('/')}": p for p in pages if p != '/'}
 
     today = datetime.date.today()
     gsc_date = (today - datetime.timedelta(days=2)).isoformat()   # GSC確定分
@@ -137,30 +144,46 @@ def main():
     clicks = gas_counts(gas_url, click_date) if gas_url else {}
     lp_by_path = {}
     for lpid, c in clicks.items():
-        path = LPID_TO_PATH.get(lpid)
+        path = lpid_to_path.get(lpid)
         if path:
             lp_by_path[path] = c
 
-    lines = []
-    lines.append(f'**☔ 雨漏りリフォームナビ 日次レポート**')
-    lines.append(f'検索データ: {gsc_date}（GSC確定分・PT基準） / LP遷移: {click_date}（JST）')
-    lines.append('```')
-    lines.append(f'{"記事":　<6}{"表示":>6} {"ｸﾘｯｸ":>5} {"順位":>6} {"LP遷移":>6} {"電話":>4}')
+    # LINEはプレーンテキストのみ（等幅表は崩れるため1記事1行形式）
+    rows = []
+    zeros = []
     t_imp = t_clk = t_lp = t_tel = 0
-    for path, name in PAGES.items():
+    for path, name in pages.items():
         g = gsc.get(path, {})
         c = lp_by_path.get(path, {})
-        imp, clk, pos = g.get('imp', 0), g.get('clicks', 0), g.get('pos', '-')
+        imp, clk = g.get('imp', 0), g.get('clicks', 0)
+        pos = g.get('pos')
         lp, tel = c.get('lp_click', 0), c.get('tel_click', 0)
         t_imp += imp; t_clk += clk; t_lp += lp; t_tel += tel
-        lines.append(f'{name:　<6}{imp:>6} {clk:>5} {str(pos):>6} {lp:>6} {tel:>4}')
-    lines.append('-' * 40)
-    lines.append(f'{"合計":　<6}{t_imp:>6} {t_clk:>5} {"":>6} {t_lp:>6} {t_tel:>4}')
-    lines.append('```')
-    if not gsc:
-        lines.append('※GSCデータがまだありません（新規サイトはデータ反映まで数日かかります）')
+        if imp == 0 and clk == 0 and lp == 0 and tel == 0:
+            zeros.append(name)
+            continue
+        line = f'{name}: 表示{imp}'
+        if pos is not None:
+            line += f' 順位{pos}'
+        if clk:
+            line += f' クリック{clk}'
+        if lp or tel:
+            line += f' LP{lp} 電話{tel}'
+        rows.append(line)
 
-    post_discord(webhook, '\n'.join(lines))
+    lines = ['☔雨漏りリフォームナビ 日次レポート',
+             f'検索: {gsc_date} ／ LP遷移: {click_date}',
+             '']
+    if rows:
+        lines.extend(rows)
+    if zeros:
+        lines.append(f'（表示0: {len(zeros)}ページ）')
+    lines.append('')
+    lines.append(f'合計: 表示{t_imp} クリック{t_clk} LP遷移{t_lp} 電話{t_tel}')
+    if not gsc:
+        lines.append('※GSCデータ未反映（確定まで2日程度かかります）')
+
+    post_line(line_token, line_group, '\n'.join(lines))
     print('posted')
 
 
