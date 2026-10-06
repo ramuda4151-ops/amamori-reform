@@ -1,0 +1,9 @@
+name = "amamori-line-webhook"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+account_id = "f8b4e7dc5f6529ef4a771e2cfd0f73f0"
+workers_dev = true
+
+[[kv_namespaces]]
+binding = "EVENTS"
+id = "d26d64ce93fa497fb838d9e00b74c8e4"
