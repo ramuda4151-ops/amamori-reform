@@ -27,16 +27,21 @@ DOMAIN = 'https://amamori-reform.com'
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
-def load_pages():
-    """data/*.json から {path: 市名} を公開順で返す（トップページ含む）"""
+def load_articles():
+    """data/*.json の記事メタを公開順で返す"""
     arts = []
     for p in glob.glob(f'{BASE}/data/*.json'):
         d = json.load(open(p, encoding='utf-8'))
         if isinstance(d, dict) and 'slug' in d:
-            arts.append((d.get('order', 999), f"/{d['slug']}/", d.get('city', d['slug'])))
+            arts.append(d)
+    return sorted(arts, key=lambda d: d.get('order', 999))
+
+
+def load_pages(arts):
+    """{path: 市名} を公開順で返す（トップページ含む）"""
     pages = {'/': 'トップ'}
-    for _, path, city in sorted(arts):
-        pages[path] = city.replace('市', '')
+    for d in arts:
+        pages[f"/{d['slug']}/"] = d.get('city', d['slug']).replace('市', '')
     return pages
 
 
@@ -132,12 +137,19 @@ def main():
     if not sa_json or not line_token or not line_group:
         sys.exit('GSC_SA_KEY / LINE_CHANNEL_ACCESS_TOKEN / LINE_GROUP_ID が未設定です')
 
-    pages = load_pages()
+    arts = load_articles()
+    pages = load_pages(arts)
     lpid_to_path = {f"amarefo_{p.strip('/')}": p for p in pages if p != '/'}
 
-    today = datetime.date.today()
+    # Actionsの実行環境はUTCのため、日付はJST基準で揃える
+    today = datetime.datetime.now(
+        datetime.timezone(datetime.timedelta(hours=9))).date()
     gsc_date = (today - datetime.timedelta(days=2)).isoformat()   # GSC確定分
     click_date = (today - datetime.timedelta(days=1)).isoformat() # クリックは昨日分
+
+    # 今日公開した記事（date_pub がJST今日のもの）
+    new_arts = [(d.get('city', d['slug']), f"{DOMAIN}/{d['slug']}/")
+                for d in arts if d.get('date_pub') == today.isoformat()]
 
     token = gsc_token(sa_json)
     gsc = gsc_query(token, gsc_date)
@@ -171,9 +183,14 @@ def main():
             line += f' LP{lp} 電話{tel}'
         rows.append(line)
 
-    lines = ['☔雨漏りリフォームナビ 日次レポート',
-             f'検索: {gsc_date} ／ LP遷移: {click_date}',
-             '']
+    lines = ['☔雨漏りリフォームナビ 日次レポート']
+    if new_arts:
+        lines.append('')
+        lines.append(f'🆕 今日公開した記事（{len(new_arts)}件）')
+        for city, url in new_arts:
+            lines.append(f'・{city} {url}')
+    lines.append('')
+    lines.append(f'📊 検索: {gsc_date} ／ LP遷移: {click_date}')
     if rows:
         lines.extend(rows)
     if zeros:
