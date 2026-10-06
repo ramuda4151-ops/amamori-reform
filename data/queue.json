@@ -1,29 +1,5 @@
 [
  {
-  "slug": "kawaguchi",
-  "city": "川口市",
-  "pref": "埼玉県",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 2
- },
- {
-  "slug": "kashiwa",
-  "city": "柏市",
-  "pref": "千葉県",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 2
- },
- {
-  "slug": "matsudo",
-  "city": "松戸市",
-  "pref": "千葉県",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 2
- },
- {
   "slug": "kawagoe",
   "city": "川越市",
   "pref": "埼玉県",

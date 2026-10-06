@@ -1,0 +1,24 @@
+{
+ "slug": "matsudo",
+ "city": "松戸市",
+ "pref": "千葉県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_matsudo",
+ "area_wide": "関東全域",
+ "nearby": "千葉県内",
+ "consumer_center": "松戸市消費生活センター",
+ "date_pub": "2026-10-06",
+ "date_mod": "2026-10-06",
+ "order": 14,
+ "intro_local": "松戸市は江戸川沿いの低地から台地にかけて住宅地が広がり、都心への近さから昭和期以降に宅地化が進んだベッドタウン。台風や集中豪雨の際には強風による屋根材の損傷や、経年劣化した住宅からの雨漏り相談が多く寄せられるエリアです。",
+ "companies": [
+  "アメトメ",
+  "ケーアイ美フォーム",
+  "大橋瓦店",
+  "優塗装",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>ケーアイ美フォーム</td>\n            <td>9:00〜18:00<br>（火・水曜定休）</td>\n            <td>松戸市・市川市中心</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>大橋瓦店</td>\n            <td>8:00〜18:00</td>\n            <td>松戸市中心</td>\n            <td>屋根工事専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>優塗装</td>\n            <td>10:00〜18:00<br>（年中無休）</td>\n            <td>松戸市中心に関東エリア</td>\n            <td>塗装・防水店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>ケーアイ美フォーム｜創業1993年・2,000件超の塗装・リフォーム店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_kibiform.jpg\" alt=\"ケーアイ美フォーム公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：ケーアイ美フォーム 公式サイト</figcaption>\n      </figure>\n      <p>1993年創業、松戸市・市川市を中心に<span class=\"mk\">2,000件以上の塗り替え実績</span>を持つ地域密着店。「すべてのお客様に無料で診断・お見積りを行っております」と明記し、雨漏り修繕・防水工事にも対応しています。</p>\n      <ul class=\"check\">\n        <li>現地調査・診断・お見積もり無料</li>\n        <li>創業1993年・塗り替え実績2,000件以上</li>\n        <li>受付9:00〜18:00（火・水曜定休）</li>\n      </ul>\n      <p>雨漏り修繕とあわせて外壁・屋根塗装も相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://ki-biform.com/\" target=\"_blank\" rel=\"nofollow noopener\">ケーアイ美フォームの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>大橋瓦店｜松戸市密着の瓦屋根工事専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_ohashikawara.jpg\" alt=\"大橋瓦店公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：有限会社大橋瓦店 公式サイト</figcaption>\n      </figure>\n      <p>松戸市を中心に対応する瓦屋根・雨どい工事の専門店。<span class=\"mk\">「相談や見積もりはいつでも無料」</span>と明記しており、瓦のズレや雨どいの詰まりといった部分的な修理にも対応しています。</p>\n      <ul class=\"check\">\n        <li>相談・お見積もり無料</li>\n        <li>瓦屋根工事・雨どい工事の専門店</li>\n        <li>受付8:00〜18:00</li>\n      </ul>\n      <p>和瓦屋根や雨どいのトラブルを専門に見てもらいたい人に。</p>\n      <p class=\"ext-link\"><a href=\"https://www.ohashikwra.net/\" target=\"_blank\" rel=\"nofollow noopener\">大橋瓦店の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>優塗装｜松戸市中心に関東エリア対応の塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_sugurepaint.jpg\" alt=\"優塗装公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：優塗装 公式サイト</figcaption>\n      </figure>\n      <p>松戸市を中心に関東エリアへ対応する職人直営の塗装専門店。<span class=\"mk\">調査・診断・お見積りは無料</span>で、自社工事保証書を発行するなど施工後のフォローも明記しています。</p>\n      <ul class=\"check\">\n        <li>調査・診断・お見積もり無料</li>\n        <li>自社工事保証書を発行</li>\n        <li>受付10:00〜18:00・年中無休</li>\n      </ul>\n      <p>外壁やベランダ防水まわりの劣化診断から頼みたい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.sugurepaint.com/\" target=\"_blank\" rel=\"nofollow noopener\">優塗装の公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}
