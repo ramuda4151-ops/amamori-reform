@@ -1,29 +1,5 @@
 [
  {
-  "slug": "kawagoe",
-  "city": "川越市",
-  "pref": "埼玉県",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 2
- },
- {
-  "slug": "koriyama",
-  "city": "郡山市",
-  "pref": "福島県",
-  "region": "東北",
-  "lp": "lp3",
-  "batch": 2
- },
- {
-  "slug": "tokorozawa",
-  "city": "所沢市",
-  "pref": "埼玉県",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 3
- },
- {
   "slug": "koshigaya",
   "city": "越谷市",
   "pref": "埼玉県",

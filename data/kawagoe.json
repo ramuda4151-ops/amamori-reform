@@ -1,0 +1,24 @@
+{
+ "slug": "kawagoe",
+ "city": "川越市",
+ "pref": "埼玉県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_kawagoe",
+ "area_wide": "関東全域",
+ "nearby": "埼玉県内",
+ "consumer_center": "川越市消費生活センター",
+ "date_pub": "2026-10-07",
+ "date_mod": "2026-10-07",
+ "order": 15,
+ "intro_local": "川越市は「蔵造りの町並み」で知られる歴史あるエリアで、令和元年の台風19号では市内を流れる入間川・小畔川・越辺川などで氾濫の危険が生じ、堤防決壊を伴う大規模な浸水被害も発生しました。台風や豪雨をきっかけに屋根や外壁の劣化が進み、雨漏りに気づくケースが見られます。",
+ "companies": [
+  "アメトメ",
+  "屋根将軍",
+  "インフィニットコーポレーション",
+  "ホソダ",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>屋根将軍</td>\n            <td>9:00〜18:00<br>（火・水定休）</td>\n            <td>川越市中心に埼玉県全域</td>\n            <td>屋根工事専門店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>インフィニットコーポレーション</td>\n            <td>川越市大字下広谷に所在</td>\n            <td>川越市中心</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>ホソダ</td>\n            <td>8:00〜20:00<br>（日曜定休）</td>\n            <td>所沢市中心に埼玉県西部</td>\n            <td>塗装・防水専門店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>屋根将軍｜ドローン無料点検も行う自社施工の屋根専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_yaneshogun.jpg\" alt=\"屋根将軍公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：屋根将軍（株式会社マルケイホーム）公式サイト</figcaption>\n      </figure>\n      <p>川越市的場に拠点を置き、川越市を中心に埼玉県内で活動する屋根工事の専門店。<span class=\"mk\">屋根の点検・劣化診断・お見積りをすべて無料</span>で行っており、ドローンを使った無料点検にも対応しています。</p>\n      <ul class=\"check\">\n        <li>無料点検・劣化診断・お見積り、自社施工で中間マージンなし</li>\n        <li>工事内容に応じて最長15年保証（塗膜保証書を発行）</li>\n        <li>受付9:00〜18:00・火水定休、問い合わせは24時間受付</li>\n      </ul>\n      <p>屋根の葺き替えやカバー工法までまとめて相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://yane-shogun.com/\" target=\"_blank\" rel=\"nofollow noopener\">屋根将軍の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>インフィニットコーポレーション｜特許工法の雨漏り検査に対応する地域密着リフォーム店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_infinite.jpg\" alt=\"インフィニットコーポレーション公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社インフィニットコーポレーション 公式サイト</figcaption>\n      </figure>\n      <p>川越市大字下広谷に拠点を置くリフォーム会社。雨漏り修理・屋根工事・外壁塗装・防水工事まで手がけており、<span class=\"mk\">全国雨漏検査協会の会員として特許工法を用いた雨漏り検査</span>を実施しています。</p>\n      <ul class=\"check\">\n        <li>お見積りは無料</li>\n        <li>全国雨漏検査協会会員・特許工法による雨漏り検査に対応</li>\n        <li>工事内容に応じて1年保証</li>\n      </ul>\n      <p>「雨漏りの原因をきちんと特定してから直したい」という人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.infinite-boo.com/\" target=\"_blank\" rel=\"nofollow noopener\">インフィニットコーポレーションの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>ホソダ｜1級塗装技能士が在籍する職人直営の塗装・防水専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_hosoda.jpg\" alt=\"ホソダ公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社ホソダ 公式サイト</figcaption>\n      </figure>\n      <p>所沢市三ケ島に本社を置き、川越市を含む埼玉県西部に対応する塗装専門店。<span class=\"mk\">代表が1級塗装技能士の資格を持ち、複数の有資格者が在籍</span>する職人直営体制で、中間マージンを排した施工を行っています。</p>\n      <ul class=\"check\">\n        <li>見積もりは無料</li>\n        <li>代表は1級塗装技能士、複数の有資格者が在籍</li>\n        <li>受付8:00〜20:00・日曜定休</li>\n      </ul>\n      <p>外壁や防水まわりまで含めてプロの診断を受けたい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://hosodapaint.co.jp/\" target=\"_blank\" rel=\"nofollow noopener\">ホソダの公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}

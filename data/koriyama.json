@@ -1,0 +1,24 @@
+{
+ "slug": "koriyama",
+ "city": "郡山市",
+ "pref": "福島県",
+ "region": "東北",
+ "lp": "lp3",
+ "lpid": "amarefo_koriyama",
+ "area_wide": "東北全域",
+ "nearby": "福島県内",
+ "consumer_center": "郡山市市民部セーフコミュニティ課消費生活センター",
+ "date_pub": "2026-10-07",
+ "date_mod": "2026-10-07",
+ "order": 16,
+ "intro_local": "郡山市は内陸性気候で冬季の寒暖差が大きく、総務省の住宅・土地統計調査では空き家率13.95%・賃貸用住宅の空き家率20.50%という数値が報告されています。寒暖差や経年劣化による屋根材の傷みから雨漏りに気づくケースが見られます。",
+ "companies": [
+  "アメトメ",
+  "遠藤板金",
+  "郡山塗装（プロタイムズ郡山店）",
+  "佐久間防水工業",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>遠藤板金</td>\n            <td>8:00〜18:00<br>（日・祝定休）</td>\n            <td>福島県内全域</td>\n            <td>屋根工事・板金専門店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>郡山塗装（プロタイムズ郡山店）</td>\n            <td>9:00〜18:00</td>\n            <td>郡山市中心に福島県内</td>\n            <td>塗装・リフォーム店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>佐久間防水工業</td>\n            <td>郡山市富久山町に所在</td>\n            <td>郡山市中心に須賀川市・田村市・本宮市など</td>\n            <td>防水工事専門店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>遠藤板金｜福島県内全域に対応する屋根工事・板金専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_endobankin.jpg\" alt=\"遠藤板金公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：有限会社遠藤板金 公式サイト</figcaption>\n      </figure>\n      <p>郡山市片平町に拠点を置く屋根工事・板金工事の専門店。<span class=\"mk\">雨漏り修理や屋根工事・板金工事の現地調査とお見積りを無料</span>で行っており、KMEW ROOGAショップ登録施工店・D's ROOFING認定施工店として各種屋根材に対応しています。</p>\n      <ul class=\"check\">\n        <li>現地調査・お見積り無料</li>\n        <li>KMEW ROOGAショップ登録施工店・D's ROOFING認定施工店</li>\n        <li>受付8:00〜18:00・日祝定休（緊急時は対応可能）</li>\n      </ul>\n      <p>屋根材の種類を問わず相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://endo-bankin.co.jp/amamori/\" target=\"_blank\" rel=\"nofollow noopener\">遠藤板金の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>郡山塗装（プロタイムズ郡山店）｜国家資格塗装技能士92名在籍の大手塗装店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_koriyamatoso.jpg\" alt=\"郡山塗装（プロタイムズ郡山店）公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社郡山塗装（プロタイムズ郡山店）公式サイト</figcaption>\n      </figure>\n      <p>郡山市喜久田町に本社を置く塗装・防水・リフォームの総合店。<span class=\"mk\">国家資格を持つ塗装技能士92名が在籍</span>し、雨漏り修理を含む屋根・外壁塗装の累計実績は2.3万件に上ります。</p>\n      <ul class=\"check\">\n        <li>無料診断・無料見積もりに対応</li>\n        <li>国家資格塗装技能士92名在籍、自社職人64名以上</li>\n        <li>受付9:00〜18:00</li>\n      </ul>\n      <p>実績の多さと体制の厚さを重視したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://fukushima-toso.com/\" target=\"_blank\" rel=\"nofollow noopener\">郡山塗装（プロタイムズ郡山店）の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>佐久間防水工業｜創業50年超の防水工事専門会社</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_sakumabousui.jpg\" alt=\"佐久間防水工業公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：有限会社佐久間防水工業 公式サイト</figcaption>\n      </figure>\n      <p>昭和44年創業、郡山市富久山町に拠点を置く防水工事の専門会社。屋上防水・ベランダ防水から雨漏り応急修理まで幅広く対応し、<span class=\"mk\">無料点検でプロの視点から状態を診断</span>してくれます。</p>\n      <ul class=\"check\">\n        <li>無料点検に対応</li>\n        <li>昭和44年創業の防水工事専門会社</li>\n        <li>屋上防水・ベランダ防水・シーリング工事まで幅広く対応</li>\n      </ul>\n      <p>ベランダや屋上からの雨漏りが疑わしいならここ。</p>\n      <p class=\"ext-link\"><a href=\"https://sakumabousui.jp/bousuitenken/\" target=\"_blank\" rel=\"nofollow noopener\">佐久間防水工業の公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}
