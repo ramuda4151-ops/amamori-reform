@@ -31,7 +31,11 @@
 ```
 python3 tools/screenshot.py site_<業者名ローマ字>=<公式サイトURL> ×3社分
 ```
-（要: playwright + chromium。未導入なら `pip install playwright && playwright install chromium`）
+- 要: playwright + chromium。クラウド実行環境では `/opt/pw-browsers` のプリインストール版に合わせ
+  `pip install playwright==1.56.0`（`playwright install` は不要）。ローカルは `pip install playwright && playwright install chromium`
+- ChromiumがTLS再終端プロキシ等で外部サイトに到達できない場合、スクリプトが自動で
+  mShots API（サーバーサイドスクショ）にフォールバックする。TLS検証の無効化は試みないこと
+- 撮影後、`img/site_*.jpg` が10KB以上で生成されているか確認する
 
 ### 3. data/<slug>.json 作成
 
