@@ -1,0 +1,24 @@
+{
+ "slug": "hiratsuka",
+ "city": "平塚市",
+ "pref": "神奈川県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_hiratsuka",
+ "area_wide": "関東全域",
+ "nearby": "東京近郊",
+ "consumer_center": "平塚市消費生活センター",
+ "date_pub": "2026-10-08",
+ "date_mod": "2026-10-08",
+ "order": 19,
+ "intro_local": "平塚市は相模川・金目川の下流に広がる平野部にあり、南は相模湾に面する温暖な地域ですが、台風は例年7〜9月に接近・上陸しやすく、過去には金目川水系の内水氾濫による浸水被害も発生しています。戦後復興期に住宅地が形成された経緯もあり、築年数の経った戸建てで屋根や外壁の劣化による雨漏りの相談が見られます。",
+ "companies": [
+  "アメトメ",
+  "株式会社いらか",
+  "有限会社相馬工業",
+  "株式会社ユミザインテック平塚",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>株式会社いらか</td>\n            <td>8:00〜17:00<br>（日曜・祝日定休）</td>\n            <td>平塚市中心に茅ヶ崎・藤沢・鎌倉など</td>\n            <td>屋根工事店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>有限会社相馬工業</td>\n            <td>8:00〜18:00<br>（土日も対応）</td>\n            <td>平塚市・茅ヶ崎市中心に湘南地域</td>\n            <td>塗装・防水専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>株式会社ユミザインテック平塚</td>\n            <td>9:00〜18:00</td>\n            <td>平塚市中心に神奈川県（湘南エリア）</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>株式会社いらか｜屋根歴23年の代表が直接対応する湘南の屋根工事会社</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_iraka.jpg\" alt=\"株式会社いらか公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社いらか公式サイト</figcaption>\n      </figure>\n      <p>平塚市北豊田に本社を置き、「神奈川・湘南で80年以上」の歴史を掲げる屋根工事会社。代表自身が<span class=\"mk\">屋根歴23年・国家資格を持つ職人</span>で、屋根のドローン点検にも対応しています。</p>\n      <ul class=\"check\">\n        <li>見積もりは無料（公式サイトで明記）</li>\n        <li>代表は屋根歴23年の国家資格保有者</li>\n        <li>受付8:00〜17:00・日曜・祝日定休</li>\n      </ul>\n      <p>屋根専門の目線でじっくり相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.iraka-yane.com/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社いらかの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>有限会社相馬工業｜創業49年・施工棟数4,000棟超の塗装・防水専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_souma.jpg\" alt=\"有限会社相馬工業 公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：有限会社相馬工業 公式サイト</figcaption>\n      </figure>\n      <p>平塚市纒に本社を置き、湘南エリアで創業49年、<span class=\"mk\">累計施工棟数4,000棟超</span>の実績を持つ塗装・防水の専門店。一級塗装技能士が現場管理を担い、施工後1〜10年の定期点検を行っています。</p>\n      <ul class=\"check\">\n        <li>家屋診断・お見積りは無料</li>\n        <li>創業49年・累計施工棟数4,000棟超</li>\n        <li>受付8:00〜18:00・土日も対応</li>\n      </ul>\n      <p>老舗の実績と手厚いアフター点検を重視したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.souma-kougyou.com/\" target=\"_blank\" rel=\"nofollow noopener\">有限会社相馬工業の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>株式会社ユミザインテック平塚｜雨漏り診断士が在籍するドローン点検対応のリフォーム会社</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_yumiza.jpg\" alt=\"株式会社ユミザインテック平塚 公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社ユミザインテック平塚 公式サイト</figcaption>\n      </figure>\n      <p>平塚市根坂間に拠点を置き、湘南エリアの雨漏り相談に対応するリフォーム会社。<span class=\"mk\">雨漏り診断士が在籍し、ドローンによる屋根点検・空中撮影</span>にも対応しています。</p>\n      <ul class=\"check\">\n        <li>出張見積りは無料（公式FAQで明記）</li>\n        <li>雨漏り診断士が在籍</li>\n        <li>受付9:00〜18:00</li>\n      </ul>\n      <p>ドローンでの屋根点検から相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://yumiza-hiratsuka.jp/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社ユミザインテック平塚の公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}

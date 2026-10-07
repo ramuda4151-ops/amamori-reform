@@ -1,0 +1,24 @@
+{
+ "slug": "chigasaki",
+ "city": "茅ヶ崎市",
+ "pref": "神奈川県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_chigasaki",
+ "area_wide": "関東全域",
+ "nearby": "東京近郊",
+ "consumer_center": "茅ヶ崎市消費生活センター",
+ "date_pub": "2026-10-08",
+ "date_mod": "2026-10-08",
+ "order": 20,
+ "intro_local": "茅ヶ崎市は海岸部の砂丘と丘陵が混在する地形で、市内一戸建ての7割以上が昭和56年以前の旧耐震基準で建てられているという調査結果もあるエリア。令和元年東日本台風では相模川氾濫の危険から避難指示が出されるなど、台風や豪雨の影響を受けやすく、築年数の経った住宅では屋根・外壁の劣化による雨漏りに注意が必要です。",
+ "companies": [
+  "アメトメ",
+  "株式会社グリーン・パトロール",
+  "スズモト建築プロフェッショナルグループ株式会社",
+  "株式会社住まいDesign",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>株式会社グリーン・パトロール</td>\n            <td>10:00〜17:00<br>（土日祝定休）</td>\n            <td>茅ヶ崎市中心に湘南・神奈川県全域</td>\n            <td>塗装・防水専門店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>スズモト建築プロフェッショナルグループ</td>\n            <td>茅ヶ崎市柳島に本社</td>\n            <td>茅ヶ崎市・藤沢市・寒川町</td>\n            <td>リフォーム店<br>（屋根工事も対応）</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>株式会社住まいDesign（すまいるーふ）</td>\n            <td>フリーダイヤルで受付</td>\n            <td>茅ヶ崎市を含む関東・関西・沖縄</td>\n            <td>屋根工事専門店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>株式会社グリーン・パトロール｜創業1900年・地元湘南で1万5千件超の施工実績</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_greenpatrol.jpg\" alt=\"株式会社グリーン・パトロール 公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社グリーン・パトロール 公式サイト</figcaption>\n      </figure>\n      <p>茅ヶ崎市中海岸に本社を置き、創業1900年・<span class=\"mk\">地元湘南で1万5千件以上の施工実績</span>を持つ老舗の塗装・防水会社。雨漏り診断士などの資格者が屋根・外壁の無料診断を行っています。</p>\n      <ul class=\"check\">\n        <li>ご相談・お見積りは無料</li>\n        <li>創業1900年、地元湘南で1万5千件以上の施工実績</li>\n        <li>受付10:00〜17:00・土日祝定休</li>\n      </ul>\n      <p>老舗の安定感を重視したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.green-patrol.co.jp/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社グリーン・パトロールの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>スズモト建築プロフェッショナルグループ｜施工実績4,000件超・365日全額返金保証</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_suzumoto.jpg\" alt=\"スズモト建築プロフェッショナルグループ株式会社 公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：スズモト建築プロフェッショナルグループ株式会社 公式サイト</figcaption>\n      </figure>\n      <p>茅ヶ崎市柳島に本社を置き、平成元年創業・<span class=\"mk\">施工実績4,000件以上</span>の職人直営リフォーム会社。自社の塗装職人・大工が施工し、施工後365日間の全額返金保証を掲げています。</p>\n      <ul class=\"check\">\n        <li>お見積りは無料</li>\n        <li>施工実績4,000件以上、施工後365日間の全額返金保証</li>\n        <li>フリーダイヤルで電話受付（0120-936-941）</li>\n      </ul>\n      <p>手厚い保証を重視したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://suzumoto-reform.jp/\" target=\"_blank\" rel=\"nofollow noopener\">スズモト建築プロフェッショナルグループの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>株式会社住まいDesign（すまいるーふ）｜「生涯雨漏り保証」を掲げる完全自社施工の屋根専門会社</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_sumairoof.jpg\" alt=\"株式会社住まいDesign（すまいるーふ）公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社住まいDesign「すまいるーふ」公式サイト</figcaption>\n      </figure>\n      <p>完全自社施工・直接契約を掲げる屋根工事の専門会社。<span class=\"mk\">「生涯雨漏り保証」</span>（諸条件あり）を打ち出しており、新築約1,000棟・リフォーム約500棟の実績があります。</p>\n      <ul class=\"check\">\n        <li>お見積りは無料</li>\n        <li>生涯雨漏り保証（諸条件あり）</li>\n        <li>フリーダイヤルで電話受付（0120-480-082）</li>\n      </ul>\n      <p>保証の手厚さを重視したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://smyroof.co.jp/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社住まいDesign（すまいるーふ）の公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}
