@@ -1,0 +1,25 @@
+{
+ "slug": "iwaki",
+ "city": "いわき市",
+ "pref": "福島県",
+ "region": "東北",
+ "lp": "lp3",
+ "lpid": "amarefo_iwaki",
+ "area_wide": "東北全域",
+ "nearby": "福島県内",
+ "consumer_center": "いわき市消費生活センター",
+ "date_pub": "2026-10-08",
+ "date_mod": "2026-10-08",
+ "order": 21,
+ "intro_local": "いわき市は太平洋に面した浜通り地域の中心都市で、2019年の台風19号（令和元年東日本台風）では夏井川などの氾濫により床上浸水4,175棟を含む大規模な住家被害が発生した経緯があり、総務省の住宅・土地統計調査（2023年）では空き家率15.30%と報告されています。沿岸部の塩害や経年劣化による屋根・外壁の傷みから雨漏りに気づくケースが見られるエリア。",
+ "companies": [
+  "アメトメ",
+  "新ルーフテック興業",
+  "山しん塗装",
+  "やねのしなだ（品田瓦工業）",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>新ルーフテック興業</td>\n            <td>9:00〜18:00<br>（日曜定休）</td>\n            <td>いわき市中心に福島県内・北茨城市</td>\n            <td>屋根工事・雨樋修理店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>山しん塗装</td>\n            <td>9:00〜19:00<br>（日・祝定休）</td>\n            <td>いわき市および近隣エリア</td>\n            <td>塗装・防水店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>やねのしなだ（品田瓦工業）</td>\n            <td>8:00〜18:00<br>（日曜定休）</td>\n            <td>いわき市南部・北茨城市北部</td>\n            <td>瓦工事専門店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>新ルーフテック興業｜いわき市平下神谷の屋根工事・雨樋修理専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_rooftec.jpg\" alt=\"新ルーフテック興業公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社新ルーフテック興業 公式サイト</figcaption>\n      </figure>\n      <p>平成25年創立、いわき市平下神谷に拠点を置く屋根工事・雨樋修理の専門店。<span class=\"mk\">ご相談から現地調査・お見積りまで無料</span>で対応しており、いわき市を中心に郡山市・本宮市・須賀川市、双葉郡や茨城県北茨城市まで幅広く施工しています。</p>\n      <ul class=\"check\">\n        <li>点検・現地調査・お見積り無料</li>\n        <li>いわき市屋根工事・雨樋修理の専門店（平成25年創立）</li>\n        <li>受付9:00〜18:00・日曜定休</li>\n      </ul>\n      <p>雨樋の不具合もまとめて相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://roof-tec.co.jp/\" target=\"_blank\" rel=\"nofollow noopener\">新ルーフテック興業の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>山しん塗装｜一級建築塗装技能士が在籍する塗装・防水専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_yamashin.jpg\" alt=\"山しん塗装公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社山しん塗装 公式サイト</figcaption>\n      </figure>\n      <p>いわき市内郷御厩町に本社を置く建築塗装会社で、外壁塗装・屋根塗装・防水工事を手がけています。<span class=\"mk\">お見積り・点検が無料</span>で、工事の流れにも「無料現地調査」が明記されており、一級建築塗装技能士として30年以上の経験を持つ職人が対応します。</p>\n      <ul class=\"check\">\n        <li>お見積り・点検無料（無料現地調査）</li>\n        <li>一級建築塗装技能士・30年以上の経験</li>\n        <li>受付9:00〜19:00・日曜・祝日定休</li>\n      </ul>\n      <p>屋根塗装と防水をあわせて相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://iwakiyamashin.com/\" target=\"_blank\" rel=\"nofollow noopener\">山しん塗装の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>やねのしなだ（品田瓦工業）｜昭和3年創業・90年超の瓦工事専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_shinada.jpg\" alt=\"やねのしなだ（品田瓦工業）公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：有限会社品田瓦工業 公式サイト</figcaption>\n      </figure>\n      <p>昭和3年創業、いわき市中岡町で4代続く瓦工事の専門店。<span class=\"mk\">調査・ご相談・お見積りが無料</span>で、1級かわらぶき技能士が在籍し、いわき市南部から北茨城市北部まで対応しています。</p>\n      <ul class=\"check\">\n        <li>調査・ご相談・お見積り無料</li>\n        <li>昭和3年創業・90年以上の実績、現在4代目</li>\n        <li>営業時間8:00〜18:00・日曜定休</li>\n      </ul>\n      <p>瓦屋根ならではの知識を重視したい人に。</p>\n      <p class=\"ext-link\"><a href=\"https://www.shinadakawara.com/\" target=\"_blank\" rel=\"nofollow noopener\">やねのしなだ（品田瓦工業）の公式サイトはこちら ›</a></p>\n    </div>\n\n    ",
+ "extra_html": "<h2>いわき市の住宅リフォーム補助金</h2>\n    <p>いわき市では、市内の施工業者を利用して行う工事費10万円以上（消費税相当額を含む）の住宅改良工事を対象に、<span class=\"mk\">「いわき市個人住宅優良ストック形成支援事業」</span>によるリフォーム補助を実施しています（令和8年度・対象工事費の10%、上限15万円）。令和8年度の申請受付期間は2026年7月1日〜9月30日とされており、本記事執筆時点（2026年10月8日）では受付期間を過ぎている可能性があります。次年度以降の募集時期や要件は、いわき市都市建設部住まい政策課（電話0246-22-1178）または市公式サイトで確認してください。</p>\n    "
+}

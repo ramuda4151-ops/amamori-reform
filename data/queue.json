@@ -1,13 +1,5 @@
 [
  {
-  "slug": "iwaki",
-  "city": "いわき市",
-  "pref": "福島県",
-  "region": "東北",
-  "lp": "lp3",
-  "batch": 3
- },
- {
   "slug": "morioka",
   "city": "盛岡市",
   "pref": "岩手県",
