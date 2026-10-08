@@ -1,0 +1,24 @@
+{
+ "slug": "ichinoseki",
+ "city": "一関市",
+ "pref": "岩手県",
+ "region": "東北",
+ "lp": "lp3",
+ "lpid": "amarefo_ichinoseki",
+ "area_wide": "東北全域",
+ "nearby": "岩手県内",
+ "consumer_center": "一関市消費生活センター",
+ "date_pub": "2026-10-09",
+ "date_mod": "2026-10-09",
+ "order": 42,
+ "intro_local": "一関市は岩手県南部の内陸に位置し、西に栗駒山、東に室根山を望む盆地的な地形が特徴。2013年7月の大雨では市内で総降水量168.0mm（大東地域では178.0mm）を観測するなど大雨による被害も報告されており、経年劣化した屋根への備えが必要なエリア。",
+ "companies": [
+  "アメトメ",
+  "有限会社酒井瓦工業",
+  "北日本外装株式会社",
+  "有限会社東北ペイント",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>有限会社酒井瓦工業</td>\n            <td>一関市花泉町に所在</td>\n            <td>一関市中心に岩手県全域・宮城県北部</td>\n            <td>瓦屋根専門店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>北日本外装株式会社</td>\n            <td>8:30〜17:30<br>（日・月・祝定休）</td>\n            <td>一関市を含む岩手県内</td>\n            <td>雨漏り・防水調査専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>有限会社東北ペイント</td>\n            <td>盛岡市などに事業所</td>\n            <td>一関市を含む岩手県内</td>\n            <td>塗装専門店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>有限会社酒井瓦工業｜一関市花泉町に本社を置く瓦屋根専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_sakaikawara.jpg\" alt=\"有限会社酒井瓦工業公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：有限会社酒井瓦工業 公式サイト</figcaption>\n      </figure>\n      <p>一関市花泉町に本社を置く、瓦屋根・太陽光一体型瓦の専門店。お問い合わせページには<span class=\"mk\">「現地調査・見積もり無料」</span>と明記されています。</p>\n      <ul class=\"check\">\n        <li>現地調査・見積もり無料（公式サイトのお問い合わせページに明記）</li>\n        <li>瓦屋根・太陽光一体型瓦に対応</li>\n        <li>対応エリアは一関市を中心に岩手県全域・宮城県北部</li>\n      </ul>\n      <p>瓦屋根の専門知識を重視したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.sakai-kawara.co.jp/contact/\" target=\"_blank\" rel=\"nofollow noopener\">有限会社酒井瓦工業の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>北日本外装株式会社｜施工実績3,000件超・瑕疵保険加盟の雨漏り・防水調査専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_northlands.jpg\" alt=\"北日本外装株式会社公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：北日本外装株式会社 公式サイト</figcaption>\n      </figure>\n      <p>奥州市に本社を置き、一関市を含む岩手県内で雨漏り調査・防水工事を手がける専門店。料金ページには<span class=\"mk\">「見積りはいつでも無料です」</span>と明記され、見積り後の電話営業・訪問セールスは一切行わないとしています。</p>\n      <ul class=\"check\">\n        <li>見積り無料（見積り後の営業・訪問セールスなしと明記）</li>\n        <li>施工実績3,000件超、JIOリフォームかし保険に加盟</li>\n        <li>受付8:30〜17:30（日・月・祝定休）</li>\n      </ul>\n      <p>雨漏りの原因調査をしっかり依頼したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.north-lands.jp/price/\" target=\"_blank\" rel=\"nofollow noopener\">北日本外装株式会社の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>有限会社東北ペイント｜創業62年・相見積もり歓迎をうたう塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_touhokupaint.jpg\" alt=\"有限会社東北ペイント公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：有限会社東北ペイント 公式サイト</figcaption>\n      </figure>\n      <p>盛岡市などに事業所を置き、一関市を含む岩手県内で外壁・屋根塗装を手がける専門店。公式サイトに<span class=\"mk\">「見積り・現地調査は無料です」</span>と明記され、他社との相見積もりも歓迎としています。</p>\n      <ul class=\"check\">\n        <li>見積り・現地調査無料（他社との相見積もり歓迎と明記）</li>\n        <li>創業62年</li>\n        <li>対応エリアに一関市を含む岩手県内</li>\n      </ul>\n      <p>相見積もりを前提に検討したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.touhoku-paint.co.jp/\" target=\"_blank\" rel=\"nofollow noopener\">有限会社東北ペイントの公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}

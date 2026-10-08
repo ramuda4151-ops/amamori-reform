@@ -1,0 +1,24 @@
+{
+ "slug": "aizuwakamatsu",
+ "city": "会津若松市",
+ "pref": "福島県",
+ "region": "東北",
+ "lp": "lp3",
+ "lpid": "amarefo_aizuwakamatsu",
+ "area_wide": "東北全域",
+ "nearby": "福島県内",
+ "consumer_center": "会津若松市消費生活センター",
+ "date_pub": "2026-10-09",
+ "date_mod": "2026-10-09",
+ "order": 40,
+ "intro_local": "会津若松市は会津盆地に位置する内陸の寒冷地で、2010年12月26日には最深積雪115cmを観測し1953年の統計開始以降で最大を記録したほか、総務省の住宅・土地統計調査では空き家率18.33%と報告されている、積雪と住宅の経年劣化による屋根の傷みに注意が必要なエリア。",
+ "companies": [
+  "アメトメ",
+  "有限会社根本塗装店",
+  "株式会社ヌリショウ",
+  "株式会社郡山塗装（プロタイムズ会津若松店）",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>有限会社根本塗装店</td>\n            <td>9:00〜18:00<br>（ご来店は日・祝日除く）</td>\n            <td>会津若松市中心に福島県内</td>\n            <td>塗装・防水店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>株式会社ヌリショウ</td>\n            <td>8:00〜18:00<br>（日曜定休）</td>\n            <td>会津若松市・喜多方市</td>\n            <td>屋根・外壁塗装専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>株式会社郡山塗装<br>（プロタイムズ会津若松店）</td>\n            <td>9:00〜18:00</td>\n            <td>会津若松市中心に福島県内</td>\n            <td>塗装・リフォーム店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>有限会社根本塗装店｜創業80年・会津若松市に根差す塗装・防水専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_nemototosou.jpg\" alt=\"有限会社根本塗装店公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：有限会社根本塗装店 公式サイト</figcaption>\n      </figure>\n      <p>会津若松市南花畑に本社を置く、建築物の塗装工事・防水工事を手がける専門店。<span class=\"mk\">工事費のお見積り・ご相談は無料</span>で受け付けており、創業80年の実績があります。</p>\n      <ul class=\"check\">\n        <li>工事費のお見積り・ご相談無料</li>\n        <li>創業80年</li>\n        <li>受付9:00〜18:00（ご来店は日・祝日除く）、FAX・メールは24時間受付</li>\n      </ul>\n      <p>地元で長年営業してきた安心感を重視したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://nemoto-tosou.com\" target=\"_blank\" rel=\"nofollow noopener\">有限会社根本塗装店の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>株式会社ヌリショウ｜最大10年の自社保証付き・屋根外壁塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_nurisyo.jpg\" alt=\"株式会社ヌリショウ公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社ヌリショウ 公式サイト</figcaption>\n      </figure>\n      <p>会津若松市中島町に本社を置く屋根・外壁塗装の専門店。<span class=\"mk\">屋根・外壁塗装の無料診断・無料見積もり</span>に対応し、会津若松市・喜多方市エリアで施工を行っています。</p>\n      <ul class=\"check\">\n        <li>屋根・外壁塗装の無料診断・無料見積もり</li>\n        <li>最大10年の自社保証付き</li>\n        <li>受付8:00〜18:00・日曜定休</li>\n      </ul>\n      <p>保証年数を重視したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://nurisyo.com\" target=\"_blank\" rel=\"nofollow noopener\">株式会社ヌリショウの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>株式会社郡山塗装（プロタイムズ会津若松店）｜創業98年・自社職人64名在籍の大手塗装店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_fukushimatoso.jpg\" alt=\"株式会社郡山塗装公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社郡山塗装（プロタイムズ会津若松店）公式サイト</figcaption>\n      </figure>\n      <p>会津若松市石堂町に店舗を構える「プロタイムズ」加盟の塗装・リフォーム店。<span class=\"mk\">無料見積もりに対応</span>しており、創業98年・自社職人64名在籍という体制の厚さが特徴です。</p>\n      <ul class=\"check\">\n        <li>無料見積もり対応</li>\n        <li>創業98年・自社職人64名在籍</li>\n        <li>受付9:00〜18:00</li>\n      </ul>\n      <p>実績と体制の厚さを重視したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://fukushima-toso.com/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社郡山塗装（プロタイムズ会津若松店）の公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}

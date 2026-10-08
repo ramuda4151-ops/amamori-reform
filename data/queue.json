@@ -8,30 +8,6 @@
   "batch": 7
  },
  {
-  "slug": "aizuwakamatsu",
-  "city": "会津若松市",
-  "pref": "福島県",
-  "region": "東北",
-  "lp": "lp3",
-  "batch": 7
- },
- {
-  "slug": "sukagawa",
-  "city": "須賀川市",
-  "pref": "福島県",
-  "region": "東北",
-  "lp": "lp3",
-  "batch": 7
- },
- {
-  "slug": "ichinoseki",
-  "city": "一関市",
-  "pref": "岩手県",
-  "region": "東北",
-  "lp": "lp3",
-  "batch": 7
- },
- {
   "slug": "kitakami",
   "city": "北上市",
   "pref": "岩手県",
