@@ -1,0 +1,24 @@
+{
+ "slug": "atsugi",
+ "city": "厚木市",
+ "pref": "神奈川県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_atsugi",
+ "area_wide": "関東全域",
+ "nearby": "神奈川県内",
+ "consumer_center": "厚木市消費生活センター",
+ "date_pub": "2026-10-08",
+ "date_mod": "2026-10-08",
+ "order": 33,
+ "intro_local": "厚木市は神奈川県のほぼ中央、湘南海岸から北へ約14kmの内陸部に位置し、西部・西北部は山岳地帯、東部を相模川が南北に流れるエリア。市の防災計画でも、地震だけでなく台風や集中豪雨による浸水被害への備えが課題として挙げられています。",
+ "companies": [
+  "アメトメ",
+  "株式会社アイビーリフォーム",
+  "株式会社亜久里工業",
+  "株式会社ワークハウジング",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>株式会社アイビーリフォーム</td>\n            <td>電話受付<br>（時間は要問合せ）</td>\n            <td>厚木市中心に愛川町・伊勢原市・平塚市など</td>\n            <td>屋根工事・塗装専門店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>株式会社亜久里工業</td>\n            <td>10:00〜18:00<br>（日曜定休）</td>\n            <td>厚木市中心に相模原市・海老名市・大和市など県央全域</td>\n            <td>塗装・防水専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>株式会社ワークハウジング</td>\n            <td>電話受付<br>（時間は要問合せ）</td>\n            <td>厚木市中心に横浜市・愛川町など</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>株式会社アイビーリフォーム｜雨漏り診断士が在籍する創業50年超の職人直営店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_ivyreform.jpg\" alt=\"株式会社アイビーリフォーム公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社アイビーリフォーム公式サイト</figcaption>\n      </figure>\n      <p>厚木市岡田に本社を置く、1970年創業の屋根工事・塗装の職人直営店。<span class=\"mk\">雨漏り診断士の資格を持つスタッフが在籍</span>し、ドローンを使った屋根調査や100項目以上の点検を行っています。</p>\n      <ul class=\"check\">\n        <li>見積もり・ご相談は無料（公式サイトで明記）</li>\n        <li>雨漏り部分補修の目安は2万円〜5万円を公式サイトに掲載</li>\n        <li>2級建築施工管理技士・1級塗装技能士など有資格者が多数在籍</li>\n      </ul>\n      <p>自社職人による調査・施工をじっくり相談したい人向けです。</p>\n      <p class=\"ext-link\"><a href=\"https://aibreform.com/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社アイビーリフォームの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>株式会社亜久里工業｜現場調査0円を明記する施工実績1,400棟超の塗装防水店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_aguri.jpg\" alt=\"株式会社亜久里工業 公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社亜久里工業 公式サイト</figcaption>\n      </figure>\n      <p>厚木市金田に本社を置く塗装・防水の専門店。公式サイトに<span class=\"mk\">「現場調査0円」「診断報告書・お見積書も無料」</span>と明記されており、雨漏り専用ページでも調査・相談無料をあらためて案内しています。</p>\n      <ul class=\"check\">\n        <li>現場調査・診断報告書・お見積り0円</li>\n        <li>累積施工実績1,400棟超、最長15年保証</li>\n        <li>受付10:00〜18:00・日曜定休</li>\n      </ul>\n      <p>相見積もりを前提に、まずは無料調査で状況を把握したい人向けです。</p>\n      <p class=\"ext-link\"><a href=\"https://aguri-kougyou.co.jp/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社亜久里工業の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>株式会社ワークハウジング｜厚木市上依知の総合リフォーム店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_workhousing.jpg\" alt=\"株式会社ワークハウジングの雨漏り特集ページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社ワークハウジング公式サイト</figcaption>\n      </figure>\n      <p>2010年創業、厚木市上依知を拠点とする総合リフォーム会社。屋根修繕や外壁塗装に加えて内装工事まで手がけ、雨漏り特集ページでは<span class=\"mk\">相談・見積りサービスを無料で実施</span>していると案内しています。</p>\n      <ul class=\"check\">\n        <li>相談・見積りは無料（公式サイトで明記）</li>\n        <li>自社施工で問い合わせから完成まで一貫対応</li>\n        <li>厚木市中心に対応。受付時間は要問合せ</li>\n      </ul>\n      <p class=\"ext-link\"><a href=\"https://atsugi-workhousing.com/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社ワークハウジングの公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}

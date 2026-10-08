@@ -1,0 +1,24 @@
+{
+ "slug": "fuchu",
+ "city": "府中市",
+ "pref": "東京都",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_fuchu",
+ "area_wide": "関東全域",
+ "nearby": "東京近郊",
+ "consumer_center": "府中市消費生活センター",
+ "date_pub": "2026-10-08",
+ "date_mod": "2026-10-08",
+ "order": 35,
+ "intro_local": "府中市は多摩川流域に広がる多摩地域の中核都市。2019年の台風19号（令和元年東日本台風）の際には市内でも浸水被害が報告されており、台風・豪雨による屋根・外壁へのダメージが雨漏りにつながるケースがあります。",
+ "companies": [
+  "アメトメ",
+  "株式会社ルーツ",
+  "株式会社山嵜建装",
+  "市川建装",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>株式会社ルーツ</td>\n            <td>9:00〜20:00<br>（土日祝も対応）</td>\n            <td>府中市中心に三多摩地区全域</td>\n            <td>屋根工事・防水専門店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>株式会社山嵜建装</td>\n            <td>電話受付<br>（時間は要問合せ）</td>\n            <td>府中市中心に小金井・三鷹・調布など多摩地域</td>\n            <td>塗装・防水専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>市川建装</td>\n            <td>9:00〜20:00<br>（日曜定休）</td>\n            <td>府中市近郊（地元密着）</td>\n            <td>外壁・屋根塗装店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>株式会社ルーツ｜施工実績1,750棟・最長15年保証の屋根工事・防水専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_roots.jpg\" alt=\"株式会社ルーツ公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社ルーツ公式サイト</figcaption>\n      </figure>\n      <p>府中市天神町に本社を置く、創業20年の屋根工事・防水工事の専門店。雨漏りページでは<span class=\"mk\">原因調査の調査費用無料</span>を明記し、散水試験による原因特定にも対応しています。</p>\n      <ul class=\"check\">\n        <li>原因調査の調査費用無料（公式サイトで明記）</li>\n        <li>累計施工実績1,750棟、最長15年保証</li>\n        <li>受付9:00〜20:00・土日祝も対応</li>\n      </ul>\n      <p>三多摩地区全域に対応しており、広いエリアで相談したい人向けです。</p>\n      <p class=\"ext-link\"><a href=\"https://roots08.com/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社ルーツの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>株式会社山嵜建装｜雨漏り診断士が在籍する職人直営の塗装防水専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_yamazaki.jpg\" alt=\"株式会社山嵜建装公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社山嵜建装 公式サイト</figcaption>\n      </figure>\n      <p>府中市栄町を拠点とする塗装・防水の専門店。公式サイトに<span class=\"mk\">「通話・現地調査・お見積もり・ご相談無料」</span>と明記されており、雨漏り診断士が散水調査や赤外線サーモグラフィー調査を行います。</p>\n      <ul class=\"check\">\n        <li>現地調査・お見積もり・ご相談は無料（公式サイトで明記）</li>\n        <li>雨漏り診断士・外壁診断士など有資格者が在籍</li>\n        <li>職人直営の完全自社施工</li>\n      </ul>\n      <p class=\"ext-link\"><a href=\"https://yamazaki-kenso.com/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社山嵜建装の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>市川建装｜現地調査・お見積り無料を明記する地元密着の外壁・屋根塗装店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_ichikawa.jpg\" alt=\"市川建装公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：市川建装 公式サイト</figcaption>\n      </figure>\n      <p>府中市四谷に拠点を置く地元密着の外壁・屋根塗装店。公式サイトに<span class=\"mk\">「現地調査は無料になります」「お見積りは無料になります」</span>と明記されており、屋根塗装・防水工事を通じて雨漏りトラブルの予防を呼びかけています。</p>\n      <ul class=\"check\">\n        <li>現地調査・お見積りは無料（公式サイトで明記）</li>\n        <li>屋根・外壁塗装ともに指定塗料で10年保証</li>\n        <li>受付9:00〜20:00・日曜定休</li>\n      </ul>\n      <p class=\"ext-link\"><a href=\"https://www.ichikawakensou.com/\" target=\"_blank\" rel=\"nofollow noopener\">市川建装の公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}

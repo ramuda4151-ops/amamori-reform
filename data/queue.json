@@ -1,29 +1,5 @@
 [
  {
-  "slug": "atsugi",
-  "city": "厚木市",
-  "pref": "神奈川県",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 4
- },
- {
-  "slug": "yamato",
-  "city": "大和市",
-  "pref": "神奈川県",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 4
- },
- {
-  "slug": "fuchu",
-  "city": "府中市",
-  "pref": "東京都",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 4
- },
- {
   "slug": "chofu",
   "city": "調布市",
   "pref": "東京都",

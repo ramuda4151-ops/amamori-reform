@@ -1,0 +1,24 @@
+{
+ "slug": "yamato",
+ "city": "大和市",
+ "pref": "神奈川県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_yamato",
+ "area_wide": "関東全域",
+ "nearby": "神奈川県内",
+ "consumer_center": "大和市消費生活センター",
+ "date_pub": "2026-10-08",
+ "date_mod": "2026-10-08",
+ "order": 34,
+ "intro_local": "大和市は神奈川県のほぼ中央、内陸に位置し、夏は38℃を超える日がある一方で冬は氷点下になる日もあるなど寒暖差が比較的大きいエリア。年間降水量は8〜9月の台風シーズンに集中しやすく、まとまった雨による雨漏り相談が増える時期でもあります。",
+ "companies": [
+  "アメトメ",
+  "有限会社野口板金工業",
+  "株式会社マルセイテック（ガイソー大和店）",
+  "悠ホーム株式会社",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>有限会社野口板金工業</td>\n            <td>8:00〜19:00</td>\n            <td>大和市中心（地元密着）</td>\n            <td>屋根工事店（板金）</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>株式会社マルセイテック<br>（ガイソー大和店）</td>\n            <td>9:00〜18:00<br>（日曜・水曜定休）</td>\n            <td>大和市中心に神奈川県全域</td>\n            <td>塗装・防水専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>悠ホーム株式会社</td>\n            <td>9:00〜18:00<br>（土日祝も受付）</td>\n            <td>大和市中心に相模原市・綾瀬市・藤沢市など</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>有限会社野口板金工業｜創業60年以上・1級建築板金技能士が在籍する地元板金店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_noguchibankin.jpg\" alt=\"有限会社野口板金工業公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：有限会社野口板金工業 公式サイト</figcaption>\n      </figure>\n      <p>大和市深見東に本社を置く、昭和38年創業の板金専門店。<span class=\"mk\">1級建築板金技能士・登録建築板金基幹技能者</span>が在籍し、神奈川県板金工業組合の責任施工保証制度にも加盟しています。</p>\n      <ul class=\"check\">\n        <li>お見積りは無料（公式サイトで明記）</li>\n        <li>屋根修理・雨樋修理は11,000円（税込）〜の価格を公式サイトに掲載</li>\n        <li>受付8:00〜19:00・大和市地元密着</li>\n      </ul>\n      <p>板金の専門知識を活かした対応をじっくり相談したい人向けです。</p>\n      <p class=\"ext-link\"><a href=\"https://www.noguchi-bankin.com/\" target=\"_blank\" rel=\"nofollow noopener\">有限会社野口板金工業の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>株式会社マルセイテック（ガイソー大和店）｜無料ドローン点検対応の塗装防水専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_marusei.jpg\" alt=\"株式会社マルセイテック公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社マルセイテック（ガイソー大和店）公式サイト</figcaption>\n      </figure>\n      <p>大和市中央に拠点を置く、全国フランチャイズ「ガイソー」加盟の塗装・防水専門店。公式サイトに<span class=\"mk\">無料住宅診断・無料ドローン点検・お見積り無料</span>と明記されています。</p>\n      <ul class=\"check\">\n        <li>無料点検・無料見積り（相見積もり歓迎と明記）</li>\n        <li>自店施工実績3,690件超、最長10年保証</li>\n        <li>受付9:00〜18:00・日曜/水曜定休</li>\n      </ul>\n      <p class=\"ext-link\"><a href=\"https://marusei-tech.net/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社マルセイテックの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>悠ホーム株式会社｜累計工事数5,000件超の自社施工リフォーム店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_yuhome.jpg\" alt=\"悠ホーム株式会社公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：悠ホーム株式会社 公式サイト</figcaption>\n      </figure>\n      <p>大和市福田に本店を置く総合リフォーム会社。公式サイトに<span class=\"mk\">「現地調査・お見積りは無料です」</span>と明記され、大工・内装・外装など多能工スタッフによる自社施工を特徴としています。</p>\n      <ul class=\"check\">\n        <li>現地調査・お見積りは無料（公式サイトFAQで明記）</li>\n        <li>累計工事数5,000件超</li>\n        <li>受付9:00〜18:00・土日祝も対応</li>\n      </ul>\n      <p class=\"ext-link\"><a href=\"https://www.y-home.co.jp/\" target=\"_blank\" rel=\"nofollow noopener\">悠ホーム株式会社の公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}
