@@ -41,7 +41,8 @@ def load_pages(arts):
     """{path: 市名} を公開順で返す（トップページ含む）"""
     pages = {'/': 'トップ'}
     for d in arts:
-        pages[f"/{d['slug']}/"] = d.get('city', d['slug']).replace('市', '')
+        name = d.get('city') or d.get('title_short') or d['slug']
+        pages[f"/{d['slug']}/"] = name.replace('市', '')
     return pages
 
 
@@ -148,7 +149,7 @@ def main():
     click_date = (today - datetime.timedelta(days=1)).isoformat() # クリックは昨日分
 
     # 今日公開した記事（date_pub がJST今日のもの）
-    new_arts = [(d.get('city', d['slug']), f"{DOMAIN}/{d['slug']}/")
+    new_arts = [((d.get('city') or d.get('title_short') or d['slug']), f"{DOMAIN}/{d['slug']}/")
                 for d in arts if d.get('date_pub') == today.isoformat()]
 
     token = gsc_token(sa_json)

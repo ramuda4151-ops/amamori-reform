@@ -37,24 +37,64 @@ def load_data():
     return items
 
 
+def link_title(d):
+    if d.get('type') == 'info':
+        return d['title_short']
+    return f'【{d["city"]}】雨漏り修理業者おすすめランキング5選'
+
+
 def related_html(d, items):
-    """同県→同地方の順で近隣記事リンク（最大4件）のセクションHTMLを返す"""
+    """関連記事リンク（最大4件）のセクションHTMLを返す
+
+    地域記事: 同県→同地方の近隣記事。情報記事: 他の情報記事→地域記事の順
+    """
     others = [x for x in items if x['slug'] != d['slug']]
-    picks = [x for x in others if x['pref'] == d['pref']]
-    picks += [x for x in others if x['region'] == d.get('region') and x not in picks]
-    picks = picks[:4]
+    if d.get('type') == 'info':
+        picks = [x for x in others if x.get('type') == 'info'][:4]
+        heading = 'あわせて読みたい'
+    else:
+        picks = [x for x in others if x.get('pref') == d.get('pref') and x.get('type') != 'info']
+        picks += [x for x in others
+                  if x.get('region') == d.get('region') and x.get('type') != 'info'
+                  and x not in picks]
+        # 近隣枠の末尾に情報記事を1本混ぜて回遊させる
+        infos = [x for x in others if x.get('type') == 'info']
+        picks = picks[:3] + infos[:1] if infos else picks[:4]
+        heading = '近隣エリアの雨漏り修理業者情報'
     if not picks:
         return ''
     lis = '\n'.join(
-        f'        <li><a href="/{x["slug"]}/">【{x["city"]}】雨漏り修理業者おすすめランキング5選</a></li>'
-        for x in picks)
+        f'        <li><a href="/{x["slug"]}/">{link_title(x)}</a></li>' for x in picks)
     return f'''    <section class="related">
-      <h2>近隣エリアの雨漏り修理業者情報</h2>
+      <h2>{heading}</h2>
       <ul>
 {lis}
       </ul>
     </section>
 '''
+
+
+def render_info(d, tpl, items):
+    out = tpl
+    reps = {
+        '{{RELATED}}': related_html(d, items),
+        '{{TITLE}}': d['title'],
+        '{{TITLE_SHORT}}': d['title_short'],
+        '{{DESC}}': d['desc'],
+        '{{HERO}}': d['hero'],
+        '{{HERO_CAPTION}}': d.get('hero_caption', ''),
+        '{{BODY}}': d['body_html'],
+        '{{HEAD_EXTRA}}': d.get('head_extra', ''),
+        '{{SLUG}}': d['slug'],
+        '{{LP}}': d.get('lp', 'lp1'),
+        '{{LPID}}': d['lpid'],
+        '{{DATE_PUB}}': d['date_pub'],
+        '{{DATE_MOD}}': d['date_mod'],
+        '{{DATE_MOD_JA}}': ja_date(d['date_mod']),
+    }
+    for k, v in reps.items():
+        out = out.replace(k, v)
+    return out
 
 
 def render_article(d, tpl, items):
@@ -87,12 +127,20 @@ def render_article(d, tpl, items):
 def render_top(items, tpl):
     cards = []
     for d in items:
+        if d.get('type') == 'info':
+            thumb = '<div class="pref">コラム</div><div class="area">お役立ち</div>'
+            title = d['title']
+            tag = 'お役立ちコラム'
+        else:
+            thumb = f"<div class=\"pref\">{d['pref']}</div><div class=\"area\">{d['city']}</div>"
+            title = f"【{d['city']}】雨漏り修理業者おすすめランキング5選！費用相場と失敗しない選び方"
+            tag = '地域別ガイド'
         cards.append(f'''    <a class="post-card" href="/{d['slug']}/">
-      <div class="post-thumb"><div class="pref">{d['pref']}</div><div class="area">{d['city']}</div></div>
+      <div class="post-thumb">{thumb}</div>
       <div class="post-body">
-        <div class="pt">【{d['city']}】雨漏り修理業者おすすめランキング5選！費用相場と失敗しない選び方</div>
+        <div class="pt">{title}</div>
         <div class="pd">{ja_date(d['date_mod'])}</div>
-        <div class="tag">地域別ガイド</div>
+        <div class="tag">{tag}</div>
       </div>
     </a>''')
     return tpl.replace('{{POST_CARDS}}', '\n'.join(cards))
@@ -168,6 +216,7 @@ def inject_clarity(html):
 def main():
     only = sys.argv[1] if len(sys.argv) > 1 else None
     tpl = open(f'{BASE}/template/article.html', encoding='utf-8').read()
+    info_tpl = open(f'{BASE}/template/info.html', encoding='utf-8').read()
     top_tpl = open(f'{BASE}/template/top.html', encoding='utf-8').read()
     items = load_data()
     ok = True
@@ -175,7 +224,10 @@ def main():
     for d in items:
         if only and d['slug'] != only:
             continue
-        html = inject_clarity(render_article(d, tpl, items))
+        if d.get('type') == 'info':
+            html = inject_clarity(render_info(d, info_tpl, items))
+        else:
+            html = inject_clarity(render_article(d, tpl, items))
         os.makedirs(f'{BASE}/{d["slug"]}', exist_ok=True)
         with open(f'{BASE}/{d["slug"]}/index.html', 'w', encoding='utf-8') as f:
             f.write(html)
