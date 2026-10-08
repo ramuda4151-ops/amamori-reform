@@ -1,0 +1,25 @@
+{
+ "slug": "yamagata",
+ "city": "山形市",
+ "pref": "山形県",
+ "region": "東北",
+ "lp": "lp3",
+ "lpid": "amarefo_yamagata",
+ "area_wide": "東北全域",
+ "nearby": "山形県内",
+ "consumer_center": "山形市消費生活センター",
+ "date_pub": "2026-10-08",
+ "date_mod": "2026-10-08",
+ "order": 26,
+ "intro_local": "山形市は冬季の積雪が屋根や雨樋に負担をかける寒冷地で、市は昭和56年5月31日以前に着工された木造住宅を対象にした耐震改修補助事業を実施しているなど、築年数の古い戸建てが一定数残るエリア。2018年の台風21号では市内で住家の一部破損が確認された記録もある。",
+ "companies": [
+  "アメトメ",
+  "株式会社ハウスケア",
+  "株式会社TOSyOKU",
+  "ゆうき総業株式会社（雨ん防）",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>株式会社ハウスケア</td>\n            <td>8:30〜17:30<br>（電話受付9:00〜19:30）</td>\n            <td>山形市を含む山形県内全域</td>\n            <td>屋根外壁塗装・板金・防水店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>株式会社TOSyOKU</td>\n            <td>9:00〜18:00<br>（日曜・祝日定休）</td>\n            <td>山形市中心に対応</td>\n            <td>塗装・防水店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>ゆうき総業（雨ん防）</td>\n            <td>9:00〜18:00</td>\n            <td>山形市内に拠点、山形県内対応</td>\n            <td>防水・外壁工事店<br>（雨漏り修理も対応）</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>株式会社ハウスケア｜山形市に営業所を置く屋根外壁塗装・板金・防水の総合施工店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_housecare.jpg\" alt=\"株式会社ハウスケア公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社ハウスケア 公式サイト</figcaption>\n      </figure>\n      <p>山形市前田町に営業所を置く屋根・外壁・板金・防水工事の総合施工会社。<span class=\"mk\">ご相談・お見積もりは無料</span>で、山形県内全域（村山・庄内・最上・置賜の各地域）で施工実績があります。</p>\n      <ul class=\"check\">\n        <li>ご相談・お見積もり無料</li>\n        <li>山形県内全域で施工実績（村山地域中心に庄内・最上・置賜地域にも対応）</li>\n        <li>電話受付9:00〜19:30・営業時間8:30〜17:30</li>\n      </ul>\n      <p>屋根・外壁・板金をまとめて相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.housecare.co.jp/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社ハウスケアの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>株式会社TOSyOKU｜山形県知事許可を持つ屋根塗装・外壁塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_tosyoku.jpg\" alt=\"株式会社TOSyOKU公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社TOSyOKU 公式サイト</figcaption>\n      </figure>\n      <p>山形市鈴川町に拠点を置く屋根塗装・外壁塗装の専門会社。<span class=\"mk\">お見積り・ご相談は無料</span>で、山形県知事許可（般-05）第102298号を取得。調査後には写真付きの調査報告書を提供しています。</p>\n      <ul class=\"check\">\n        <li>お見積り・ご相談無料</li>\n        <li>山形県知事許可（般-05）第102298号、写真付き調査報告書を提供</li>\n        <li>受付9:00〜18:00・日曜日・祝日定休</li>\n      </ul>\n      <p>調査報告書で劣化状況を細かく確認したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://tosyoku.pro/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社TOSyOKUの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>ゆうき総業（雨ん防）｜国家資格保有者が多数在籍する防水・外壁工事店（雨漏り修理も対応）</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_amenbou.jpg\" alt=\"雨ん防公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：ゆうき総業株式会社「雨漏り修理・外壁工事の雨ん防」公式サイト</figcaption>\n      </figure>\n      <p>山形市内に拠点を持つ、2001年創業の防水・外壁・雨漏り修理の会社。<span class=\"mk\">無料でお見積りを作成</span>してもらえ、1級防水技能士7名・1級塗装技能士7名・1級建築施工管理技士3名など国家資格保有者が多数在籍しています。</p>\n      <ul class=\"check\">\n        <li>無料見積もり対応</li>\n        <li>1級防水技能士7名・1級塗装技能士7名が在籍（国土交通大臣許可 特-5 第29035号）</li>\n        <li>下地処理から塗装・塗膜の仕上げまで一貫対応</li>\n      </ul>\n      <p>資格を持つ職人の体制を重視したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.amenbou.jp/\" target=\"_blank\" rel=\"nofollow noopener\">雨ん防の公式サイトはこちら ›</a></p>\n    </div>\n\n    ",
+ "extra_html": "<h2>山形市の住宅リフォーム・耐震改修補助金</h2>\n    <p>山形市では、屋根（雨樋を含む）・外壁・軒天井の塗装や修繕工事を対象に、工事費（税抜）の50%・上限20万円（所得制限あり）を補助する<span class=\"mk\">「山形市住宅リフォーム総合支援事業」</span>を実施しています（県市連携タイプは一般世帯で20%・上限24万円、移住・新婚・子育て世帯は33%・上限30万円）。令和8年度の募集期間はすでに終了しているため、次年度の募集時期は市まちづくり政策部建築指導課（電話023-641-1212）または市公式サイトで確認してください。</p>\n    <p>このほか、昭和56年5月31日以前に着工された木造住宅を対象に、耐震改修工事費の4/5・上限140万円を補助する<span class=\"mk\">「山形市木造住宅耐震改修補助事業」</span>もあります（簡易・部分耐震改修や防災ベッド等の設置は上限30万円）。申請窓口は同じく建築指導課です。</p>\n    "
+}

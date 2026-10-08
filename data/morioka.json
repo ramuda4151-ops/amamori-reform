@@ -1,0 +1,25 @@
+{
+ "slug": "morioka",
+ "city": "盛岡市",
+ "pref": "岩手県",
+ "region": "東北",
+ "lp": "lp3",
+ "lpid": "amarefo_morioka",
+ "area_wide": "東北全域",
+ "nearby": "岩手県内",
+ "consumer_center": "盛岡市消費生活センター",
+ "date_pub": "2026-10-08",
+ "date_mod": "2026-10-08",
+ "order": 24,
+ "intro_local": "盛岡市は年平均気温10℃前後の内陸性の寒冷地で、冬季の積雪や凍結による屋根材の傷みから雨漏りに気づくケースが見られるほか、2024年8月27日の大雨では市内（山王町）の1時間降水量68.0mmが観測史上1位を更新し、米内川の氾濫も発生した経緯があるエリア。",
+ "companies": [
+  "アメトメ",
+  "金子ルーフ工業（盛岡店）",
+  "真塗株式会社",
+  "スガケンペイント",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>金子ルーフ工業（盛岡店）</td>\n            <td>10:00〜17:00<br>（日曜定休）</td>\n            <td>盛岡市を中心に岩手県内</td>\n            <td>屋根工事・雨漏り修理店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>真塗株式会社</td>\n            <td>9:00〜17:00<br>（土日祝定休）</td>\n            <td>岩手県内（盛岡市中心）</td>\n            <td>塗装・防水店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>スガケンペイント</td>\n            <td>9:00〜18:30<br>（不定休）</td>\n            <td>盛岡市を中心に近郊市町村</td>\n            <td>外壁塗装店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>金子ルーフ工業（盛岡店）｜ドローン診断にも対応する屋根・雨漏り修理専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_kanekoroof.jpg\" alt=\"金子ルーフ工業公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社金子ルーフ工業 公式サイト</figcaption>\n      </figure>\n      <p>平成14年の個人創業から数え、盛岡市稲荷町に店舗を構える屋根・雨漏り・防水の専門店。<span class=\"mk\">屋根診断・お見積りは無料</span>で、一級技能士による無料点検やドローンを使った屋根診断にも対応しています。</p>\n      <ul class=\"check\">\n        <li>屋根診断・お見積り無料（一級技能士による無料点検）</li>\n        <li>累計施工実績3,000棟超、ドローンによる屋根診断に対応</li>\n        <li>受付10:00〜17:00・日曜定休</li>\n      </ul>\n      <p>ドローン診断で屋根に登らず現状を確認したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://kaneko-roof.jp/morioka/\" target=\"_blank\" rel=\"nofollow noopener\">金子ルーフ工業（盛岡店）の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>真塗株式会社｜一級建築塗装技能士が代理店を介さず自社施工する塗装・防水専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_sintopaint.jpg\" alt=\"真塗株式会社公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：真塗株式会社 公式サイト</figcaption>\n      </figure>\n      <p>盛岡市月が丘に拠点を置く塗装・防水工事の専門会社。<span class=\"mk\">岩手県内の現場なら点検・お見積りは無料</span>で、代理店を介さず自社で施工・見積もりを行っています。一級建築塗装技能士の資格を持つ代表が対応します。</p>\n      <ul class=\"check\">\n        <li>岩手県内の現場は点検・お見積り無料</li>\n        <li>一級建築塗装技能士・塗装工歴19年の代表が施工</li>\n        <li>受付9:00〜17:00・土日祝定休</li>\n      </ul>\n      <p>仲介を挟まず自社施工で価格を抑えたい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://sinto-paint.com/\" target=\"_blank\" rel=\"nofollow noopener\">真塗株式会社の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>スガケンペイント｜創業20年以上・完全自社施工の外壁塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_sugaken.jpg\" alt=\"スガケンペイント公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：スガケンペイント 公式サイト</figcaption>\n      </figure>\n      <p>盛岡市八幡町にショールームを構える外壁・屋根塗装の専門店。<span class=\"mk\">専門資格を持つスタッフによる無料診断・無料お見積り</span>を行っており、創業以来20年以上、完全自社元請け施工で施工実績1,500件超です。</p>\n      <ul class=\"check\">\n        <li>無料診断・無料お見積り（カラーシミュレーションも対応）</li>\n        <li>創業20年以上・完全自社元請け施工で施工実績1,500件超</li>\n        <li>受付9:00〜18:30・不定休</li>\n      </ul>\n      <p>専属職人による自社施工にこだわりたい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.sugakentosou.com/\" target=\"_blank\" rel=\"nofollow noopener\">スガケンペイントの公式サイトはこちら ›</a></p>\n    </div>\n\n    ",
+ "extra_html": "<h2>盛岡市の住宅リフォーム支援</h2>\n    <p>盛岡市では、市内に営業所を置く施工業者に依頼して行う住宅リフォーム工事を対象に、工事費の一部を「MORIO Payプレミアム商品券2026」として交付する<span class=\"mk\">「盛岡市リフォーム支援事業」</span>を実施しています（対象工事費の合計が税込33万円以上であることなどが条件）。申請窓口は一般財団法人岩手県建築住宅センター。交付額の上限や募集時期など最新の詳細は、盛岡市都市整備部または市公式サイトで確認してください。</p>\n    <p>このほか、昭和56年5月31日以前に建築された木造住宅を対象にした耐震診断・耐震改修の補助制度（<span class=\"mk\">木造住宅耐震改修費補助金交付事業</span>、改修費用の4/5・上限100万円）もあります。申請窓口は盛岡市都市整備部建築指導課防災係（電話019-601-3387）です。</p>\n    "
+}

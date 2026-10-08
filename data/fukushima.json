@@ -1,0 +1,25 @@
+{
+ "slug": "fukushima",
+ "city": "福島市",
+ "pref": "福島県",
+ "region": "東北",
+ "lp": "lp3",
+ "lpid": "amarefo_fukushima",
+ "area_wide": "東北全域",
+ "nearby": "福島県内",
+ "consumer_center": "福島市消費生活センター",
+ "date_pub": "2026-10-08",
+ "date_mod": "2026-10-08",
+ "order": 25,
+ "intro_local": "福島市は令和元年東日本台風（2019年10月）で床上浸水244件・床下浸水98件など住家被害388件を記録した経緯があり、市の耐震改修促進計画では今も耐震性が不足する住宅が14,917戸（令和3年度実績）残るとされるなど、築年数の古い戸建てから雨漏りに気づくケースが見られるエリア。",
+ "companies": [
+  "アメトメ",
+  "山田塗装店",
+  "株式会社美建",
+  "屋根リフォーム.com福島（郡山塗装）",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>山田塗装店</td>\n            <td>9:00〜17:30<br>（日曜定休）</td>\n            <td>福島市を中心とするエリア</td>\n            <td>塗装専門店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>株式会社美建</td>\n            <td>9:00〜18:00<br>（土日・祝日も営業）</td>\n            <td>福島市エリアに地域密着</td>\n            <td>外壁塗装店<br>（屋根・防水対応）</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>屋根リフォーム.com福島</td>\n            <td>9:00〜18:00</td>\n            <td>福島市含む福島県全域</td>\n            <td>屋根工事専門店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>山田塗装店｜1965年創業・60年以上の実績を持つ塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_yamadatoso.jpg\" alt=\"山田塗装店公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：有限会社山田塗装店 公式サイト</figcaption>\n      </figure>\n      <p>1965年創業、福島市北沢又に拠点を置く塗装の専門会社。<span class=\"mk\">お見積りは無料</span>で、ベテラン職人による外壁・屋根の塗り替えを中心に、屋根カバー工法や雨樋の部分補修にも対応しています。</p>\n      <ul class=\"check\">\n        <li>お見積り無料</li>\n        <li>1965年創業・60年以上の実績を持つ塗装専門店</li>\n        <li>受付9:00〜17:30・日曜定休</li>\n      </ul>\n      <p>長年の実績を持つ塗装専門店に任せたい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.yamadatosoten.com\" target=\"_blank\" rel=\"nofollow noopener\">山田塗装店の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>株式会社美建｜完全自社施工・10年保証の地域密着型外壁塗装店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_biken.jpg\" alt=\"株式会社美建公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社美建 公式サイト</figcaption>\n      </figure>\n      <p>福島市下野寺に拠点を置き、福島市エリアに地域密着する外壁・屋根塗装会社。<span class=\"mk\">無料の現地調査・住宅診断でお見積りを提示</span>してくれ、完全自社施工で定期点検付きの10年保証を掲げています。</p>\n      <ul class=\"check\">\n        <li>無料の現地調査・住宅診断</li>\n        <li>代表が一級建築塗装技能士を保有、完全自社施工で10年保証</li>\n        <li>受付9:00〜18:00・土日・祝日も営業</li>\n      </ul>\n      <p>中間マージンのない自社施工にこだわりたい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.biken2017.com\" target=\"_blank\" rel=\"nofollow noopener\">株式会社美建の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>屋根リフォーム.com福島｜創業98年・国家資格者が多数在籍する屋根専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_yanefuku.jpg\" alt=\"屋根リフォーム.com福島公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社郡山塗装「屋根リフォーム.com福島」公式サイト</figcaption>\n      </figure>\n      <p>郡山市に本社を置き、福島市飯坂町に「福島店」を構える屋根専門の工事会社。<span class=\"mk\">ご相談・お見積もり診断は無料</span>で、屋根の無料診断や雨漏りの赤外線診断にも対応。昭和3年創業で福島県内98年の実績があります。</p>\n      <ul class=\"check\">\n        <li>ご相談・お見積もり診断無料（屋根の無料診断・雨漏りの赤外線診断）</li>\n        <li>昭和3年創業・福島県内98年の実績、1級建築施工管理技士など国家資格者多数在籍</li>\n        <li>受付9:00〜18:00</li>\n      </ul>\n      <p>赤外線診断で原因を可視化してほしい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://fukushima-yane.com\" target=\"_blank\" rel=\"nofollow noopener\">屋根リフォーム.com福島の公式サイトはこちら ›</a></p>\n    </div>\n\n    ",
+ "extra_html": "<h2>福島市の耐震改修補助金</h2>\n    <p>福島市では、昭和56年5月31日以前に着工された木造住宅を対象に、<span class=\"mk\">「福島市木造住宅耐震診断促進事業」「福島市木造住宅耐震改修等助成事業」</span>を実施しています。耐震診断は市が建築士等を派遣し費用の一部を補助する仕組みで、応募は抽選制・年度ごとの募集枠制です（直近の令和7年度募集は2025年10月31日締切）。耐震改修・建替えの補助額は年度の要綱により変動するため、最新の金額や募集時期は福島市役所住宅政策課（電話024-525-3734）または市公式サイトで確認してください。</p>\n    "
+}

@@ -1,29 +1,5 @@
 [
  {
-  "slug": "morioka",
-  "city": "盛岡市",
-  "pref": "岩手県",
-  "region": "東北",
-  "lp": "lp3",
-  "batch": 6
- },
- {
-  "slug": "fukushima",
-  "city": "福島市",
-  "pref": "福島県",
-  "region": "東北",
-  "lp": "lp3",
-  "batch": 4
- },
- {
-  "slug": "yamagata",
-  "city": "山形市",
-  "pref": "山形県",
-  "region": "東北",
-  "lp": "lp3",
-  "batch": 6
- },
- {
   "slug": "hachinohe",
   "city": "八戸市",
   "pref": "青森県",
