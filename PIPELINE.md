@@ -68,6 +68,23 @@ git add -A && git commit -m "feat: 〇〇市の記事を追加" && git push
 - [ ] `{{` が残っていない（lintが検知）
 - [ ] 市名の取り違えがない（他市の業者カードをコピーした痕跡等）
 
+## 情報記事（お役立ちコラム）の制作手順
+
+毎日の定期実行では、地域記事3市に加えて `data/info_queue.json` の先頭から**情報記事を1本**制作する。
+
+1. info_queue.json 先頭のテーマ（slug/title_short/query/point）を確認し、狙うクエリで上位表示中の記事の見出し構成をリサーチする
+2. `data/oukyushochi.json` と同じ構造で `data/<slug>.json` を作成（`type: "info"` 必須）:
+   - `title`: 32文字前後、狙うクエリの語を含める / `title_short`: 関連リンク用の短縮名
+   - `body_html`: 既存CSSクラスのみ使用（toc / h2・h3 / check / warn-box / mk / faq-q・faq-a / figure / cta-box）。
+     3,000〜4,000字、リード→目次→本文→中間CTA→FAQの構成。oukyushochi.json の書きぶり・一人称（管理人）を踏襲
+   - `head_extra`: FAQPage JSON-LD（本文のFAQと同内容）
+   - `hero`: img/ 内の既存 photo_*.webp から選ぶ（新規画像は不要）
+   - `lpid`: `amarefo_<slug>` / `lp`: 原則lp1（すが漏れ等の東北テーマはlp3）/ `order`: 情報記事は101から連番
+3. 事実の扱い: 医学・法律・保険の断定をしない（「〜ことがあります」）。「保険適用の判断は保険会社」を厳守。
+   統計や制度に言及する場合は公的機関（消費者庁・国民生活センター等）の公開情報のみを根拠にする
+4. 処理済みテーマは info_queue.json から削除し、地域記事と同じコミットに含める
+5. build.py のlintが通ること。info_queue.json が空なら情報記事はスキップ
+
 ## 制約・注意
 
 - 1日の上限は5市まで（インデックス・評価の観点）
