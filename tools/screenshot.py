@@ -53,8 +53,11 @@ def shot_playwright(page, name: str, url: str) -> bool:
     time.sleep(3)  # 遅延描画・ヒーローアニメーション待ち
     page.screenshot(path=str(out), type='jpeg', quality=80)
     # 幅800pxへ縮小（macOSはsips、無ければPlaywright解像度のまま）
-    subprocess.run(['sips', '--resampleWidth', '800', str(out)],
-                   capture_output=True)
+    try:
+        subprocess.run(['sips', '--resampleWidth', '800', str(out)],
+                       capture_output=True)
+    except FileNotFoundError:
+        pass
     print(f'  OK: {out.name} <- {url}')
     return True
 

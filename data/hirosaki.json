@@ -1,0 +1,24 @@
+{
+ "slug": "hirosaki",
+ "city": "弘前市",
+ "pref": "青森県",
+ "region": "東北",
+ "lp": "lp3",
+ "lpid": "amarefo_hirosaki",
+ "area_wide": "東北全域",
+ "nearby": "青森県内",
+ "consumer_center": "弘前市市民生活センター",
+ "date_pub": "2026-10-08",
+ "date_mod": "2026-10-08",
+ "order": 37,
+ "intro_local": "弘前市は津軽地方の内陸に位置し、市の全域が豪雪地帯に指定されるほどの積雪地域で、冬季の雪の重みや凍害によって屋根材が破損し、雨漏りにつながるケースが見られるエリア。",
+ "companies": [
+  "アメトメ",
+  "ヒロデン株式会社",
+  "山新板金",
+  "彩幸ペイント",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>ヒロデン株式会社</td>\n            <td>日曜・祝日休み<br>（土曜不定）</td>\n            <td>弘前市中心</td>\n            <td>屋根工事・リフォーム店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>山新板金</td>\n            <td>8:00〜17:00<br>（日曜・祝日休み）</td>\n            <td>弘前市・中南地域</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>彩幸ペイント</td>\n            <td>平日9:00〜17:00<br>（土日祝を除く）</td>\n            <td>弘前市中心に青森市・黒石市など県内7市町村</td>\n            <td>塗装専門店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>ヒロデン株式会社｜1985年創業・弘前市の工事専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_hiroden.jpg\" alt=\"ヒロデン株式会社公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：ヒロデン株式会社 公式サイト</figcaption>\n      </figure>\n      <p>青森県弘前市大開に拠点を置く、1985年創業の工事専門店。屋根の葺き替えや軒先折れ修理、ペンキ工事などを手がけ、<span class=\"mk\">相談・現地調査・見積もりは無料</span>と案内しています。</p>\n      <ul class=\"check\">\n        <li>相談・現地調査・お見積もりは無料</li>\n        <li>1985年創業、工事完了後5年保証</li>\n        <li>定休日は日曜・祝日（土曜不定）</li>\n      </ul>\n      <p>台風や雪害による屋根の破損が気になる人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.hiroden-inc.com/\" target=\"_blank\" rel=\"nofollow noopener\">ヒロデン株式会社の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>山新板金｜屋根・雨漏り修理を自社施工するリフォーム店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_yamashinbankin.jpg\" alt=\"山新板金公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：山新板金 公式サイト</figcaption>\n      </figure>\n      <p>青森県弘前市大字中野に拠点を置き、弘前市・中南地域を対応エリアとするリフォーム店（雨漏り修理も対応）。屋根・外壁の部分補修から対応し、<span class=\"mk\">現地での無料診断・お見積書の作成も無料</span>としています。</p>\n      <ul class=\"check\">\n        <li>現地での屋根・外壁の無料診断、お見積もり無料</li>\n        <li>完全自社施工、見積もりからアフターフォローまで同じ担当者</li>\n        <li>営業時間8:00〜17:00（日曜・祝日定休）</li>\n      </ul>\n      <p>部分的な屋根の傷みから相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.yamashinbankin-aomori.com/\" target=\"_blank\" rel=\"nofollow noopener\">山新板金の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>彩幸ペイント｜弘前市の外壁・屋根塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_saikopaint.jpg\" alt=\"彩幸ペイント公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：彩幸ペイント 公式サイト</figcaption>\n      </figure>\n      <p>青森県弘前市五代に拠点を置く外壁塗装・屋根塗装の専門店。<span class=\"mk\">住まいの無料点検</span>を実施しており、外壁や屋根のひび割れ・劣化が雨漏りにつながっていないか相談できます。</p>\n      <ul class=\"check\">\n        <li>外壁・屋根の無料点検を実施</li>\n        <li>対応エリアは弘前市中心に青森市・黒石市・平川市・つがる市・五所川原市・鶴田町・板柳町</li>\n        <li>電話受付は平日9:00〜17:00（土日祝を除く）</li>\n      </ul>\n      <p>塗装の劣化から来る雨漏りが気になる人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://saiko-p.net/\" target=\"_blank\" rel=\"nofollow noopener\">彩幸ペイントの公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}

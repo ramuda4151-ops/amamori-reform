@@ -1,0 +1,24 @@
+{
+ "slug": "tsuruoka",
+ "city": "鶴岡市",
+ "pref": "山形県",
+ "region": "東北",
+ "lp": "lp3",
+ "lpid": "amarefo_tsuruoka",
+ "area_wide": "東北全域",
+ "nearby": "山形県内",
+ "consumer_center": "鶴岡市消費生活センター",
+ "date_pub": "2026-10-08",
+ "date_mod": "2026-10-08",
+ "order": 38,
+ "intro_local": "鶴岡市は庄内地方の日本海沿岸に位置し、朝日地域や温海地域の山間部では豪雪地帯の指定を受けるなど、積雪の重みによる屋根の傷みが心配されるエリア。",
+ "companies": [
+  "アメトメ",
+  "株式会社芝田板金",
+  "有限会社加藤塗装店",
+  "池田塗研",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>株式会社芝田板金</td>\n            <td>鶴岡市中京田に所在</td>\n            <td>鶴岡市中心に庄内地域</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>有限会社加藤塗装店</td>\n            <td>8:00〜18:00<br>（日曜・祝日休み）</td>\n            <td>鶴岡市朝暘町に所在</td>\n            <td>塗装・防水専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>池田塗研</td>\n            <td>9:00〜18:00<br>（年中無休・GW等除く）</td>\n            <td>山形県内（鶴岡店あり）</td>\n            <td>塗装専門店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>株式会社芝田板金｜鶴岡市の建築板金・屋根工事専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_shibata.jpg\" alt=\"株式会社芝田板金公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社芝田板金 公式サイト</figcaption>\n      </figure>\n      <p>山形県鶴岡市中京田に拠点を置く建築板金の専門店。屋根の張替えや雨漏り修理、雨どい工事などを手がけ、<span class=\"mk\">見積り・診断・相談は無料</span>と案内しています。</p>\n      <ul class=\"check\">\n        <li>見積り・診断・ご相談は無料</li>\n        <li>対応エリアは鶴岡市を中心に酒田市・庄内町・遊佐町・三川町など庄内地域</li>\n        <li>屋根の張替え・雨漏り修理・雨どい工事に対応</li>\n      </ul>\n      <p>屋根の雨漏りそのものを板金の技術で直したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://k-shibatabankin.com/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社芝田板金の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>有限会社加藤塗装店｜昭和32年創業・鶴岡市の塗装・防水専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_kato.jpg\" alt=\"有限会社加藤塗装店公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：有限会社加藤塗装店 公式サイト</figcaption>\n      </figure>\n      <p>山形県鶴岡市朝暘町に拠点を置く、昭和32年（1957年）創業の塗装・防水工事店。外壁塗装や屋根塗装に加え防水工事も手がけ、<span class=\"mk\">見積り・屋根診断・外壁診断は無料</span>としています。</p>\n      <ul class=\"check\">\n        <li>見積り無料、屋根診断・外壁診断も無料</li>\n        <li>昭和32年創業、防水工事にも対応</li>\n        <li>営業時間8:00〜18:00（日曜・祝日休み）</li>\n      </ul>\n      <p>塗装の劣化からくる防水不良・雨漏りが気になる人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.tsuruoka-kato-tosou.com/\" target=\"_blank\" rel=\"nofollow noopener\">有限会社加藤塗装店の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>池田塗研｜山形県内施工実績1,300件以上の外壁・屋根塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_ikeda.jpg\" alt=\"池田塗研公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：池田塗研 公式サイト</figcaption>\n      </figure>\n      <p>鶴岡市美原町に鶴岡店を構える外壁・屋根塗装の専門店。<span class=\"mk\">無料見積もり・外壁屋根の無料診断</span>に対応し、山形県内で1,300件以上の施工実績があるとしています。</p>\n      <ul class=\"check\">\n        <li>無料見積もり、外壁・屋根の無料診断に対応</li>\n        <li>山形県内施工実績1,300件以上</li>\n        <li>受付時間9:00〜18:00、年中無休（GW・夏季・年末年始を除く）</li>\n      </ul>\n      <p>実績の多さを重視したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://ikedatoken.com/\" target=\"_blank\" rel=\"nofollow noopener\">池田塗研の公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}

@@ -1,0 +1,24 @@
+{
+ "slug": "sakata",
+ "city": "酒田市",
+ "pref": "山形県",
+ "region": "東北",
+ "lp": "lp3",
+ "lpid": "amarefo_sakata",
+ "area_wide": "東北全域",
+ "nearby": "山形県内",
+ "consumer_center": "酒田市消費生活センター",
+ "date_pub": "2026-10-08",
+ "date_mod": "2026-10-08",
+ "order": 39,
+ "intro_local": "酒田市は最上川が日本海に注ぐ河口に位置する港町で、日本海からの強い風や暴風に見舞われることが多く、風による屋根材の破損や雨漏りにつながるケースが見られるエリア。",
+ "companies": [
+  "アメトメ",
+  "株式会社杉野瓦産業",
+  "株式会社加藤繁治商店",
+  "雨ん防 酒田店",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>株式会社杉野瓦産業</td>\n            <td>酒田市船場町に所在</td>\n            <td>酒田市中心に庄内地方・鶴岡市・三川町</td>\n            <td>瓦屋根・板金専門店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>株式会社加藤繁治商店</td>\n            <td>8:30〜18:00</td>\n            <td>酒田市中心</td>\n            <td>リフォーム店<br>（屋根・雨漏りも対応）</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>雨ん防 酒田店</td>\n            <td>24時間受付</td>\n            <td>酒田市</td>\n            <td>塗装店<br>（雨漏り修理も対応）</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>株式会社杉野瓦産業｜酒田市の瓦屋根・板金専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_sugino.jpg\" alt=\"株式会社杉野瓦産業公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社杉野瓦産業 公式サイト</figcaption>\n      </figure>\n      <p>山形県酒田市船場町に拠点を置く瓦屋根・板金の専門店。瓦屋根の修理や葺き替え、雨どい工事などを手がけ、<span class=\"mk\">点検・お見積りは無料</span>と案内しています。</p>\n      <ul class=\"check\">\n        <li>点検・お見積りは無料</li>\n        <li>瓦屋根の修理・葺き替え、雨どい・板金工事に対応</li>\n        <li>雪止め製品の取り付けにも対応</li>\n      </ul>\n      <p>瓦屋根からの雨漏りを専門店に相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://sugitaro.co.jp/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社杉野瓦産業の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>株式会社加藤繁治商店｜酒田市のリフォーム店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_shigezi.jpg\" alt=\"株式会社加藤繁治商店公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社加藤繁治商店 公式サイト</figcaption>\n      </figure>\n      <p>山形県酒田市浜田に拠点を置くリフォーム店。水回りや内装、外壁・屋根などの外装まで幅広く手がけ、<span class=\"mk\">下見・見積りは無料</span>としています。</p>\n      <ul class=\"check\">\n        <li>下見・お見積りは無料</li>\n        <li>水回り・内装・外壁・屋根まで幅広く対応</li>\n        <li>営業時間8:30〜18:00</li>\n      </ul>\n      <p>屋根以外のリフォームも含めて相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.sigezi.biz/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社加藤繁治商店の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>雨ん防 酒田店｜屋根外壁塗装・雨漏り修理の専門窓口</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_amenbousakata.jpg\" alt=\"雨ん防酒田店公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：雨ん防 酒田店 公式サイト</figcaption>\n      </figure>\n      <p>山形県酒田市緑町にある屋根外壁塗装・雨漏り修理の専門窓口。<span class=\"mk\">お見積りは無料</span>で、原因を特定できなかった場合は費用を頂かないとしています。</p>\n      <ul class=\"check\">\n        <li>お見積りは無料（原因が特定できない場合は費用なし）</li>\n        <li>24時間受付に対応</li>\n        <li>山形県内で店舗展開するゆうき総業株式会社が運営</li>\n      </ul>\n      <p>急いでいる・すぐに相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://campaign-lp.jp/amenbou/sakata/\" target=\"_blank\" rel=\"nofollow noopener\">雨ん防 酒田店の公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}
