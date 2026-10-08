@@ -1,0 +1,24 @@
+{
+ "slug": "aomori",
+ "city": "青森市",
+ "pref": "青森県",
+ "region": "東北",
+ "lp": "lp3",
+ "lpid": "amarefo_aomori",
+ "area_wide": "東北全域",
+ "nearby": "青森県内",
+ "consumer_center": "青森市民消費生活センター",
+ "date_pub": "2026-10-08",
+ "date_mod": "2026-10-08",
+ "order": 22,
+ "intro_local": "青森市は全域が特別豪雪地帯に指定されるほどの積雪地域で、冬季の雪の重みや凍害によって屋根材が変形・破損し、雨漏りにつながるケースが見られるエリア。",
+ "companies": [
+  "アメトメ",
+  "貝森板金工業",
+  "フラワー塗装",
+  "木村板金",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>貝森板金工業</td>\n            <td>8:00〜18:00<br>（不定休）</td>\n            <td>青森県内全域</td>\n            <td>屋根工事・板金専門店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>フラワー塗装</td>\n            <td>平日9:00〜17:00<br>（土日祝・お盆・年末年始休み）</td>\n            <td>青森市中心に弘前市・つがる市など県内8市町村</td>\n            <td>塗装専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>木村板金</td>\n            <td>青森市千富町に所在</td>\n            <td>青森市中心に対応</td>\n            <td>屋根工事店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>貝森板金工業｜地域で50年の実績を持つ屋根工事・板金専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_kaimori.jpg\" alt=\"貝森板金工業公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：有限会社貝森板金工業 公式サイト</figcaption>\n      </figure>\n      <p>青森市大字筒井に拠点を置く屋根工事・外壁工事・雨樋工事の板金専門店。<span class=\"mk\">地域の皆様に愛されて50年</span>という実績を持ち、屋根の変形や劣化による雨漏りの原因調査から修理まで対応しています。</p>\n      <ul class=\"check\">\n        <li>工事のご依頼・お見積りは無料（電話・メールで受付）</li>\n        <li>地域の皆様に愛されて50年の実績</li>\n        <li>営業時間8:00〜18:00（不定休）・対応エリアは青森県内全域</li>\n      </ul>\n      <p>老舗の板金技術を重視したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.kaimoribankin.com/\" target=\"_blank\" rel=\"nofollow noopener\">貝森板金工業の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>フラワー塗装｜青森市発の外壁・内装塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_flower.jpg\" alt=\"フラワー塗装公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：有限会社フラワー塗装 公式サイト</figcaption>\n      </figure>\n      <p>青森市大字石江に拠点を置く外壁・内装塗装の専門店。<span class=\"mk\">無料で建物診断</span>を行っており、外壁のひび割れやコーキングの劣化、雨漏りの兆候が気になる場合の相談先になります。</p>\n      <ul class=\"check\">\n        <li>無料相談・見積もり、建物診断も無料</li>\n        <li>対応エリアは青森市・弘前市・つがる市・平川市・黒石市・五所川原市・平内町・野辺地町</li>\n        <li>営業時間平日9:00〜17:00（土日祝・お盆・年末年始休み）</li>\n      </ul>\n      <p>外壁やコーキングの劣化から来る雨漏りが気になる人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.flower-toso.com/\" target=\"_blank\" rel=\"nofollow noopener\">フラワー塗装の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>木村板金｜青森市千富町の地域密着型屋根工事専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_kimura.jpg\" alt=\"木村板金公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：木村板金 公式サイト</figcaption>\n      </figure>\n      <p>青森市千富町に拠点を置く地域密着型の屋根工事専門店。<span class=\"mk\">まずは無料で診断・見積もり</span>を行っており、雪の重みや凍害による屋根の変形・破損の修理、雪止めの設置・修理にも対応しています。</p>\n      <ul class=\"check\">\n        <li>現地での無料診断・見積もりに対応</li>\n        <li>雪による屋根の変形・破損修理、雪止めの設置・修理に対応</li>\n        <li>青森市千富町に所在、小さな屋根修理から相談可能</li>\n      </ul>\n      <p>積雪・凍害による屋根の傷みが気になる人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.yaneya-3.com/\" target=\"_blank\" rel=\"nofollow noopener\">木村板金の公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}
