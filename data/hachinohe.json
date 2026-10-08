@@ -1,0 +1,24 @@
+{
+ "slug": "hachinohe",
+ "city": "八戸市",
+ "pref": "青森県",
+ "region": "東北",
+ "lp": "lp3",
+ "lpid": "amarefo_hachinohe",
+ "area_wide": "東北全域",
+ "nearby": "青森県内",
+ "consumer_center": "八戸市消費生活センター",
+ "date_pub": "2026-10-08",
+ "date_mod": "2026-10-08",
+ "order": 27,
+ "intro_local": "八戸市は太平洋に面した港湾都市で、夏は「やませ」と呼ばれる冷たく湿った東風の影響を受けやすく、海からの潮風や湿気によって屋根・外壁の傷みが進みやすいエリア。",
+ "companies": [
+  "アメトメ",
+  "有限会社板金業たかお",
+  "佐々木商会",
+  "八戸ペイント",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>有限会社板金業たかお</td>\n            <td>7:00〜18:00<br>（日曜休み）</td>\n            <td>八戸市中心に対応</td>\n            <td>屋根工事・板金専門店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>佐々木商会</td>\n            <td>8:00〜17:00</td>\n            <td>八戸地域密着</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>八戸ペイント</td>\n            <td>9:00〜18:00<br>（日曜定休）</td>\n            <td>八戸市根城の八戸ショールームから20km圏内</td>\n            <td>塗装専門店<br>（雨漏り修理も対応）</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>有限会社板金業たかお｜八戸市の屋根工事・板金専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_takao.jpg\" alt=\"有限会社板金業たかお公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：有限会社板金業たかお 公式サイト</figcaption>\n      </figure>\n      <p>青森県八戸市大字糠塚字板橋に拠点を置く屋根工事の専門スタッフが、雨漏りの診断から修理まで対応する板金専門店。<span class=\"mk\">お見積りは無料</span>で相談できるので、まずは現状を伝えてみるのがおすすめです。</p>\n      <ul class=\"check\">\n        <li>お見積りは無料（公式サイトに明記）</li>\n        <li>屋根工事の専門スタッフが雨漏り診断に対応</li>\n        <li>受付時間7:00〜18:00（日曜休み）</li>\n      </ul>\n      <p>屋根の板金部分（棟板金・谷板金など）の傷みが気になる人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.amamori-b-takao.com/\" target=\"_blank\" rel=\"nofollow noopener\">有限会社板金業たかおの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>佐々木商会｜八戸地域密着の外壁塗装・屋根リフォーム専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_sasakishokai.jpg\" alt=\"佐々木商会公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：佐々木商会 公式サイト</figcaption>\n      </figure>\n      <p>青森県八戸市城下に拠点を置く外壁塗装・屋根リフォームの専門店。<span class=\"mk\">雨漏り診断・建物劣化診断は無料</span>で行っており、実際に水をかけて雨漏りを再現する方法で原因箇所を特定しています。</p>\n      <ul class=\"check\">\n        <li>雨漏り診断・建物劣化診断が無料</li>\n        <li>一級塗装技能士などの資格保有者が診断を担当し、診断書を提出</li>\n        <li>電話受付8:00〜17:00、八戸地域密着</li>\n      </ul>\n      <p>雨漏りの原因をしっかり特定してから直したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.paintsasaki.com/amamori/\" target=\"_blank\" rel=\"nofollow noopener\">佐々木商会の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>八戸ペイント｜雨漏り修理の実績が豊富な塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_hachinohepaint.jpg\" alt=\"八戸ペイント公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：八戸ペイント 公式サイト</figcaption>\n      </figure>\n      <p>青森県八戸市根城に拠点を置く塗装専門店で、<span class=\"mk\">雨漏り修理は年間70棟以上</span>を手がけています。赤外線調査や散水調査で原因を特定し、調査報告書を提出する体制です。</p>\n      <ul class=\"check\">\n        <li>相談・見積もり無料</li>\n        <li>雨漏り修理は年間70棟以上の実績、122社ネットワークに加盟</li>\n        <li>対応エリアは八戸市根城の八戸ショールームから20km圏内（受付9:00〜18:00・日曜定休）</li>\n      </ul>\n      <p>赤外線・散水調査などしっかり原因を調べてほしい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.hachinohe-paint.com/\" target=\"_blank\" rel=\"nofollow noopener\">八戸ペイントの公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}

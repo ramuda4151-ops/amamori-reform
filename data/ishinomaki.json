@@ -1,0 +1,24 @@
+{
+ "slug": "ishinomaki",
+ "city": "石巻市",
+ "pref": "宮城県",
+ "region": "東北",
+ "lp": "lp3",
+ "lpid": "amarefo_ishinomaki",
+ "area_wide": "東北全域",
+ "nearby": "宮城県内",
+ "consumer_center": "石巻市消費生活センター",
+ "date_pub": "2026-10-08",
+ "date_mod": "2026-10-08",
+ "order": 28,
+ "intro_local": "石巻市は太平洋沿岸に広がる港湾都市で、令和元年の台風19号では住宅の損壊被害を受けたエリアもあり、台風や強風による屋根・外壁の被害リスクが高いエリア。",
+ "companies": [
+  "アメトメ",
+  "髙橋屋根工業",
+  "イエガード（タカカツリフォーム）",
+  "宮城塗装サービス",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>髙橋屋根工業</td>\n            <td>9:00〜17:00<br>（日曜・祝日定休）</td>\n            <td>宮城県内対応</td>\n            <td>屋根工事店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>イエガード（タカカツリフォーム）</td>\n            <td>10:00〜18:00<br>（火・水定休）</td>\n            <td>石巻市・大崎市・仙台市など宮城県内</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>宮城塗装サービス</td>\n            <td>8:00〜17:00<br>（日・祝定休）</td>\n            <td>石巻市を中心に宮城県全域</td>\n            <td>塗装専門店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>髙橋屋根工業｜石巻で47年の実績を持つ屋根工事会社</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_takahashiyane.jpg\" alt=\"髙橋屋根工業公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：髙橋屋根工業株式会社 公式サイト</figcaption>\n      </figure>\n      <p>宮城県石巻市蛇田に拠点を置く屋根工事の専門会社。<span class=\"mk\">石巻で47年</span>の実績を持ち、瓦屋根工事を中心に、雨漏りの原因調査から根本的な修理まで対応しています。</p>\n      <ul class=\"check\">\n        <li>屋根の無料点検を実施</li>\n        <li>石巻で47年の実績（瓦屋根工事を中心に対応）</li>\n        <li>受付時間9:00〜17:00（日曜・祝日定休）</li>\n      </ul>\n      <p>瓦屋根・神社仏閣など専門的な屋根工事を相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://t-roof.com/\" target=\"_blank\" rel=\"nofollow noopener\">髙橋屋根工業の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>イエガード（タカカツリフォーム）｜石巻店を構えるリフォーム会社</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_ieguard.jpg\" alt=\"イエガード公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社タカカツリフォーム「イエガード」公式サイト</figcaption>\n      </figure>\n      <p>宮城県石巻市恵み野に石巻店を構えるリフォーム会社。<span class=\"mk\">雨漏り診断が初回限定0円</span>で相談できるほか、お見積りも無料です。屋根の葺き替え（ガルバリウム鋼板）は穴あき保証25年と長期保証を掲げています。</p>\n      <ul class=\"check\">\n        <li>雨漏り診断が初回限定0円、お見積りも無料</li>\n        <li>屋根葺き替え（ガルバリウム鋼板）は穴あき保証25年</li>\n        <li>受付時間10:00〜18:00（火・水定休）、石巻店は石巻市恵み野に所在</li>\n      </ul>\n      <p>長期保証つきで屋根の葺き替えまで任せたい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.ieguard-takakatsu.com/\" target=\"_blank\" rel=\"nofollow noopener\">イエガードの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>宮城塗装サービス｜石巻市中心の地域密着型塗装業者</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_miyagitosou.jpg\" alt=\"宮城塗装サービス公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：宮城塗装サービス 公式サイト</figcaption>\n      </figure>\n      <p>宮城県石巻市大街道北に拠点を置く地域密着型の塗装業者。<span class=\"mk\">現地調査・お見積りが無料</span>で、外壁塗装・屋根塗装・雨樋修理に対応しています。</p>\n      <ul class=\"check\">\n        <li>現地調査・お見積りが無料</li>\n        <li>対応エリアは石巻市を中心に宮城県全域</li>\n        <li>受付時間8:00〜17:00（日・祝定休）</li>\n      </ul>\n      <p>外壁塗装とあわせて雨樋の修理も相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.miyagitosouservice.com/\" target=\"_blank\" rel=\"nofollow noopener\">宮城塗装サービスの公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}

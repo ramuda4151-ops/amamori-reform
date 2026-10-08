@@ -1,0 +1,25 @@
+{
+ "slug": "utsunomiya",
+ "city": "宇都宮市",
+ "pref": "栃木県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_utsunomiya",
+ "area_wide": "関東全域",
+ "nearby": "栃木県内",
+ "consumer_center": "宇都宮市消費生活センター",
+ "date_pub": "2026-10-08",
+ "date_mod": "2026-10-08",
+ "order": 29,
+ "intro_local": "宇都宮市は夏の雷の多さから「雷都」とも呼ばれる地域で、気象庁の統計でも暖候期（4〜9月）の雷日数が全国で最も多く、激しい雷雨やゲリラ豪雨をきっかけに雨漏りに気づくケースが見られるエリア。",
+ "companies": [
+  "アメトメ",
+  "吉沢板金工業",
+  "リフォームの森",
+  "スミタイ",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>吉沢板金工業</td>\n            <td>受付時間は要問合せ</td>\n            <td>宇都宮市中心に対応</td>\n            <td>屋根工事・板金専門店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>リフォームの森</td>\n            <td>9:00〜20:00<br>（土日祝も対応）</td>\n            <td>宇都宮市・塩谷町・鹿沼市・さくら市・真岡市</td>\n            <td>屋根工事・防水工事専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>スミタイ</td>\n            <td>9:00〜17:30<br>（火・水定休）</td>\n            <td>宇都宮市中心（宇都宮・小山・鹿沼に店舗）</td>\n            <td>外壁・屋根塗装専門店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>吉沢板金工業｜創業50年の屋根工事・板金専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_yoshizawabankin.jpg\" alt=\"吉沢板金工業公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：（有）吉沢板金工業 公式サイト</figcaption>\n      </figure>\n      <p>栃木県宇都宮市東今泉に拠点を置く屋根工事・板金の専門店。<span class=\"mk\">創業以来50年</span>、住宅から工場・店舗・神社仏閣まで屋根・外装を手がけてきました。雨漏りに関する無料相談と無料屋根診断を行っています。</p>\n      <ul class=\"check\">\n        <li>雨漏りに関する無料相談・無料屋根診断を実施</li>\n        <li>創業以来50年、住宅から神社仏閣まで屋根・外装の実績</li>\n        <li>宇都宮市東今泉に所在、宇都宮市中心に対応</li>\n      </ul>\n      <p>老舗の板金技術で屋根・雨漏りを見てほしい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.roof-meister.com/\" target=\"_blank\" rel=\"nofollow noopener\">吉沢板金工業の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>リフォームの森｜屋根工事・防水工事の専門会社</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_morinomori.jpg\" alt=\"リフォームの森公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：屋根工事・防水工事専門 リフォームの森株式会社 公式サイト</figcaption>\n      </figure>\n      <p>栃木県宇都宮市中岡町に拠点を置く屋根・防水工事の専門会社。<span class=\"mk\">屋根・外壁の0円診断</span>を行っており、累計1,200棟の施工実績と最長15年保証を掲げています。</p>\n      <ul class=\"check\">\n        <li>屋根・外壁の0円診断を実施</li>\n        <li>累計1,200棟の施工事例、創業11年、最長15年保証</li>\n        <li>受付時間9:00〜20:00、土日祝も対応</li>\n      </ul>\n      <p>保証年数や実績の多さを重視したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://morikentikutosou.jp/\" target=\"_blank\" rel=\"nofollow noopener\">リフォームの森の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>スミタイ｜宇都宮の外壁・屋根塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_sumitai.jpg\" alt=\"スミタイ公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：スミタイ 公式サイト</figcaption>\n      </figure>\n      <p>栃木県宇都宮市東谷町に本店を置く外壁・屋根塗装の専門店。<span class=\"mk\">見積り・診断が無料</span>で、宇都宮を中心に5,000棟以上の施工実績があります。自社工事保証書も発行しています。</p>\n      <ul class=\"check\">\n        <li>見積り・診断が無料</li>\n        <li>宇都宮を中心に5,000棟以上の施工実績</li>\n        <li>受付時間9:00〜17:30（火・水定休）、自社工事保証書を発行</li>\n      </ul>\n      <p>塗装による外壁・屋根のメンテナンスも一緒に相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.tochigi-gaiheki.com/\" target=\"_blank\" rel=\"nofollow noopener\">スミタイの公式サイトはこちら ›</a></p>\n    </div>\n\n    ",
+ "extra_html": "    <h2 id=\"josei\">宇都宮市の住宅改修に使える補助金</h2>\n    <p>宇都宮市では「住宅改修事業費補助金」を実施しています。令和8年度版の案内では、<span class=\"mk\">工事費の10%（上限10万円）</span>が補助され、窓の断熱改修やバリアフリー改修、太陽熱温水器の設置、防犯性向上に資する改修などが対象とされています。</p>\n    <p>対象となるのは市内の住宅（借家を含む）に居住している人で、<strong>事業者と契約する前に事前申込が必要</strong>な点に注意してください。雨漏り修理そのものが対象になるかは工事内容によって異なるため、申請前に宇都宮市都市整備部住宅政策課に確認しましょう。</p>\n"
+}
