@@ -1,0 +1,25 @@
+{
+ "slug": "mito",
+ "city": "水戸市",
+ "pref": "茨城県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_mito",
+ "area_wide": "関東全域",
+ "nearby": "茨城県内",
+ "consumer_center": "水戸市消費生活センター",
+ "date_pub": "2026-10-08",
+ "date_mod": "2026-10-08",
+ "order": 31,
+ "intro_local": "水戸市は令和元年東日本台風で全壊189棟・半壊1,050棟の住宅被害を記録したほか、昭和56年以前の旧耐震基準の木造住宅も残る、豪雨や台風による雨漏りリスクの高いエリア。",
+ "companies": [
+  "アメトメ",
+  "千歳瓦店",
+  "岡井屋根工事",
+  "ドクターペイント",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>千歳瓦店</td>\n            <td>8:00〜18:00<br>（日・祝・年末年始定休）</td>\n            <td>水戸市中心に日立市・石岡市など県内広域</td>\n            <td>屋根工事・瓦専門店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>岡井屋根工事</td>\n            <td>受付時間は要問合せ</td>\n            <td>水戸市を中心に茨城県内全域</td>\n            <td>屋根工事店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>ドクターペイント</td>\n            <td>8:00〜18:00<br>（日曜定休）</td>\n            <td>水戸市中心に対応</td>\n            <td>塗装・防水店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>千歳瓦店｜完全自社施工の屋根・瓦専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_chitosekawaraten.jpg\" alt=\"千歳瓦店公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：千歳瓦店 公式サイト</figcaption>\n      </figure>\n      <p>茨城県水戸市田谷町の瓦・屋根専門店。<span class=\"mk\">雨漏りに関する無料相談・無料調査・無料見積り</span>を公式サイトで明記しており、完全自社施工で対応しています。業務災害総合保険・第三者賠償責任保険にも加入。</p>\n      <ul class=\"check\">\n        <li>雨漏りの無料相談・無料調査・無料見積もりを実施</li>\n        <li>完全自社施工、業務災害総合保険・第三者賠償責任保険に加入</li>\n        <li>受付時間8:00〜18:00（日・祝・年末年始定休）、水戸市を中心に県内広域に対応</li>\n      </ul>\n      <p>瓦屋根の雨漏りをまず無料で見てほしい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://chitose-kawaraten.com/\" target=\"_blank\" rel=\"nofollow noopener\">千歳瓦店の公式サイトはこちら ›</a></p>\n    </div>\n\n<h3><span class=\"rank-badge\">第3位</span>岡井屋根工事｜ドローン無料診断に対応する屋根工事専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_okaiyane.jpg\" alt=\"岡井屋根工事公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：岡井屋根工事 公式サイト</figcaption>\n      </figure>\n      <p>茨城県水戸市元石川町に拠点を置く屋根工事専門店。<span class=\"mk\">ドローンを使った無料屋根診断</span>と、相談・お見積りの無料対応を公式サイトで明記しています。屋根の葺き替え・カバールーフ工法・雨樋工事から外壁（サイディング）工事まで幅広く手がけています。</p>\n      <ul class=\"check\">\n        <li>ドローンによる無料屋根診断、相談・お見積りも無料</li>\n        <li>葺き替え・カバールーフ工法・雨樋工事・外壁工事まで対応</li>\n        <li>水戸市を中心に茨城県内全域に対応</li>\n      </ul>\n      <p>屋根の状態を上空からもしっかり確認したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://okai-yane.com/\" target=\"_blank\" rel=\"nofollow noopener\">岡井屋根工事の公式サイトはこちら ›</a></p>\n    </div>\n\n<h3><span class=\"rank-badge\">第4位</span>ドクターペイント｜現地調査から見積りまで無料の地元塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_doctorpaint.jpg\" alt=\"ドクターペイント公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：ドクターペイント 公式サイト</figcaption>\n      </figure>\n      <p>茨城県水戸市元吉田町の外壁・屋根塗装・防水の専門店。施工の流れのうち<span class=\"mk\">「現地調査」「お見積り」までを無料</span>で行うと公式サイトで明記しており、高圧洗浄から下地調整・塗装まで一貫して対応します。</p>\n      <ul class=\"check\">\n        <li>現地調査・お見積りまでを無料で対応</li>\n        <li>外壁塗装・屋根塗装・防水工事・リフォームに対応</li>\n        <li>受付時間8:00〜18:00（日曜定休）</li>\n      </ul>\n      <p>外壁の塗装・防水とあわせて雨漏りも相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://doctor-paint.jp/\" target=\"_blank\" rel=\"nofollow noopener\">ドクターペイントの公式サイトはこちら ›</a></p>\n    </div>\n\n",
+ "extra_html": "    <h2 id=\"josei\">水戸市の住宅修繕に使える補助金</h2>\n    <p>水戸市では「水戸市安心住宅リフォーム支援補助金」を実施しています。<span class=\"mk\">屋根のふき替え・塗装・防水、外壁の張替え・塗装・防水</span>など住宅の安全性・耐久性を高める改修工事が対象で、補助対象経費の10分の1（上限10万円）が補助されます。</p>\n    <p>利用には<strong>工事費が50万円（税抜）以上であること、市内に本店を置く建設業許可業者に発注すること</strong>などの条件があります。申請手続きや最新の受付状況は、工事を依頼する前に水戸市の担当窓口に確認しましょう。</p>\n"
+}

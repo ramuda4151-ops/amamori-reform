@@ -1,0 +1,25 @@
+{
+ "slug": "tsukuba",
+ "city": "つくば市",
+ "pref": "茨城県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_tsukuba",
+ "area_wide": "関東全域",
+ "nearby": "茨城県内",
+ "consumer_center": "消費生活センター（つくば市）",
+ "date_pub": "2026-10-08",
+ "date_mod": "2026-10-08",
+ "order": 32,
+ "intro_local": "つくば市は2012年に藤田スケールF3の竜巻で住家被害1,114棟を記録した地域で、つくばエクスプレス沿線の新興住宅地と旧町村域の築年数の古い住宅地が混在するエリア。",
+ "companies": [
+  "アメトメ",
+  "リフォラム",
+  "タカハシROOF",
+  "つくばペイント",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>リフォラム</td>\n            <td>9:00〜18:00<br>（年中無休）</td>\n            <td>つくば市中心に茨城県南エリア</td>\n            <td>外壁・屋根塗装店<br>（防水工事も対応）</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>タカハシROOF</td>\n            <td>9:00〜19:00<br>（月曜定休）</td>\n            <td>つくば市中心に車で1時間圏内</td>\n            <td>屋根工事専門店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>つくばペイント</td>\n            <td>受付時間は要問合せ</td>\n            <td>つくば市中心に茨城県内広域</td>\n            <td>外壁・屋根塗装店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>リフォラム｜施工実績11,600件超・創業60年の老舗塗装・防水店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_reforum.jpg\" alt=\"リフォラム公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：リフォラム（株式会社サトウ塗工社）公式サイト</figcaption>\n      </figure>\n      <p>公共工事（学校・橋など）も手がける創業60年の株式会社サトウ塗工社が運営する外壁・屋根塗装・防水の専門ブランド。<span class=\"mk\">現地調査からお見積りまでをすべて無料</span>で対応し、施工実績は11,600件を超えています。</p>\n      <ul class=\"check\">\n        <li>現地調査・お見積りをすべて無料で対応</li>\n        <li>創業60年、施工実績11,600件超</li>\n        <li>受付時間9:00〜18:00（年中無休）、つくば市中心に茨城県南エリアに対応</li>\n      </ul>\n      <p>長年の実績と公共工事レベルの技術基準を重視したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://reforum.jp/\" target=\"_blank\" rel=\"nofollow noopener\">リフォラムの公式サイトはこちら ›</a></p>\n    </div>\n\n<h3><span class=\"rank-badge\">第3位</span>タカハシROOF｜ドローン・赤外線カメラで無料診断する屋根専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_takahashiroof.jpg\" alt=\"タカハシROOF公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：タカハシROOF（タカハシ塗装株式会社）公式サイト</figcaption>\n      </figure>\n      <p>茨城県つくば市西大井に拠点を置く屋根専門店（タカハシ塗装株式会社が運営）。<span class=\"mk\">ドローンと赤外線カメラを使った現地調査を無料</span>で実施し、お見積りも無料。屋根カバー工法・葺き替え工事は最長10年保証です。</p>\n      <ul class=\"check\">\n        <li>ドローン・赤外線カメラによる無料診断、お見積りも無料</li>\n        <li>屋根カバー工法・葺き替え工事は最長10年保証</li>\n        <li>受付時間9:00〜19:00（月曜定休）、メール・LINEは24時間受付</li>\n      </ul>\n      <p>屋根の劣化状況を機材でしっかり確認してほしい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.takahashi-roof.net/\" target=\"_blank\" rel=\"nofollow noopener\">タカハシROOFの公式サイトはこちら ›</a></p>\n    </div>\n\n<h3><span class=\"rank-badge\">第4位</span>つくばペイント｜施工後365日全額返金保証の職人直営塗装店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_tsukubapaint.jpg\" alt=\"つくばペイント公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：つくばペイント株式会社 公式サイト</figcaption>\n      </figure>\n      <p>茨城県つくば市古来に拠点を置く、職人直営の外壁塗装・屋根工事専門店。<span class=\"mk\">現地調査・ご提案・お見積りを無料</span>で対応し、施工後365日の全額返金保証や剥がれ補修保証（5〜13年）を掲げています。</p>\n      <ul class=\"check\">\n        <li>現地調査・ご提案・お見積りが無料</li>\n        <li>施工後365日の全額返金保証、剥がれ補修保証5〜13年</li>\n        <li>創業10年で施工件数150件以上、つくば市中心に茨城県内で対応</li>\n      </ul>\n      <p>職人直営ならではの保証の厚さを重視したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://tsukubapaint.com/\" target=\"_blank\" rel=\"nofollow noopener\">つくばペイントの公式サイトはこちら ›</a></p>\n    </div>\n\n",
+ "extra_html": "    <h2 id=\"josei\">つくば市の住宅修繕に関する補助制度</h2>\n    <p>つくば市には「木造住宅耐震改修費補助制度」があります。<strong>昭和56年5月31日以前に建築された木造住宅</strong>を対象に、耐震診断の評点を基準まで引き上げる耐震改修工事に対し、工事費用の5分の4（上限115万円）を補助する制度です。ただし先着順で受付件数に限りがあり、<span class=\"mk\">雨漏り修理そのものを対象とした一般的なリフォーム補助金ではない</span>点に注意してください。</p>\n    <p>屋根・外壁の雨漏り修理が耐震改修工事と同時に行われる場合に対象となる可能性はありますが、適用可否は個別の工事内容によるため、利用を検討する場合はつくば市建築指導課に直接確認しましょう。</p>\n"
+}

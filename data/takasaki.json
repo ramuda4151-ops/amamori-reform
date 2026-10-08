@@ -1,0 +1,25 @@
+{
+ "slug": "takasaki",
+ "city": "高崎市",
+ "pref": "群馬県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_takasaki",
+ "area_wide": "関東全域",
+ "nearby": "群馬県内",
+ "consumer_center": "高崎市消費生活センター",
+ "date_pub": "2026-10-08",
+ "date_mod": "2026-10-08",
+ "order": 30,
+ "intro_local": "高崎市は過去にF1規模の突風やダウンバーストによる住宅被害が記録されているほか、中心市街地では老朽化した空き家の屋根・外壁破損も課題となっている、築古住宅が点在するエリア。",
+ "companies": [
+  "アメトメ",
+  "ベルテック",
+  "浦部住総",
+  "ユタカペイント",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>ベルテック</td>\n            <td>8:00〜17:00<br>（土日祝は除く）</td>\n            <td>高崎市中心に車で約30分圏内</td>\n            <td>屋根工事店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>浦部住総</td>\n            <td>9:00〜19:00<br>（土日祝も対応）</td>\n            <td>高崎市を含む群馬県全域・埼玉県北エリア</td>\n            <td>屋根葺き替え専門店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>ユタカペイント</td>\n            <td>9:00〜18:00<br>（月〜金）</td>\n            <td>高崎市及び会社から30分圏内</td>\n            <td>塗装・防水店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>ベルテック｜設立1972年・板金と屋根工事の建設業許可を持つ地場の専門工事店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_bellteq.jpg\" alt=\"ベルテック公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社ベルテック 公式サイト</figcaption>\n      </figure>\n      <p>群馬県高崎市浜川町に本社を置く、1972年（昭和47年）設立の板金・屋根工事専門店。資本金3,500万円で、<span class=\"mk\">建設業許可（板金工事業・屋根工事業など）</span>を保有。雨漏り・雨どい修理の無料診断・調査（30分〜1時間程度）を行い、診断報告書とあわせてお見積りも無料で提示します。</p>\n      <ul class=\"check\">\n        <li>雨漏り・雨どいの無料診断・調査を実施（お見積りも無料）</li>\n        <li>1972年設立、板金工事業・屋根工事業の建設業許可を保有</li>\n        <li>受付時間8:00〜17:00（土日祝は除く）、高崎市から車で約30分圏内に対応</li>\n      </ul>\n      <p>老舗の板金・屋根技術でしっかり見てほしい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://bellteq.co.jp/\" target=\"_blank\" rel=\"nofollow noopener\">ベルテックの公式サイトはこちら ›</a></p>\n    </div>\n\n<h3><span class=\"rank-badge\">第3位</span>浦部住総｜施工事例989件超・最長15年保証の屋根専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_urabejyuusou.jpg\" alt=\"浦部住総公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社浦部住総 公式サイト</figcaption>\n      </figure>\n      <p>群馬県藤岡市に本社を置き、高崎市内でも多数の施工実績がある屋根専門店。屋根の葺き替え・屋根塗装・雨漏り修理を主力に、<span class=\"mk\">屋根の無料診断・無料見積り</span>を公式サイトで明記しています。最長15年保証とJIOリフォーム瑕疵保険加盟も特徴です。</p>\n      <ul class=\"check\">\n        <li>屋根の無料診断・無料見積りを実施（急な雨漏りも即日対応可）</li>\n        <li>施工事例989件超を公式サイトで公開、最長15年保証＋JIOリフォーム瑕疵保険加盟</li>\n        <li>電話受付9:00〜19:00（土日祝も対応）、群馬県全域・埼玉県北エリアに対応</li>\n      </ul>\n      <p>火災保険の相談もあわせてしたい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://urabejyuusou.co.jp/\" target=\"_blank\" rel=\"nofollow noopener\">浦部住総の公式サイトはこちら ›</a></p>\n    </div>\n\n<h3><span class=\"rank-badge\">第4位</span>ユタカペイント｜国家資格者が無料診断する高崎市の塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_yutakapaint.jpg\" alt=\"ユタカペイント公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社ユタカペイント 公式サイト</figcaption>\n      </figure>\n      <p>群馬県高崎市緑町に本社を置く外壁塗装の専門店（2002年創業、2014年に現社名へ変更）。<span class=\"mk\">国家資格を持つスタッフが外壁・屋根の状態を無料診断</span>し、「住まいの診断書」を作成してくれるのが特徴です。屋根塗装やカバー工法・葺き替えにも対応しています。</p>\n      <ul class=\"check\">\n        <li>国家資格所有者による外壁・屋根の無料診断を実施</li>\n        <li>創業から25年、群馬県知事許可（特-8）の建設業許可を保有</li>\n        <li>受付時間9:00〜18:00（月〜金）、高崎市及び会社から30分圏内に対応</li>\n      </ul>\n      <p>外壁塗装とあわせて屋根の状態も診断してほしい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.yutaka-industry.com/\" target=\"_blank\" rel=\"nofollow noopener\">ユタカペイントの公式サイトはこちら ›</a></p>\n    </div>\n\n",
+ "extra_html": "    <h2 id=\"josei\">高崎市の住宅修繕に使える補助金</h2>\n    <p>高崎市では「屋根改修工事補助金」として、瓦屋根を軽量な金属板等に葺き替える軽量化工事や、瓦屋根標準設計・施工ガイドラインに準拠した葺き替え（落下防止工事）に対し、<span class=\"mk\">工事費の2分の1（上限100万円）</span>を補助する制度があります。交付決定前の契約・着工は対象外になる点に注意が必要です。</p>\n    <p>別に「住環境改善助成事業」もあり、市内業者によるリフォーム工事費の30%（上限20万円）を助成する制度ですが、<strong>世帯の所得条件や市税の滞納がないことなど条件があり、着工前の事前申請が必須</strong>です。年度ごとに受付期間や内容が変わるため、申請前に高崎市建築指導課などに最新情報を確認しましょう。</p>\n"
+}
