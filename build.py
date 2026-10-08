@@ -37,9 +37,30 @@ def load_data():
     return items
 
 
-def render_article(d, tpl):
+def related_html(d, items):
+    """同県→同地方の順で近隣記事リンク（最大4件）のセクションHTMLを返す"""
+    others = [x for x in items if x['slug'] != d['slug']]
+    picks = [x for x in others if x['pref'] == d['pref']]
+    picks += [x for x in others if x['region'] == d.get('region') and x not in picks]
+    picks = picks[:4]
+    if not picks:
+        return ''
+    lis = '\n'.join(
+        f'        <li><a href="/{x["slug"]}/">【{x["city"]}】雨漏り修理業者おすすめランキング5選</a></li>'
+        for x in picks)
+    return f'''    <section class="related">
+      <h2>近隣エリアの雨漏り修理業者情報</h2>
+      <ul>
+{lis}
+      </ul>
+    </section>
+'''
+
+
+def render_article(d, tpl, items):
     out = tpl
     reps = {
+        '{{RELATED}}': related_html(d, items),
         '{{TABLE_ROWS}}': d['rows_html'],
         '{{COMPANY_CARDS}}': d['cards_html'],
         '{{INTRO_LOCAL}}': d['intro_local'],
@@ -69,7 +90,7 @@ def render_top(items, tpl):
         cards.append(f'''    <a class="post-card" href="/{d['slug']}/">
       <div class="post-thumb"><div class="pref">{d['pref']}</div><div class="area">{d['city']}</div></div>
       <div class="post-body">
-        <div class="pt">【{d['city']}】雨漏り修理業者おすすめ5選を徹底比較！費用相場と失敗しない選び方</div>
+        <div class="pt">【{d['city']}】雨漏り修理業者おすすめランキング5選！費用相場と失敗しない選び方</div>
         <div class="pd">{ja_date(d['date_mod'])}</div>
         <div class="tag">地域別ガイド</div>
       </div>
@@ -154,7 +175,7 @@ def main():
     for d in items:
         if only and d['slug'] != only:
             continue
-        html = inject_clarity(render_article(d, tpl))
+        html = inject_clarity(render_article(d, tpl, items))
         os.makedirs(f'{BASE}/{d["slug"]}', exist_ok=True)
         with open(f'{BASE}/{d["slug"]}/index.html', 'w', encoding='utf-8') as f:
             f.write(html)
