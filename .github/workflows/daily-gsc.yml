@@ -1,7 +1,7 @@
-name: weekly-gsc-export
+name: daily-gsc-export
 on:
   schedule:
-    - cron: '0 22 * * 0'   # 毎週月曜 07:00 JST
+    - cron: '0 21 * * *'   # 毎日 06:00 JST（朝8時の改善routineが参照）
   workflow_dispatch:
 
 jobs:
@@ -24,5 +24,5 @@ jobs:
           git config user.name "gsc-bot"
           git config user.email "actions@github.com"
           git add reports/
-          git diff --cached --quiet || git commit -m "chore: 週次GSCレポート更新"
+          git diff --cached --quiet || git commit -m "chore: GSCレポート更新"
           git push

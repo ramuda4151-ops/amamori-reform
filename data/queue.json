@@ -1,1 +1,242 @@
-[]
+[
+ {
+  "slug": "hirosaki",
+  "city": "弘前市",
+  "pref": "青森県",
+  "region": "東北",
+  "lp": "lp3",
+  "batch": 7
+ },
+ {
+  "slug": "tsuruoka",
+  "city": "鶴岡市",
+  "pref": "山形県",
+  "region": "東北",
+  "lp": "lp3",
+  "batch": 7
+ },
+ {
+  "slug": "sakata",
+  "city": "酒田市",
+  "pref": "山形県",
+  "region": "東北",
+  "lp": "lp3",
+  "batch": 7
+ },
+ {
+  "slug": "yonezawa",
+  "city": "米沢市",
+  "pref": "山形県",
+  "region": "東北",
+  "lp": "lp3",
+  "batch": 7
+ },
+ {
+  "slug": "aizuwakamatsu",
+  "city": "会津若松市",
+  "pref": "福島県",
+  "region": "東北",
+  "lp": "lp3",
+  "batch": 7
+ },
+ {
+  "slug": "sukagawa",
+  "city": "須賀川市",
+  "pref": "福島県",
+  "region": "東北",
+  "lp": "lp3",
+  "batch": 7
+ },
+ {
+  "slug": "ichinoseki",
+  "city": "一関市",
+  "pref": "岩手県",
+  "region": "東北",
+  "lp": "lp3",
+  "batch": 7
+ },
+ {
+  "slug": "kitakami",
+  "city": "北上市",
+  "pref": "岩手県",
+  "region": "東北",
+  "lp": "lp3",
+  "batch": 7
+ },
+ {
+  "slug": "hanamaki",
+  "city": "花巻市",
+  "pref": "岩手県",
+  "region": "東北",
+  "lp": "lp3",
+  "batch": 7
+ },
+ {
+  "slug": "osaki",
+  "city": "大崎市",
+  "pref": "宮城県",
+  "region": "東北",
+  "lp": "lp3",
+  "batch": 7
+ },
+ {
+  "slug": "natori",
+  "city": "名取市",
+  "pref": "宮城県",
+  "region": "東北",
+  "lp": "lp3",
+  "batch": 7
+ },
+ {
+  "slug": "yokote",
+  "city": "横手市",
+  "pref": "秋田県",
+  "region": "東北",
+  "lp": "lp3",
+  "batch": 7
+ },
+ {
+  "slug": "maebashi",
+  "city": "前橋市",
+  "pref": "群馬県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 8
+ },
+ {
+  "slug": "ota-gunma",
+  "city": "太田市",
+  "pref": "群馬県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 8
+ },
+ {
+  "slug": "isesaki",
+  "city": "伊勢崎市",
+  "pref": "群馬県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 8
+ },
+ {
+  "slug": "hitachi",
+  "city": "日立市",
+  "pref": "茨城県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 8
+ },
+ {
+  "slug": "tsuchiura",
+  "city": "土浦市",
+  "pref": "茨城県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 8
+ },
+ {
+  "slug": "hitachinaka",
+  "city": "ひたちなか市",
+  "pref": "茨城県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 8
+ },
+ {
+  "slug": "oyama",
+  "city": "小山市",
+  "pref": "栃木県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 8
+ },
+ {
+  "slug": "ashikaga",
+  "city": "足利市",
+  "pref": "栃木県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 8
+ },
+ {
+  "slug": "ichikawa",
+  "city": "市川市",
+  "pref": "千葉県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 9
+ },
+ {
+  "slug": "ichihara",
+  "city": "市原市",
+  "pref": "千葉県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 9
+ },
+ {
+  "slug": "nagareyama",
+  "city": "流山市",
+  "pref": "千葉県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 9
+ },
+ {
+  "slug": "sakura-chiba",
+  "city": "佐倉市",
+  "pref": "千葉県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 9
+ },
+ {
+  "slug": "soka",
+  "city": "草加市",
+  "pref": "埼玉県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 9
+ },
+ {
+  "slug": "kasukabe",
+  "city": "春日部市",
+  "pref": "埼玉県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 9
+ },
+ {
+  "slug": "ageo",
+  "city": "上尾市",
+  "pref": "埼玉県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 9
+ },
+ {
+  "slug": "kumagaya",
+  "city": "熊谷市",
+  "pref": "埼玉県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 9
+ },
+ {
+  "slug": "odawara",
+  "city": "小田原市",
+  "pref": "神奈川県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 9
+ },
+ {
+  "slug": "tachikawa",
+  "city": "立川市",
+  "pref": "東京都",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 9
+ }
+]
