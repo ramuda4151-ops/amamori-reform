@@ -1,21 +1,21 @@
 {
- "generated": "2026-10-08",
+ "generated": "2026-10-09",
  "range7": [
-  "2026-09-30",
-  "2026-10-06"
+  "2026-10-01",
+  "2026-10-07"
  ],
  "range28": [
-  "2026-09-09",
-  "2026-10-06"
+  "2026-09-10",
+  "2026-10-07"
  ],
  "pages_7d": [
   {
    "keys": [
     "/chiba/"
    ],
-   "imp": 65,
+   "imp": 73,
    "clicks": 1,
-   "pos": 57.3
+   "pos": 59.4
   },
   {
    "keys": [
@@ -23,47 +23,47 @@
    ],
    "imp": 21,
    "clicks": 0,
-   "pos": 25.7
+   "pos": 20.6
   },
   {
    "keys": [
     "/funabashi/"
    ],
-   "imp": 7,
+   "imp": 8,
    "clicks": 0,
-   "pos": 22.9
+   "pos": 20.6
   },
   {
    "keys": [
     "/hachioji/"
    ],
-   "imp": 16,
+   "imp": 18,
    "clicks": 0,
-   "pos": 38.8
+   "pos": 39.7
   },
   {
    "keys": [
     "/machida/"
    ],
-   "imp": 2,
+   "imp": 3,
    "clicks": 0,
-   "pos": 63
+   "pos": 43.7
   },
   {
    "keys": [
     "/saitama/"
    ],
-   "imp": 4,
+   "imp": 7,
    "clicks": 0,
-   "pos": 28.8
+   "pos": 20.1
   },
   {
    "keys": [
     "/sendai/"
    ],
-   "imp": 7,
+   "imp": 6,
    "clicks": 0,
-   "pos": 6.1
+   "pos": 6.7
   }
  ],
  "pages_28d": [
@@ -71,49 +71,49 @@
    "keys": [
     "/chiba/"
    ],
-   "imp": 99,
+   "imp": 108,
    "clicks": 1,
-   "pos": 62.0
+   "pos": 63.1
   },
   {
    "keys": [
     "/machida/"
    ],
-   "imp": 25,
+   "imp": 26,
    "clicks": 1,
-   "pos": 34.2
+   "pos": 33.0
   },
   {
    "keys": [
     "/fujisawa/"
    ],
-   "imp": 48,
+   "imp": 51,
    "clicks": 0,
-   "pos": 36.8
+   "pos": 35.6
   },
   {
    "keys": [
     "/funabashi/"
    ],
-   "imp": 20,
+   "imp": 21,
    "clicks": 0,
-   "pos": 34.5
+   "pos": 33.1
   },
   {
    "keys": [
     "/hachioji/"
    ],
-   "imp": 40,
+   "imp": 43,
    "clicks": 0,
-   "pos": 41.8
+   "pos": 41.6
   },
   {
    "keys": [
     "/saitama/"
    ],
-   "imp": 24,
+   "imp": 27,
    "clicks": 0,
-   "pos": 34.9
+   "pos": 32
   },
   {
    "keys": [
@@ -157,9 +157,9 @@
     "/chiba/",
     "千葉市 屋根修理 リフォーム 種類"
    ],
-   "imp": 3,
+   "imp": 4,
    "clicks": 0,
-   "pos": 60.7
+   "pos": 61.2
   },
   {
    "keys": [
@@ -202,9 +202,9 @@
     "/chiba/",
     "千葉市 瓦修理 業者 資格"
    ],
-   "imp": 5,
+   "imp": 6,
    "clicks": 0,
-   "pos": 82
+   "pos": 79.7
   },
   {
    "keys": [
@@ -229,9 +229,9 @@
     "/chiba/",
     "千葉市 雨漏り修理 屋根"
    ],
-   "imp": 1,
+   "imp": 2,
    "clicks": 0,
-   "pos": 100
+   "pos": 99
   },
   {
    "keys": [
@@ -256,9 +256,9 @@
     "/chiba/",
     "千葉市 雨漏り修理 屋根 放置"
    ],
-   "imp": 3,
+   "imp": 4,
    "clicks": 0,
-   "pos": 54.3
+   "pos": 51
   },
   {
    "keys": [
@@ -274,27 +274,27 @@
     "/chiba/",
     "千葉市 雨漏り修理 屋根 症状"
    ],
-   "imp": 2,
+   "imp": 3,
    "clicks": 0,
-   "pos": 88.5
+   "pos": 87.3
   },
   {
    "keys": [
     "/chiba/",
     "千葉市 雨漏り修理 屋根 種類"
    ],
-   "imp": 5,
+   "imp": 6,
    "clicks": 0,
-   "pos": 94
+   "pos": 93.7
   },
   {
    "keys": [
     "/chiba/",
     "千葉市 雨漏り修理 業者"
    ],
-   "imp": 5,
+   "imp": 6,
    "clicks": 0,
-   "pos": 94.8
+   "pos": 94.2
   },
   {
    "keys": [
@@ -346,9 +346,9 @@
     "/chiba/",
     "雨漏り 修理 千葉"
    ],
-   "imp": 9,
+   "imp": 10,
    "clicks": 0,
-   "pos": 101.8
+   "pos": 103.1
   },
   {
    "keys": [
@@ -373,18 +373,18 @@
     "/fujisawa/",
     "藤沢 雨漏り修理"
    ],
-   "imp": 14,
+   "imp": 15,
    "clicks": 0,
-   "pos": 46.9
+   "pos": 44.9
   },
   {
    "keys": [
     "/fujisawa/",
     "藤沢市 雨樋修理"
    ],
-   "imp": 2,
+   "imp": 3,
    "clicks": 0,
-   "pos": 40
+   "pos": 32
   },
   {
    "keys": [
@@ -409,9 +409,9 @@
     "/fujisawa/",
     "雨漏り 藤沢"
    ],
-   "imp": 14,
+   "imp": 15,
    "clicks": 0,
-   "pos": 43.8
+   "pos": 41.9
   },
   {
    "keys": [
@@ -526,9 +526,9 @@
     "/hachioji/",
     "八王子 屋根塗装 雨漏り"
    ],
-   "imp": 5,
+   "imp": 6,
    "clicks": 0,
-   "pos": 84.6
+   "pos": 82.3
   },
   {
    "keys": [
@@ -580,9 +580,9 @@
     "/hachioji/",
     "屋根修理 東京都八王子市"
    ],
-   "imp": 7,
+   "imp": 8,
    "clicks": 0,
-   "pos": 71.9
+   "pos": 66.2
   },
   {
    "keys": [
@@ -592,6 +592,15 @@
    "imp": 1,
    "clicks": 0,
    "pos": 20
+  },
+  {
+   "keys": [
+    "/machida/",
+    "アメトメ 電話 番号"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 5
   },
   {
    "keys": [
@@ -646,6 +655,15 @@
    "imp": 1,
    "clicks": 0,
    "pos": 18
+  },
+  {
+   "keys": [
+    "/saitama/",
+    "アメトメ 電話 番号"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 11
   },
   {
    "keys": [
