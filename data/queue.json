@@ -1,29 +1,5 @@
 [
  {
-  "slug": "yonezawa",
-  "city": "米沢市",
-  "pref": "山形県",
-  "region": "東北",
-  "lp": "lp3",
-  "batch": 7
- },
- {
-  "slug": "kitakami",
-  "city": "北上市",
-  "pref": "岩手県",
-  "region": "東北",
-  "lp": "lp3",
-  "batch": 7
- },
- {
-  "slug": "hanamaki",
-  "city": "花巻市",
-  "pref": "岩手県",
-  "region": "東北",
-  "lp": "lp3",
-  "batch": 7
- },
- {
   "slug": "osaki",
   "city": "大崎市",
   "pref": "宮城県",

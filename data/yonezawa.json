@@ -1,0 +1,24 @@
+{
+ "slug": "yonezawa",
+ "city": "米沢市",
+ "pref": "山形県",
+ "region": "東北",
+ "lp": "lp3",
+ "lpid": "amarefo_yonezawa",
+ "area_wide": "東北全域",
+ "nearby": "山形県内",
+ "consumer_center": "米沢市消費生活センター",
+ "date_pub": "2026-10-09",
+ "date_mod": "2026-10-09",
+ "order": 43,
+ "intro_local": "米沢市は山形県内でも有数の豪雪地帯で、1991〜2020年の累年平均で最大積雪深103cmを記録する地域。総務省の住宅・土地統計調査（2023年）では空き家率16.35%と全国平均（13.84%）を上回って報告されている、雪害と住宅の経年劣化による屋根の傷みに注意が必要なエリア。",
+ "companies": [
+  "アメトメ",
+  "シンドウ総業",
+  "池田塗研",
+  "彩美装",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>彩美装</td>\n            <td>9:00〜18:00<br>（日・祝定休）</td>\n            <td>米沢市全域に山形県内</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>池田塗研</td>\n            <td>9:00〜18:00（年中無休、GW・夏季・年末年始除く）</td>\n            <td>米沢市中心に山形県内</td>\n            <td>屋根・外壁塗装専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>シンドウ総業</td>\n            <td>8:00〜17:00（不定休）</td>\n            <td>米沢市中心に置賜・村山地域</td>\n            <td>塗装・防水店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>彩美装｜無料の雨漏り診断・屋根ドローン診断に対応するリフォーム店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_irodoribisou.jpg\" alt=\"彩美装公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：彩美装 公式サイト</figcaption>\n      </figure>\n      <p>外壁・屋根塗装に加え、雨漏り修理や防水工事も手がける山形県内のリフォーム店。米沢市全域が対応エリアで、<span class=\"mk\">相談・見積もり・診断は無料</span>と明記されており、無料の屋根ドローン診断にも対応しています。</p>\n      <ul class=\"check\">\n        <li>相談・見積もり・無料の雨漏り診断に対応</li>\n        <li>施工動画投稿件数100件以上・口コミ55件（評価5.0）</li>\n        <li>受付9:00〜18:00・日曜・祝日定休（問い合わせフォームは24時間受付）</li>\n      </ul>\n      <p>雨漏りを含めた複数の工事をまとめて相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://irodori-bisou.jp\" target=\"_blank\" rel=\"nofollow noopener\">彩美装の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>池田塗研｜山形県内施工棟数No.1をうたう住宅塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_ikedatoken.jpg\" alt=\"池田塗研公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：池田塗研 公式サイト</figcaption>\n      </figure>\n      <p>山形市に本店を置き、米沢市中田町に米沢店を構える住宅塗装専門店。<span class=\"mk\">無料見積もり・屋根の無料診断</span>に対応しており、「山形県内施工棟数No.1」をアピールしています。</p>\n      <ul class=\"check\">\n        <li>無料見積もり・屋根の無料診断に対応</li>\n        <li>山形県内施工棟数No.1</li>\n        <li>受付9:00〜18:00・年中無休（GW・夏季・年末年始除く）</li>\n      </ul>\n      <p>施工実績の多さを重視したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://ikedatoken.com\" target=\"_blank\" rel=\"nofollow noopener\">池田塗研の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>シンドウ総業｜米沢市中田町の外壁・屋根塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_shindosogyou.jpg\" alt=\"シンドウ総業公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：シンドウ総業 公式サイト</figcaption>\n      </figure>\n      <p>米沢市中田町に拠点を置き、置賜・村山地域で外壁・屋根塗装を手がける塗装店。<span class=\"mk\">現地調査・お見積りは無料</span>と明記されています。</p>\n      <ul class=\"check\">\n        <li>現地調査・お見積り無料</li>\n        <li>米沢市中田町に拠点</li>\n        <li>受付8:00〜17:00・不定休</li>\n      </ul>\n      <p>地域密着の塗装専門店に相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://shindosogyou.com\" target=\"_blank\" rel=\"nofollow noopener\">シンドウ総業の公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}

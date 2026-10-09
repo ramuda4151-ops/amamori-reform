@@ -1,0 +1,24 @@
+{
+ "slug": "hanamaki",
+ "city": "花巻市",
+ "pref": "岩手県",
+ "region": "東北",
+ "lp": "lp3",
+ "lpid": "amarefo_hanamaki",
+ "area_wide": "東北全域",
+ "nearby": "岩手県内",
+ "consumer_center": "花巻市市民生活総合相談センター",
+ "date_pub": "2026-10-09",
+ "date_mod": "2026-10-09",
+ "order": 45,
+ "intro_local": "花巻市は総務省の住宅・土地統計調査（2023年）で空き家率17.04%（815市区中524位）と報告されている、住宅の経年劣化による屋根・外壁の傷みに注意が必要なエリア。",
+ "companies": [
+  "アメトメ",
+  "株式会社マルシン",
+  "プロタイムズ花巻店",
+  "有限会社庄栄",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>株式会社マルシン</td>\n            <td>9:00〜20:00<br>（年中無休）</td>\n            <td>花巻市中心に岩手県・秋田県内</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>プロタイムズ花巻店</td>\n            <td>9:00〜18:00<br>（日・祝定休）</td>\n            <td>花巻市中心に岩手県内</td>\n            <td>外装リフォーム専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>有限会社庄栄</td>\n            <td>平日対応</td>\n            <td>花巻市中心に岩手県内</td>\n            <td>屋根・外壁塗装専門店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>株式会社マルシン｜雨漏り調査・改修工事にも対応するリフォーム店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_marushintoso.jpg\" alt=\"株式会社マルシン公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社マルシン 公式サイト</figcaption>\n      </figure>\n      <p>外壁塗装・屋根塗装・防水工事に加え、雨漏り調査・改修工事も手がける岩手県・秋田県内のリフォーム店。花巻市も対応エリアで、<span class=\"mk\">見積りや現地調査は完全無料</span>と明記されています。</p>\n      <ul class=\"check\">\n        <li>見積り・現地調査は完全無料</li>\n        <li>施工後最長10年の保証書を発行</li>\n        <li>電話受付9:00〜20:00・年中無休（メールは24時間受付）</li>\n      </ul>\n      <p>雨漏りを含めた複数の工事をまとめて相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://marushin-toso.jp\" target=\"_blank\" rel=\"nofollow noopener\">株式会社マルシンの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>プロタイムズ花巻店｜最大10年のW工事保証がある外装リフォーム専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_protimeshanamaki.jpg\" alt=\"プロタイムズ花巻店公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：プロタイムズ花巻店（株式会社T'sリノベーション）公式サイト</figcaption>\n      </figure>\n      <p>花巻市四日町に店舗を構える「プロタイムズ」加盟の外装リフォーム専門店。<span class=\"mk\">見積もりは無料</span>と明記されており、施工店とプロタイムズ本部による「W工事保証」で最大10年の保証書を発行しています。</p>\n      <ul class=\"check\">\n        <li>見積もり無料・外装劣化調査診断に対応</li>\n        <li>最大10年のW工事保証</li>\n        <li>施工事例掲載56件</li>\n      </ul>\n      <p>保証の手厚さを重視したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://protimes-hanamaki.com\" target=\"_blank\" rel=\"nofollow noopener\">プロタイムズ花巻店の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>有限会社庄栄｜花巻市石鳥谷町の屋根・外壁塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_shoueipaint.jpg\" alt=\"有限会社庄栄公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：有限会社庄栄 公式サイト</figcaption>\n      </figure>\n      <p>花巻市石鳥谷町に拠点を置き、屋根塗装・外壁塗装・リフォーム工事を手がける専門店。<span class=\"mk\">お見積りは無料</span>と明記されています。2006年設立。</p>\n      <ul class=\"check\">\n        <li>お見積り無料</li>\n        <li>2006年設立</li>\n        <li>花巻市石鳥谷町に拠点</li>\n      </ul>\n      <p>地域密着の塗装専門店に相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://shouei-paint.com\" target=\"_blank\" rel=\"nofollow noopener\">有限会社庄栄の公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}

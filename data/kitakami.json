@@ -1,0 +1,24 @@
+{
+ "slug": "kitakami",
+ "city": "北上市",
+ "pref": "岩手県",
+ "region": "東北",
+ "lp": "lp3",
+ "lpid": "amarefo_kitakami",
+ "area_wide": "東北全域",
+ "nearby": "岩手県内",
+ "consumer_center": "北上市消費生活センター",
+ "date_pub": "2026-10-09",
+ "date_mod": "2026-10-09",
+ "order": 44,
+ "intro_local": "北上市は北上川沿いに広がる内陸の工業都市で、市の空家等対策計画によると令和6年度の市独自調査で実質的な空き家（人が住んでおらず流通していない空き家等）が1,626戸と報告されている、住宅の経年劣化による屋根・外壁の傷みに注意が必要なエリア。",
+ "companies": [
+  "アメトメ",
+  "タカハシ興業",
+  "星塗装",
+  "三田塗装店",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>タカハシ興業</td>\n            <td>8:00〜18:00<br>（不定休）</td>\n            <td>北上市・花巻市・奥州市中心に岩手県内</td>\n            <td>屋根工事店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>星塗装</td>\n            <td>8:00〜18:00（不定休）</td>\n            <td>北上市中心に岩手県内</td>\n            <td>塗装専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>三田塗装店</td>\n            <td>平日対応</td>\n            <td>北上市中心に岩手県内</td>\n            <td>塗装店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>タカハシ興業｜北上市相去町の屋根・防水・板金工事店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_takahasikougyou.jpg\" alt=\"タカハシ興業公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：タカハシ興業 公式サイト</figcaption>\n      </figure>\n      <p>北上市相去町に拠点を置き、屋根塗装・雨樋修理・建築板金・防水工事などを手がける工事店。<span class=\"mk\">今すぐ無料現地調査・お見積り</span>に対応しており、北上市・花巻市・奥州市を中心に岩手県全域で施工しています。</p>\n      <ul class=\"check\">\n        <li>無料現地調査・お見積りに対応</li>\n        <li>業界歴15年以上の職人が担当・Googleレビュー評価5.0</li>\n        <li>受付8:00〜18:00・不定休</li>\n      </ul>\n      <p>仮設足場も自社対応で中間マージンを抑えたい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://takahasi-kougyou.com\" target=\"_blank\" rel=\"nofollow noopener\">タカハシ興業の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>星塗装｜北上市鬼柳町の外壁・屋根塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_hoshitosou.jpg\" alt=\"星塗装公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：星塗装 公式サイト</figcaption>\n      </figure>\n      <p>北上市鬼柳町に拠点を置く外壁・屋根塗装の専門店。<span class=\"mk\">現地調査・お見積り無料</span>と明記されており、シーリング工事など付帯工事にも対応しています。</p>\n      <ul class=\"check\">\n        <li>現地調査・お見積り無料</li>\n        <li>北上市鬼柳町に拠点</li>\n        <li>受付8:00〜18:00・不定休</li>\n      </ul>\n      <p>地域密着の塗装専門店に相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.star-paintings.com\" target=\"_blank\" rel=\"nofollow noopener\">星塗装の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>三田塗装店｜岩手県知事許可を持つ北上市の塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_mitatoso.jpg\" alt=\"三田塗装店公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社三田塗装店 公式サイト</figcaption>\n      </figure>\n      <p>北上市上野町に拠点を置く塗装専門店。戸建住宅から工場・倉庫・店舗まで幅広く対応し、<span class=\"mk\">お問合せ・お見積りは無料</span>と明記されています。岩手県知事許可（般-4）第50264号を取得しています。</p>\n      <ul class=\"check\">\n        <li>お問合せ・お見積り無料</li>\n        <li>岩手県知事許可（般-4）第50264号取得</li>\n        <li>戸建から工場・倉庫・店舗まで対応</li>\n      </ul>\n      <p>工場・倉庫など事業用建物の塗装も相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.mitatoso.com\" target=\"_blank\" rel=\"nofollow noopener\">三田塗装店の公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}
