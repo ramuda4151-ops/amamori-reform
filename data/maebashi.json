@@ -1,0 +1,25 @@
+{
+ "slug": "maebashi",
+ "city": "前橋市",
+ "pref": "群馬県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_maebashi",
+ "area_wide": "関東全域",
+ "nearby": "群馬県内",
+ "consumer_center": "前橋市消費生活センター",
+ "date_pub": "2026-10-10",
+ "date_mod": "2026-10-10",
+ "order": 116,
+ "intro_local": "前橋市は令和元年東日本台風で利根川の水位が氾濫危険水位（4.01m）を超える5.60mまで上昇し、前橋地方気象台の24時間降水量233.5mmが観測史上3位を記録するなど記録的豪雨に見舞われた。総務省統計局の住宅・土地統計調査（2023年）では空き家率15.16%と全国平均（13.84%）を上回って報告されている、水害リスクと住宅老朽化の両方への備えが求められるエリア。",
+ "companies": [
+  "アメトメ",
+  "マチダ建創",
+  "ベルテック",
+  "浦部住総",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>マチダ建創</td>\n            <td>9:00〜18:00<br>（年中無休）</td>\n            <td>前橋市中心に群馬県全域</td>\n            <td>外壁塗装・屋根塗装専門店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>ベルテック</td>\n            <td>8:00〜17:00<br>（土日祝は除く）</td>\n            <td>前橋市を含む高崎市から車で約30分圏内</td>\n            <td>板金・屋根工事店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>浦部住総</td>\n            <td>9:00〜19:00<br>（土日祝も対応）</td>\n            <td>前橋市を含む群馬県全域・埼玉県北エリア</td>\n            <td>屋根専門店<br>（雨漏り修理も対応）</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>マチダ建創｜前橋市天川原町に拠点を置く外壁・屋根塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_machidakensou.jpg\" alt=\"マチダ建創公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社マチダ建創 公式サイト</figcaption>\n      </figure>\n      <p>前橋市天川原町に本拠を置き、外壁塗装・屋根塗装から雨漏りの調査・修繕まで手がける専門店。<span class=\"mk\">「0円見積もり」「住まいの外装無料点検」</span>を公式サイトで明記しており、施工後は最長10年保証（瑕疵があれば無償対応）を用意しています。</p>\n      <ul class=\"check\">\n        <li>0円見積もり・外装無料点検を実施</li>\n        <li>最長10年保証（見積りと異なる材料を使った場合は工事費用を返金）</li>\n        <li>電話受付9:00〜18:00（年中無休）、前橋市中心に群馬県全域に対応</li>\n      </ul>\n      <p>地元密着の塗装専門店に相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://gaiheki-gunma.com/\" target=\"_blank\" rel=\"nofollow noopener\">マチダ建創の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>ベルテック｜設立1972年・板金と屋根工事の建設業許可を持つ地場の専門工事店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_bellteq.jpg\" alt=\"ベルテック公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社ベルテック 公式サイト</figcaption>\n      </figure>\n      <p>高崎市浜川町に本社を置く1972年（昭和47年）設立の板金・屋根工事専門店で、対応エリアに前橋市を明記しています。<span class=\"mk\">雨漏り・雨どいの無料診断・調査（30分〜1時間程度）＋お見積りも無料</span>と公式サイトに記載があります。</p>\n      <ul class=\"check\">\n        <li>雨漏り・雨どいの無料診断・調査（お見積りも無料）</li>\n        <li>1972年設立、板金工事業・屋根工事業の建設業許可を保有</li>\n        <li>受付時間8:00〜17:00（土日祝は除く）、前橋市を含む会社から車で約30分圏内に対応</li>\n      </ul>\n      <p>老舗の板金・屋根技術でしっかり見てほしい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://bellteq.co.jp/\" target=\"_blank\" rel=\"nofollow noopener\">ベルテックの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>浦部住総｜施工事例989件超・最長15年保証の屋根専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_urabejyuusou.jpg\" alt=\"浦部住総公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社浦部住総 公式サイト</figcaption>\n      </figure>\n      <p>群馬県藤岡市に本社を置き、前橋市を含む群馬県全域で施工する屋根専門店。屋根の葺き替え・屋根塗装・雨漏り修理を主力に、<span class=\"mk\">「0円屋根・外壁点検」</span>を公式サイトで明記しています。最長15年保証とJIOリフォーム瑕疵保険加盟も特徴です。</p>\n      <ul class=\"check\">\n        <li>0円屋根・外壁点検を実施（急な雨漏りも即日対応可）</li>\n        <li>施工事例989件超を公式サイトで公開、最長15年保証＋JIOリフォーム瑕疵保険加盟</li>\n        <li>電話受付9:00〜19:00（土日祝も対応）、前橋市を含む群馬県全域・埼玉県北エリアに対応</li>\n      </ul>\n      <p>火災保険の相談もあわせてしたい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://urabejyuusou.co.jp/\" target=\"_blank\" rel=\"nofollow noopener\">浦部住総の公式サイトはこちら ›</a></p>\n    </div>\n\n    ",
+ "extra_html": "<h2>前橋市の住宅修繕・リフォーム助成金制度</h2>\n    <p>前橋市では「住宅リフォーム補助金」を実施しています。昭和56年5月31日以前に建築された自己居住用の戸建て住宅等が対象で、市内施工業者によるリフォーム工事費（税抜20万円以上）の3分の1以内・上限10万円を補助する制度です（1住宅につき1回限り）。契約・着工前の事前申込が必須で、受付期間は年度により変わります。</p>\n    <p>空き家を活用する場合は別制度の「空き家活用リフォーム補助金」もあります。いずれも対象や予算枠は年度ごとに変わるため、利用を検討する場合は前橋市建築住宅課への事前確認をおすすめします。なお一般的な外壁塗装や雨漏り修理そのものを単独で対象とする助成金は、公式サイト上では確認できませんでした。</p>"
+}

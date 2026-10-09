@@ -1,29 +1,5 @@
 [
  {
-  "slug": "maebashi",
-  "city": "前橋市",
-  "pref": "群馬県",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 8
- },
- {
-  "slug": "ota-gunma",
-  "city": "太田市",
-  "pref": "群馬県",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 8
- },
- {
-  "slug": "isesaki",
-  "city": "伊勢崎市",
-  "pref": "群馬県",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 8
- },
- {
   "slug": "hitachi",
   "city": "日立市",
   "pref": "茨城県",

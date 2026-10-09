@@ -1,0 +1,25 @@
+{
+ "slug": "ota-gunma",
+ "city": "太田市",
+ "pref": "群馬県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_ota-gunma",
+ "area_wide": "関東全域",
+ "nearby": "群馬県内",
+ "consumer_center": "太田市消費生活センター",
+ "date_pub": "2026-10-10",
+ "date_mod": "2026-10-10",
+ "order": 117,
+ "intro_local": "太田市は令和元年東日本台風で利根川沿いの沢野・尾島・世良田地区を中心に浸水被害が発生し、市内8か所の避難所閉鎖を決定した経緯がある。総務省統計局の住宅・土地統計調査（2023年）では空き家率13.92%と報告されている、利根川の増水リスクと住宅老朽化の両方に備えが必要なエリア。",
+ "companies": [
+  "アメトメ",
+  "星野ルーフ",
+  "マチダ建創",
+  "浦部住総",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>星野ルーフ</td>\n            <td>8:00〜19:00<br>（年中無休・LINE/メールは24時間）</td>\n            <td>太田市中心に群馬県全域</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>マチダ建創</td>\n            <td>9:00〜18:00<br>（年中無休）</td>\n            <td>太田市を含む群馬県全域</td>\n            <td>外壁塗装・屋根塗装専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>浦部住総</td>\n            <td>9:00〜19:00<br>（土日祝も対応）</td>\n            <td>太田市を含む群馬県全域・埼玉県北エリア</td>\n            <td>屋根専門店<br>（雨漏り修理も対応）</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>星野ルーフ｜太田市牛沢町を拠点に群馬県全域を対応する屋根・雨漏り修理店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_hoshinoroof.jpg\" alt=\"星野ルーフ公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：星野ルーフ 公式サイト</figcaption>\n      </figure>\n      <p>太田市牛沢町に拠点を置き、屋根修理・雨漏り修理を主力とする地元店。<span class=\"mk\">現地調査・お見積りは無料（出張費も無料）</span>と公式サイトに明記されています。10年以上の施工経験があり、火災保険申請のサポートにも対応しています。</p>\n      <ul class=\"check\">\n        <li>現地調査・お見積り・出張費が無料</li>\n        <li>施工経験10年以上、火災保険の申請サポートに対応</li>\n        <li>電話受付8:00〜19:00（年中無休）、メール・LINEは24時間受付</li>\n      </ul>\n      <p>太田市内で地元業者にすぐ相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://hoshino-roof.net/\" target=\"_blank\" rel=\"nofollow noopener\">星野ルーフの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>マチダ建創｜前橋市天川原町に拠点を置く外壁・屋根塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_machidakensou.jpg\" alt=\"マチダ建創公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社マチダ建創 公式サイト</figcaption>\n      </figure>\n      <p>前橋市天川原町に本拠を置き、太田市を含む群馬県全域で外壁塗装・屋根塗装・雨漏りの調査・修繕を手がける専門店。<span class=\"mk\">「0円見積もり」「住まいの外装無料点検」</span>を公式サイトで明記しており、施工後は最長10年保証を用意しています。</p>\n      <ul class=\"check\">\n        <li>0円見積もり・外装無料点検を実施</li>\n        <li>最長10年保証（見積りと異なる材料を使った場合は工事費用を返金）</li>\n        <li>電話受付9:00〜18:00（年中無休）、太田市を含む群馬県全域に対応</li>\n      </ul>\n      <p>塗装の専門知識でしっかり診断してほしい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://gaiheki-gunma.com/\" target=\"_blank\" rel=\"nofollow noopener\">マチダ建創の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>浦部住総｜施工事例989件超・最長15年保証の屋根専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_urabejyuusou.jpg\" alt=\"浦部住総公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社浦部住総 公式サイト</figcaption>\n      </figure>\n      <p>群馬県藤岡市に本社を置き、太田市を含む群馬県全域で施工する屋根専門店。屋根の葺き替え・屋根塗装・雨漏り修理を主力に、<span class=\"mk\">「0円屋根・外壁点検」</span>を公式サイトで明記しています。最長15年保証とJIOリフォーム瑕疵保険加盟も特徴です。</p>\n      <ul class=\"check\">\n        <li>0円屋根・外壁点検を実施（急な雨漏りも即日対応可）</li>\n        <li>施工事例989件超を公式サイトで公開、最長15年保証＋JIOリフォーム瑕疵保険加盟</li>\n        <li>電話受付9:00〜19:00（土日祝も対応）、太田市を含む群馬県全域・埼玉県北エリアに対応</li>\n      </ul>\n      <p>火災保険の相談もあわせてしたい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://urabejyuusou.co.jp/\" target=\"_blank\" rel=\"nofollow noopener\">浦部住総の公式サイトはこちら ›</a></p>\n    </div>\n\n    ",
+ "extra_html": "<h2>太田市の住宅修繕・リフォーム助成金制度</h2>\n    <p>太田市では「住宅リフォーム支援事業」を実施しています。市内に住宅を所有し2年以上継続して居住していること、建築後10年以上経過していることなどが条件で、市の登録施工業者による工事（補助対象工事費税込10万円以上）が対象です。補助額は対象工事費の30%（千円未満切り捨て）で上限20万円、交付は市のデジタル金券「OTACO」で行われます。</p>\n    <p>交付決定前に着工した工事は対象外で、申請は登録業者が行います。令和8年度分は予算に達したため受付を終了しており、次年度以降の募集については太田市まちづくり推進課への確認が必要です。</p>"
+}
