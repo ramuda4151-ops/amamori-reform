@@ -1,0 +1,25 @@
+{
+ "slug": "osaki",
+ "city": "大崎市",
+ "pref": "宮城県",
+ "region": "東北",
+ "lp": "lp3",
+ "lpid": "amarefo_osaki",
+ "area_wide": "東北全域",
+ "nearby": "宮城県内",
+ "consumer_center": "大崎市消費生活センター",
+ "date_pub": "2026-10-09",
+ "date_mod": "2026-10-09",
+ "order": 114,
+ "intro_local": "大崎市は旧鳴子町区域が特別豪雪地帯、旧古川市・旧岩出山町区域が豪雪地帯に指定される雪害リスクの高いエリアで、総務省統計局の住宅・土地統計調査（2023年）では空き家率15.95%と報告されている。令和元年東日本台風では鹿島台地域で堤防決壊による大規模な浸水被害も発生した、雪害・水害両面への備えが欠かせない地域。",
+ "companies": [
+  "アメトメ",
+  "イエガード",
+  "ナラサカ塗装工業",
+  "なごみルーフ",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>イエガード</td>\n            <td>10:00〜18:00<br>（火・水曜定休）</td>\n            <td>大崎市中心に宮城県北部</td>\n            <td>屋根・外壁塗装専門店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>なごみルーフ</td>\n            <td>8:57〜18:03<br>（年中無休・LINEは24時間）</td>\n            <td>大崎市を含む宮城県内</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>ナラサカ塗装工業</td>\n            <td>8:00〜18:00<br>（日曜定休）</td>\n            <td>大崎市中心に宮城県内</td>\n            <td>塗装専門店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>イエガード｜年間1,400件以上のリフォーム実績がある屋根・外壁塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_ieguard.jpg\" alt=\"イエガード公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：イエガード（株式会社タカカツリフォーム）公式サイト</figcaption>\n      </figure>\n      <p>大崎市古川に本社を置く株式会社タカカツリフォームが運営する屋根・外壁塗装専門店。<span class=\"mk\">無料屋根外壁診断・無料見積り</span>に対応しており、工事内容によりガルバリウム屋根葺き替えで塗膜保証15年＋穴あき保証25年などの長期保証を明記しています。</p>\n      <ul class=\"check\">\n        <li>無料屋根外壁診断・無料見積りに対応</li>\n        <li>リフォーム工事年間1,400件以上・国土交通大臣許可（般-7）第28418号</li>\n        <li>受付10:00〜18:00・火・水曜定休</li>\n      </ul>\n      <p>長期保証つきの屋根葺き替えを検討したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.ieguard-takakatsu.com\" target=\"_blank\" rel=\"nofollow noopener\">イエガードの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>なごみルーフ｜宮城県内6店舗を展開する屋根リフォーム店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_nagomiroof.jpg\" alt=\"なごみルーフ公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：なごみルーフ（株式会社ライアス）公式サイト</figcaption>\n      </figure>\n      <p>宮城県内に6店舗を展開する株式会社ライアスが運営するリフォーム店で、雨漏り修理にも対応しています。<span class=\"mk\">現地調査・見積もり・応急処置は無料</span>と明記されています。</p>\n      <ul class=\"check\">\n        <li>現地調査・見積もり・応急処置が無料</li>\n        <li>宮城県内6店舗展開・火災保険申請サポートあり</li>\n        <li>電話受付8:57〜18:03（年中無休）・LINE24時間受付</li>\n      </ul>\n      <p>火災保険申請のサポートも受けたい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://sendai-amamori.com\" target=\"_blank\" rel=\"nofollow noopener\">なごみルーフの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>ナラサカ塗装工業｜親子二代・地元大崎市で約50年の塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_narasaka.jpg\" alt=\"ナラサカ塗装工業公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：ナラサカ塗装工業 公式サイト</figcaption>\n      </figure>\n      <p>大崎市古川北稲葉に拠点を置き、親子二代で約50年にわたり地域の屋根・外壁塗装を手がける塗装専門店。<span class=\"mk\">見積りは無料</span>と明記されています。</p>\n      <ul class=\"check\">\n        <li>見積り無料</li>\n        <li>地元大崎市で約50年の経営実績・建築塗装1級技能士在籍</li>\n        <li>受付8:00〜18:00・日曜定休（見積りは土日対応可）</li>\n      </ul>\n      <p>地域密着の塗装専門店に相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"http://nrsk-tosou.com\" target=\"_blank\" rel=\"nofollow noopener\">ナラサカ塗装工業の公式サイトはこちら ›</a></p>\n    </div>\n\n    ",
+ "extra_html": "<h2>大崎市の住宅修繕・リフォーム助成金制度</h2>\n    <p>大崎市では「木造住宅耐震診断・耐震改修工事助成事業」を実施しています。昭和56年5月31日以前に建築された3階建て以下の戸建て木造住宅が対象で、耐震改修工事の助成上限額は115万円。耐震改修と同時に10万円以上の他の改修工事（屋根の改修を含む）を行う場合は、助成額が10万円加算される仕組みです。</p>\n    <p>施工は宮城県内に本店・支店のある建設業者に限られ、契約・着工前の事前申込が必須です。対象や受付期間は年度により変わるため、利用を検討する場合は大崎市建築住宅課への事前確認をおすすめします。なお一般的な外壁塗装や雨漏り修理そのものを単独で対象とする助成金は、公式サイト上では確認できませんでした。</p>"
+}

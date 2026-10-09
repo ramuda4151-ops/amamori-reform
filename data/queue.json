@@ -1,29 +1,5 @@
 [
  {
-  "slug": "osaki",
-  "city": "大崎市",
-  "pref": "宮城県",
-  "region": "東北",
-  "lp": "lp3",
-  "batch": 7
- },
- {
-  "slug": "natori",
-  "city": "名取市",
-  "pref": "宮城県",
-  "region": "東北",
-  "lp": "lp3",
-  "batch": 7
- },
- {
-  "slug": "yokote",
-  "city": "横手市",
-  "pref": "秋田県",
-  "region": "東北",
-  "lp": "lp3",
-  "batch": 7
- },
- {
   "slug": "maebashi",
   "city": "前橋市",
   "pref": "群馬県",

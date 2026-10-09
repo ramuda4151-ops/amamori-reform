@@ -1,0 +1,25 @@
+{
+ "slug": "yokote",
+ "city": "横手市",
+ "pref": "秋田県",
+ "region": "東北",
+ "lp": "lp3",
+ "lpid": "amarefo_yokote",
+ "area_wide": "東北全域",
+ "nearby": "秋田県内",
+ "consumer_center": "横手市消費生活センター",
+ "date_pub": "2026-10-09",
+ "date_mod": "2026-10-09",
+ "order": 113,
+ "intro_local": "横手市は秋田県南部に位置する特別豪雪地帯で、2月の平年値で最大積雪深106cm・降雪量211cmに達し、2011年には最深積雪192cmを記録したこともある、国内有数の豪雪エリア。積雪や凍結による屋根の損傷・雨漏りへの備えが欠かせない地域。",
+ "companies": [
+  "アメトメ",
+  "三和塗装",
+  "ビルドワークス",
+  "佐野ペイントサービス",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>三和塗装</td>\n            <td>8:00〜17:00<br>（日曜定休）</td>\n            <td>横手市中心に秋田県南</td>\n            <td>塗装専門店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>ビルドワークス</td>\n            <td>8:00〜17:30</td>\n            <td>横手市中心に秋田県内</td>\n            <td>屋根板金専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>佐野ペイントサービス</td>\n            <td>8:30〜17:30</td>\n            <td>横手市中心に秋田県南（大仙・湯沢）</td>\n            <td>塗装・防水店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>三和塗装｜創業70年・年間100件以上の実績がある外壁・屋根塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_sanwatoso.jpg\" alt=\"三和塗装公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：三和塗装 公式サイト</figcaption>\n      </figure>\n      <p>横手市十文字町に本社を置き、創業から70年にわたり地域の外壁・屋根塗装を手がける専門店。<span class=\"mk\">お見積りは無料で屋根の塗装が必要かどうかを診断</span>してもらえます。</p>\n      <ul class=\"check\">\n        <li>お見積り無料診断に対応</li>\n        <li>年間100件以上の実績・1級塗装技能士在籍</li>\n        <li>受付8:00〜17:00・日曜定休</li>\n      </ul>\n      <p>地域に根ざした塗装専門店に相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://sanwatoso7.net\" target=\"_blank\" rel=\"nofollow noopener\">三和塗装の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>ビルドワークス｜昭和40年設立の屋根板金専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_buildworks.jpg\" alt=\"ビルドワークス公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：ビルドワークス 公式サイト</figcaption>\n      </figure>\n      <p>横手市十文字町に本社を置き、昭和40年設立と長い歴史を持つ屋根・外壁板金の専門店。屋根葺き替え工事では<span class=\"mk\">点検・お見積りは無料</span>と明記されています。</p>\n      <ul class=\"check\">\n        <li>点検・お見積り無料</li>\n        <li>昭和40年設立・秋田県内～岩手県西和賀町まで対応</li>\n        <li>受付8:00〜17:30</li>\n      </ul>\n      <p>屋根板金を熟知した専門店に相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://buildworks.jp\" target=\"_blank\" rel=\"nofollow noopener\">ビルドワークスの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>佐野ペイントサービス｜秋田県南を中心とした建築塗装店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_sanopaint.jpg\" alt=\"佐野ペイントサービス公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：佐野ペイントサービス 公式サイト</figcaption>\n      </figure>\n      <p>横手・大仙・湯沢を中心に秋田県南で屋根・外壁の塗装やコーキング工事を手がける建築塗装店。<span class=\"mk\">お見積もりは現地調査と併せて無料</span>で対応しています。</p>\n      <ul class=\"check\">\n        <li>現地調査・お見積り無料</li>\n        <li>横手・大仙・湯沢を中心に秋田県南で対応</li>\n        <li>受付8:30〜17:30</li>\n      </ul>\n      <p>塗装と合わせてコーキング工事も相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://sanopaint.jp\" target=\"_blank\" rel=\"nofollow noopener\">佐野ペイントサービスの公式サイトはこちら ›</a></p>\n    </div>\n\n    ",
+ "extra_html": "<h2>横手市の住宅リフォーム助成金制度</h2>\n    <p>横手市では、豪雪地帯特有の住宅トラブルに対応するため「雪国よこて安全安心住宅普及促進事業」を実施しています。対象工事費の10%（上限20万円）を補助する制度で、屋根の消雪・融雪設備の設置・取替、屋根の勾配変更、雪止めの設置、軒先の補強工事などが対象です。</p>\n    <p>交付決定前に着工すると補助対象外となるため、工事を検討する際は事前に横手市建設部建築住宅課（0182-35-2224）に相談してから申請・着手することが重要です。通常の外壁塗装や雨漏り修理そのものが単独で対象になるかは個別確認が必要です。</p>"
+}

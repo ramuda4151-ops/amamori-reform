@@ -1,0 +1,25 @@
+{
+ "slug": "natori",
+ "city": "名取市",
+ "pref": "宮城県",
+ "region": "東北",
+ "lp": "lp3",
+ "lpid": "amarefo_natori",
+ "area_wide": "東北全域",
+ "nearby": "宮城県内",
+ "consumer_center": "名取市消費生活相談窓口",
+ "date_pub": "2026-10-09",
+ "date_mod": "2026-10-09",
+ "order": 115,
+ "intro_local": "名取市は仙台市に隣接するベッドタウンとして人口が増加してきた一方、東日本大震災では最大浸水高9.09mの大津波により市域の約28%が浸水、沿岸部の閖上地区を中心に甚大な被害を受けた。震災から十数年を経た現在も新築・リフォーム需要が続くエリアで、住宅の経年劣化による雨漏りにも注意が必要。",
+ "companies": [
+  "アメトメ",
+  "街の屋根やさん仙台太白店",
+  "マイペイント宮城",
+  "宍戸ペイントサービス",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>街の屋根やさん仙台太白店</td>\n            <td>9:00〜18:00<br>（Webは24時間受付）</td>\n            <td>名取市中心に仙台市太白区・青葉区</td>\n            <td>屋根工事店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>マイペイント宮城</td>\n            <td>10:00〜18:00</td>\n            <td>名取市中心に仙台市・岩沼市</td>\n            <td>塗装専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>宍戸ペイントサービス</td>\n            <td>9:00〜18:00<br>（日・祝定休、メール・LINEは24時間）</td>\n            <td>名取市中心に仙台市・岩沼市等</td>\n            <td>塗装・防水店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>街の屋根やさん仙台太白店｜施工実績10,000件以上の屋根工事専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_machiyane_taihaku.jpg\" alt=\"街の屋根やさん仙台太白店公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：街の屋根やさん仙台太白店（兵藤板金）公式サイト</figcaption>\n      </figure>\n      <p>名取市に隣接する仙台市太白区に拠点を置く兵藤板金が運営する屋根工事専門店。<span class=\"mk\">現地調査とお見積りはいつでも無料</span>と明記され、これまで10,000件以上の屋根工事を手がけています。</p>\n      <ul class=\"check\">\n        <li>現地調査・お見積り無料</li>\n        <li>屋根工事実績10,000件以上・宮城県知事許可（般-7）第23717号</li>\n        <li>電話受付9:00〜18:00・Webフォームは24時間受付</li>\n      </ul>\n      <p>屋根工事に特化した専門店に相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://machiyane-sendaitaihaku.com\" target=\"_blank\" rel=\"nofollow noopener\">街の屋根やさん仙台太白店の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>マイペイント宮城｜施工棟数8,000棟超の外壁・屋根塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_mypaint.jpg\" alt=\"マイペイント宮城公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：マイペイント宮城 公式サイト</figcaption>\n      </figure>\n      <p>仙台市・名取市・岩沼市の外壁塗装・屋根塗装を手がける塗装専門店。<span class=\"mk\">相談・診断・見積りは無料</span>と明記されており、施工棟数は8,000棟を超えています。</p>\n      <ul class=\"check\">\n        <li>相談・診断・見積り無料</li>\n        <li>施工棟数8,000棟超・長期メーカー保証を発行</li>\n        <li>電話受付10:00〜18:00</li>\n      </ul>\n      <p>施工実績の多さを重視したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.mypaint.jp\" target=\"_blank\" rel=\"nofollow noopener\">マイペイント宮城の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>宍戸ペイントサービス｜名取市植松に本社を置く塗装・防水専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_shishido.jpg\" alt=\"宍戸ペイントサービス公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：宍戸ペイントサービス（株式会社SPS宍戸ペイントサービス）公式サイト</figcaption>\n      </figure>\n      <p>名取市植松に本社を置き、外壁塗装・屋根塗装・防水・雨漏りまで手がける塗装・防水専門店。<span class=\"mk\">専門家による無料診断・無料お見積り</span>に対応しています。</p>\n      <ul class=\"check\">\n        <li>無料診断・無料お見積りに対応</li>\n        <li>宮城県知事許可（般-29）第21532号・自社職人による施工</li>\n        <li>受付9:00〜18:00・日・祝定休（メール・LINEは24時間受付）</li>\n      </ul>\n      <p>名取市内に拠点を置く地域密着店に相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.sps-renovation.com\" target=\"_blank\" rel=\"nofollow noopener\">宍戸ペイントサービスの公式サイトはこちら ›</a></p>\n    </div>\n\n    ",
+ "extra_html": "<h2>名取市の住宅修繕・リフォーム助成金制度</h2>\n    <p>名取市には外壁塗装や屋根修理単体を対象とした「住宅リフォーム助成金」はありませんが、「木造住宅耐震診断・耐震改修工事助成事業」があります。耐震診断で基準を満たさないと判定された戸建て木造住宅（平成12年5月31日以前着工）が対象で、耐震改修工事費の80%・上限115万円が補助されます。</p>\n    <p>耐震改修と合わせて10万円以上のリフォーム工事を行う場合や、宮城県内に本店・支店を持つ建設業者が施工する場合は上限が125万円に増額される仕組みです。窓口は都市計画課住宅係。一般的な外壁・屋根リフォーム単体は対象外のため、利用を検討する場合は事前に市へ確認が必要です。</p>"
+}
