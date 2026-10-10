@@ -1,0 +1,23 @@
+{
+ "slug": "tsuchiura",
+ "city": "土浦市",
+ "pref": "茨城県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_tsuchiura",
+ "area_wide": "関東全域",
+ "nearby": "茨城県内",
+ "consumer_center": "土浦市消費生活センター",
+ "date_pub": "2026-10-10",
+ "date_mod": "2026-10-10",
+ "order": 120,
+ "intro_local": "土浦市は霞ヶ浦や桜川沿いの低地に盛土・埋立による住宅地が広がり、築年数の古い戸建ても多いエリア。",
+ "companies": [
+  "株式会社霞美装",
+  "株式会社ハウスメイク牛久",
+  "田﨑工業"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>霞美装<br>（街の屋根やさん土浦店）</td>\n            <td>9:00〜17:00<br>（土日祝定休）</td>\n            <td>土浦市中心に茨城県南・鹿行エリア</td>\n            <td>屋根工事専門店<br>（外壁塗装も対応）</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>ハウスメイク牛久</td>\n            <td>9:00〜18:00</td>\n            <td>土浦市に店舗、牛久市・つくば市など茨城県内</td>\n            <td>外壁塗装店<br>（屋根・防水も対応）</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>田﨑工業</td>\n            <td>24時間365日受付</td>\n            <td>土浦市に本社、茨城県内広域</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>霞美装（街の屋根やさん土浦店）｜施工実績10,000件以上の屋根工事専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_kasumibisou.jpg\" alt=\"霞美装公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社霞美装 公式サイト</figcaption>\n      </figure>\n      <p>土浦市神立に支店を置き、屋根工事専門ブランド「街の屋根やさん土浦店」も展開する地域密着業者。<span class=\"mk\">まずは無料の現地調査</span>で状況を確認し、必要な場合のみ案内する方針を明記しています。屋根専門ブランドでは10,000件以上の施工実績があります。</p>\n      <ul class=\"check\">\n        <li>無料の現地調査に対応</li>\n        <li>屋根施工実績10,000件以上、自社塗装保証最長10年</li>\n        <li>茨城県知事許可（般-3）第35870号、電話受付9:00〜17:00（土日祝定休）</li>\n      </ul>\n      <p>屋根工事の実績の多さを重視したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.kasumibisou.com/\" target=\"_blank\" rel=\"nofollow noopener\">霞美装の公式サイトはこちら ›</a></p>\n    </div>\n\n<h3><span class=\"rank-badge\">第3位</span>ハウスメイク牛久｜塗装実績7,000棟超・最長15年保証の外壁塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_housemake_ushiku.jpg\" alt=\"ハウスメイク牛久公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社ハウスメイク牛久 公式サイト</figcaption>\n      </figure>\n      <p>土浦市永国に店舗を持つ外壁塗装＆屋根＆防水専門店。<span class=\"mk\">外壁塗装のお見積りを無料</span>で行っており、色のご提案も無料と明記しています。塗装実績は累計7,000棟を超えています。</p>\n      <ul class=\"check\">\n        <li>お見積り・色のご提案が無料</li>\n        <li>塗装実績累計7,000棟超、自社独自の塗膜保証最長15年</li>\n        <li>茨城県知事許可（般-17）第31396号、受付9:00〜18:00</li>\n      </ul>\n      <p>保証の厚さと実績の両方を重視したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://ushiku-tosou.com/\" target=\"_blank\" rel=\"nofollow noopener\">ハウスメイク牛久の公式サイトはこちら ›</a></p>\n    </div>\n\n<h3><span class=\"rank-badge\">第4位</span>田﨑工業｜24時間365日受付の土浦市内密着工事店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_tasakikogyo.jpg\" alt=\"田﨑工業公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：田﨑工業 公式サイト</figcaption>\n      </figure>\n      <p>土浦市今泉町に本社を置く屋根工事・雨漏り修理・外壁塗装の地域密着工事店。<span class=\"mk\">お見積りを無料</span>で受け付けており、電話は24時間365日つながります。</p>\n      <ul class=\"check\">\n        <li>お見積り無料</li>\n        <li>電話受付24時間365日</li>\n        <li>土浦市内に本社、つくば市・筑西市など茨城県内に施工事例あり</li>\n      </ul>\n      <p>深夜や早朝でもまず電話で相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://tasaki-kogyo.renovation-bc.com/\" target=\"_blank\" rel=\"nofollow noopener\">田﨑工業の公式サイトはこちら ›</a></p>\n    </div>\n\n",
+ "extra_html": "    <h2 id=\"josei\">土浦市の住宅修繕に関する補助制度</h2>\n    <p>土浦市には「住宅リフォーム助成金」があります。<strong>市内に自ら居住する住宅を、市内の施工業者でリフォームする場合</strong>に対象となる制度で、補助額は工事費の1/10（上限10万円）。令和6年度は助成金総額1,500万円で、申請が多い場合は公開抽選となります。</p>\n    <p>ほかに、市外から転入して市内の中古住宅を取得・リフォームする世帯向けの「転入者リフォーム応援事業」もあり、工事費総額の1/2（上限30万円）が補助されます（令和8年度の募集期間は2026年7月13日〜12月28日）。いずれも対象条件や予算枠が年度で変わるため、利用を検討する場合は土浦市住宅営繕課（029-826-1111 内線2420）に直接確認しましょう。</p>\n"
+}
