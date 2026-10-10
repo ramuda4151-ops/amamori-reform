@@ -1,0 +1,24 @@
+{
+ "slug": "ashikaga",
+ "city": "足利市",
+ "pref": "栃木県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_ashikaga",
+ "area_wide": "関東全域",
+ "nearby": "栃木県内",
+ "consumer_center": "足利市消費生活センター",
+ "date_pub": "2026-10-10",
+ "date_mod": "2026-10-10",
+ "order": 123,
+ "intro_local": "足利市は1947年のカスリーン台風で渡良瀬川が氾濫し319人の死者・行方不明者を出した歴史があり、2019年の台風19号でも大雨を記録するなど水害リスクが続くエリア。古い木造戸建てでは屋根や外壁の経年劣化による雨漏りに注意が必要です。",
+ "companies": [
+  "アメトメ",
+  "東建ペイント",
+  "わたらせ建設",
+  "ハトミ",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>東建ペイント</td>\n            <td>9:00〜17:00<br>（火・水・第2木定休）</td>\n            <td>足利市中心に両毛地域（佐野・太田・桐生など）</td>\n            <td>塗装・防水店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>わたらせ建設</td>\n            <td>平日9:00〜17:00</td>\n            <td>足利市中心</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>ハトミ</td>\n            <td>8:00〜18:00<br>（日曜定休）</td>\n            <td>足利市中心に関東エリア</td>\n            <td>防水工事専門店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>東建ペイント｜創業50年・雨漏り5年保証が標準の塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_tooken.jpg\" alt=\"東建ペイント公式サイトの雨漏り診断ページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：東建ペイント（株式会社東建ビルダー）公式サイト</figcaption>\n      </figure>\n      <p>足利市朝倉町にショールームを構える外壁・屋根塗装の専門店。創業50年で<span class=\"mk\">施工実績3,000件</span>を公式サイトに掲載し、雨漏り修理には標準で5年保証をつけています。</p>\n      <ul class=\"check\">\n        <li>相談・見積り・診断は無料</li>\n        <li>雨漏り修理に標準で5年保証</li>\n        <li>施工実績3,000件、Google評価4.7（24件）</li>\n      </ul>\n      <p>足利市から両毛地域まで対応範囲が広いのも特徴です。</p>\n      <p class=\"ext-link\"><a href=\"https://www.tooken-p.com/\" target=\"_blank\" rel=\"nofollow noopener\">東建ペイントの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>わたらせ建設｜一級建築士が在籍する足利市の建設会社</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_watarase.jpg\" alt=\"わたらせ建設公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：わたらせ建設株式会社 公式サイト</figcaption>\n      </figure>\n      <p>足利市葉鹿町に本社を置く建設会社。<span class=\"mk\">一級建築士・設備設計一級建築士が在籍</span>し、雨漏り対策工事を事業内容に明記しています。栃木県知事許可（特-7）第25721号の建設業者です。</p>\n      <ul class=\"check\">\n        <li>お見積りは無料</li>\n        <li>一級建築士・設備設計一級建築士が在籍</li>\n        <li>受付は平日9:00〜17:00</li>\n      </ul>\n      <p>雨漏りと合わせて建物全体の相談をしたい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://watarase-kensetsu.co.jp/\" target=\"_blank\" rel=\"nofollow noopener\">わたらせ建設の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>ハトミ｜公共施設も手がける防水工事の専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_hatomi.jpg\" alt=\"ハトミ公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社ハトミ 公式サイト</figcaption>\n      </figure>\n      <p>足利市田島町に本社を置く防水工事の専門店。<span class=\"mk\">現地調査・お見積りが無料</span>と公式サイトに明記しており、学校や工場など公共施設の防水工事を手がけてきた実績があります。</p>\n      <ul class=\"check\">\n        <li>現地調査・お見積りは無料</li>\n        <li>外壁・屋根・床・遮熱工事にも対応</li>\n        <li>受付8:00〜18:00（日曜定休）</li>\n      </ul>\n      <p>ベランダや屋上など防水まわりの雨漏りが気になる人向け。</p>\n      <p class=\"ext-link\"><a href=\"http://hatomi.net/\" target=\"_blank\" rel=\"nofollow noopener\">ハトミの公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}

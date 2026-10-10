@@ -1,29 +1,5 @@
 [
  {
-  "slug": "oyama",
-  "city": "小山市",
-  "pref": "栃木県",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 8
- },
- {
-  "slug": "ashikaga",
-  "city": "足利市",
-  "pref": "栃木県",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 8
- },
- {
-  "slug": "ichikawa",
-  "city": "市川市",
-  "pref": "千葉県",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 9
- },
- {
   "slug": "ichihara",
   "city": "市原市",
   "pref": "千葉県",

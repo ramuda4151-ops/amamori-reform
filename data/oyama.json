@@ -1,0 +1,24 @@
+{
+ "slug": "oyama",
+ "city": "小山市",
+ "pref": "栃木県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_oyama",
+ "area_wide": "関東全域",
+ "nearby": "栃木県内",
+ "consumer_center": "小山市消費生活センター",
+ "date_pub": "2026-10-10",
+ "date_mod": "2026-10-10",
+ "order": 122,
+ "intro_local": "小山市は空き家率13.91%（総務省「住宅・土地統計調査」2023年、815市区中354位）と築年数の経った住宅ストックが一定数残り、市内を流れる思川では堤防決壊時に浸水深5m以上に達する想定区域もある、水害リスクにも注意が必要なエリア。",
+ "companies": [
+  "アメトメ",
+  "住泰（スミタイ小山店）",
+  "石塚塗装（プロタイムズ小山店）",
+  "熊倉工務店",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>住泰（スミタイ小山店）</td>\n            <td>9:00〜17:30<br>（火・水定休）</td>\n            <td>小山市中心に栃木県全域</td>\n            <td>屋根工事専門店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>石塚塗装（プロタイムズ小山店）</td>\n            <td>9:00〜19:00<br>（日・祝定休）</td>\n            <td>小山市およびその近郊</td>\n            <td>塗装・防水店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>熊倉工務店</td>\n            <td>9:00〜18:00<br>（月〜土）</td>\n            <td>小山市全域</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>住泰（スミタイ小山店）｜栃木県全域対応の屋根工事専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_sumitai_oyama.jpg\" alt=\"住泰（スミタイ）公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社住泰 公式サイト</figcaption>\n      </figure>\n      <p>栃木県小山市喜沢に小山店を構える屋根工事の専門店。雨漏り診断士が在籍し、<span class=\"mk\">雨漏り修理は参考価格5万円〜</span>という部分修理の価格を公式サイトに掲載しています。対応エリアは小山市を含む栃木県全域です。</p>\n      <ul class=\"check\">\n        <li>相談・診断・お見積りは無料</li>\n        <li>雨漏り診断士による診断に対応</li>\n        <li>受付9:00〜17:30（火・水定休）</li>\n      </ul>\n      <p>屋根の葺き替えやカバー工法までまとめて相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://tochigi-yane.com/\" target=\"_blank\" rel=\"nofollow noopener\">住泰（スミタイ）の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>石塚塗装（プロタイムズ小山店）｜小山市で90年以上続く塗装・防水専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_ishizuka.jpg\" alt=\"石塚塗装公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：石塚塗装株式会社 公式サイト</figcaption>\n      </figure>\n      <p>栃木県小山市若木町に本社を置き、<span class=\"mk\">小山市内で90年以上の歴史を持つ</span>塗装・防水の専門店。2級建築施工管理技士や外装劣化診断士などの資格を持つスタッフが在籍し、小山市内で300棟以上の塗装実績があります。</p>\n      <ul class=\"check\">\n        <li>お見積りは無料</li>\n        <li>プランにより最長10年のW工事保証</li>\n        <li>受付9:00〜19:00（日・祝定休）</li>\n      </ul>\n      <p>外壁や屋根の防水まで含めてプロの診断を受けたい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://ishizukatosou.com/\" target=\"_blank\" rel=\"nofollow noopener\">石塚塗装の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>熊倉工務店｜小山市全域に対応するリフォーム店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_kumakura.jpg\" alt=\"熊倉工務店公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：有限会社熊倉工務店 公式サイト</figcaption>\n      </figure>\n      <p>栃木県小山市小袋に本社を置くリフォーム会社。<span class=\"mk\">現地調査にかかる出張費と見積書はすべて無料</span>と公式サイトに明記しており、築25年住宅の雨漏り解消など施工事例も公開しています。</p>\n      <ul class=\"check\">\n        <li>現地調査・お見積りは無料（依頼しない場合も費用なし）</li>\n        <li>小山市全域でリフォーム依頼に対応</li>\n        <li>受付9:00〜18:00（月〜土）</li>\n      </ul>\n      <p>雨漏りと合わせて内装リフォームも相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://kumakura-building.jp/\" target=\"_blank\" rel=\"nofollow noopener\">熊倉工務店の公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}

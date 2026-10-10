@@ -1,0 +1,25 @@
+{
+ "slug": "ichikawa",
+ "city": "市川市",
+ "pref": "千葉県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_ichikawa",
+ "area_wide": "関東全域",
+ "nearby": "千葉県内",
+ "consumer_center": "市川市消費生活センター",
+ "date_pub": "2026-10-10",
+ "date_mod": "2026-10-10",
+ "order": 124,
+ "intro_local": "市川市は一戸建てが住宅総数の3割強を占め（市川市公式資料）、1947年のカスリーン台風による利根川決壊の氾濫水が江戸川沿いに及んだ記録や2013年の台風26号による床上浸水の記録が残るエリア。台風や豪雨をきっかけに屋根・外壁の劣化が進み、雨漏りに気づくケースも見られます。",
+ "companies": [
+  "アメトメ",
+  "遠藤建装",
+  "水戸塗装",
+  "きたばたけ塗装",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>遠藤建装</td>\n            <td>9:00〜18:00<br>（年中無休）</td>\n            <td>市川市中心に千葉県・東京23区</td>\n            <td>塗装・防水店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>水戸塗装</td>\n            <td>9:00〜19:00<br>（年中無休）</td>\n            <td>市川市中心に千葉県北西部・東京東部</td>\n            <td>外壁・屋根塗装店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>きたばたけ塗装</td>\n            <td>9:00〜18:00<br>（第1・第3水木定休）</td>\n            <td>市川市・浦安市中心</td>\n            <td>外壁塗装専門店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>遠藤建装｜年間実績150件以上・雨漏り修理に強い塗装店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_endokenso.jpg\" alt=\"遠藤建装公式サイトの雨漏り修理ページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：遠藤建装 公式サイト</figcaption>\n      </figure>\n      <p>市川市幸に本社を置く創業23年以上の塗装・防水店。<span class=\"mk\">年間実績150件以上</span>で、雨漏り修理では赤外線調査や高所カメラ・散水調査を使って原因を特定しています。</p>\n      <ul class=\"check\">\n        <li>見積り・現地調査は無料</li>\n        <li>最長10年の自社工事保証書を発行</li>\n        <li>1級塗装技能士など複数の資格者が在籍</li>\n      </ul>\n      <p>雨漏りの原因をきちんと特定してから直したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://endokenso.com/\" target=\"_blank\" rel=\"nofollow noopener\">遠藤建装の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>水戸塗装｜1985年創業・10年保証の外壁・屋根塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_mitotosou.jpg\" alt=\"水戸塗装公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社水戸塗装 公式サイト</figcaption>\n      </figure>\n      <p>市川市に本社を置く1985年創業の外壁・屋根塗装専門店。<span class=\"mk\">無料の現地調査から施工後10年保証</span>までを公式サイトに明記しており、代表は一級建築塗装技能士の資格を持っています。</p>\n      <ul class=\"check\">\n        <li>無料現地調査・無料見積もり</li>\n        <li>施工後10年保証（保証書発行）</li>\n        <li>受付9:00〜19:00、年中無休</li>\n      </ul>\n      <p>市川市から浦安市・松戸市など広いエリアまで対応しています。</p>\n      <p class=\"ext-link\"><a href=\"https://www.mito-tosou.com/\" target=\"_blank\" rel=\"nofollow noopener\">水戸塗装の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>きたばたけ塗装｜プロタイムズ加盟のW工事保証が強みの塗装店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_kitabatake.jpg\" alt=\"きたばたけ塗装公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社きたばたけ塗装（プロタイムズ市川行徳店） 公式サイト</figcaption>\n      </figure>\n      <p>市川市福栄に拠点を置く外壁塗装の専門店。<span class=\"mk\">自社保証とプロタイムズ本部保証のW工事保証</span>が特徴で、代表は一級塗装技能士の資格を持っています。</p>\n      <ul class=\"check\">\n        <li>相談・お見積もり・診断は無料</li>\n        <li>自社＋本部のW工事保証（最長10年）</li>\n        <li>受付9:00〜18:00（第1・第3水木定休）</li>\n      </ul>\n      <p>市川市・浦安市エリアで保証の手厚さを重視したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://protimes-gyoutoku.com/\" target=\"_blank\" rel=\"nofollow noopener\">きたばたけ塗装の公式サイトはこちら ›</a></p>\n    </div>\n\n    ",
+ "extra_html": "<h2>市川市の住宅リフォーム関連の補助金制度</h2>\n    <p>市川市では、既存住宅の断熱性能を高める改修を対象に「改修促進事業補助金」を実施しています。窓・ドアの断熱改修は上限10万円、床・壁・天井の断熱改修は上限30万円が補助され、市内施工業者の利用など条件があります。</p>\n    <p>また、昭和56年（1981年）以前の旧耐震基準で建てられた木造住宅については、耐震改修工事費の2分の1（上限30万円）を補助する制度も設けられています。いずれも雨漏り修理そのものを直接対象とする補助金ではないため、申請できるかどうかは市川市の担当窓口（街づくり整備課）へ事前に確認することをおすすめします。</p>"
+}
