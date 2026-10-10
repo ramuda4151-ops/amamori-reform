@@ -1,0 +1,24 @@
+{
+ "slug": "ichihara",
+ "city": "市原市",
+ "pref": "千葉県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_ichihara",
+ "area_wide": "関東全域",
+ "consumer_center": "市原市消費生活センター",
+ "date_pub": "2026-10-11",
+ "date_mod": "2026-10-11",
+ "order": 125,
+ "intro_local": "市原市は2019年の房総半島台風・東日本台風で竜巻や強風による屋根材の飛散など住宅被害が発生したエリア。京葉工業地域に近い沿岸部から内陸の丘陵部まで市域が広く、築年数の経った戸建てでは屋根・外壁の劣化による雨漏りに注意が必要です。",
+ "companies": [
+  "アメトメ",
+  "株式会社REAL",
+  "株式会社リペイント",
+  "株式会社みすず",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>株式会社REAL</td>\n            <td>8:30〜18:00<br>（土日祝も対応）</td>\n            <td>市原市中心に千葉市・茂原市など千葉県全域</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>株式会社リペイント</td>\n            <td>9:00〜20:00<br>（土日祝も対応）</td>\n            <td>市原市中心に千葉市・君津市など</td>\n            <td>塗装専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>株式会社みすず</td>\n            <td>9:00〜18:00<br>（水曜定休）</td>\n            <td>千葉市・市原市・四街道市など</td>\n            <td>屋根工事店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>株式会社REAL｜施工実績1,500棟超・市原市に本社を置く地元店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_yanereal.jpg\" alt=\"株式会社REAL公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社REAL 公式サイト</figcaption>\n      </figure>\n      <p>市原市五井中央西に本社を置く屋根工事店で、<span class=\"mk\">施工実績1,500棟以上</span>を公式サイトで公表しています。千葉県知事許可を取得した建設業者で、JIOリフォーム瑕疵保険にも加入しています。</p>\n      <ul class=\"check\">\n        <li>お見積り無料・外壁・屋根の無料診断を実施</li>\n        <li>施工実績1,500棟以上、独自の保証制度あり</li>\n        <li>受付8:30〜18:00、土日祝も対応</li>\n      </ul>\n      <p>市原市内に本社を置く地元業者に直接相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://yane-real.com/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社REALの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>株式会社リペイント｜市原市八幡の塗装専門店・現地調査無料</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_repaint_ichihara.jpg\" alt=\"株式会社リペイント公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社リペイント 公式サイト</figcaption>\n      </figure>\n      <p>市原市八幡に本社を置く塗装・防水の専門店。公式サイトで<span class=\"mk\">「現地調査、お見積りは完全無料」</span>と明記しており、累計実績1,000棟以上の施工経験があります。施工後は毎年の点検訪問を行っている点も特徴です。</p>\n      <ul class=\"check\">\n        <li>現地調査・お見積もりが完全無料</li>\n        <li>累計実績1,000棟以上</li>\n        <li>受付9:00〜20:00、土日祝も対応</li>\n      </ul>\n      <p class=\"ext-link\"><a href=\"https://repaint20241111.jp/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社リペイントの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>株式会社みすず｜施工実績2,650件・屋根カバーや葺き替えにも対応</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_nurisen.jpg\" alt=\"株式会社みすず公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社みすず 公式サイト</figcaption>\n      </figure>\n      <p>千葉市を中心に市原市にも対応する屋根工事店。<span class=\"mk\">合計の施工実績2,650件</span>を公式サイトで公表しており、屋根カバー工事・葺き替え・雨漏り調査の施工事例も掲載されています。塗装プランには10年保証がつきます。</p>\n      <ul class=\"check\">\n        <li>無料診断・無料お見積りを受付</li>\n        <li>合計の施工実績2,650件</li>\n        <li>受付9:00〜18:00、水曜定休</li>\n      </ul>\n      <p class=\"ext-link\"><a href=\"https://www.nurisen.jp/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社みすずの公式サイトはこちら ›</a></p>\n    </div>\n\n    ",
+ "nearby": "千葉県内"
+}

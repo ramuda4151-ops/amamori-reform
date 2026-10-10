@@ -1,29 +1,5 @@
 [
  {
-  "slug": "ichihara",
-  "city": "市原市",
-  "pref": "千葉県",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 9
- },
- {
-  "slug": "nagareyama",
-  "city": "流山市",
-  "pref": "千葉県",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 9
- },
- {
-  "slug": "sakura-chiba",
-  "city": "佐倉市",
-  "pref": "千葉県",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 9
- },
- {
   "slug": "soka",
   "city": "草加市",
   "pref": "埼玉県",
