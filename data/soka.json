@@ -1,0 +1,24 @@
+{
+ "slug": "soka",
+ "city": "草加市",
+ "pref": "埼玉県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_soka",
+ "area_wide": "関東全域",
+ "nearby": "埼玉県内",
+ "consumer_center": "草加市消費生活センター",
+ "date_pub": "2026-10-11",
+ "date_mod": "2026-10-11",
+ "order": 128,
+ "intro_local": "草加市は中川・綾瀬川の下流域に広がる低地のまちで、1960年代以降の宅地開発により「東洋一のマンモス団地」と呼ばれた松原団地をはじめ、高度経済成長期に建てられた戸建て住宅・団地が市内に多く残っています。築年数の経過した住宅では、台風や豪雨の後に屋根材の劣化から雨漏りが表面化するケースが見られるエリアです。",
+ "companies": [
+  "アメトメ",
+  "株式会社屋根と壁のお店",
+  "有限会社ワタナベサービス",
+  "株式会社MMK",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>株式会社屋根と壁のお店</td>\n            <td>10:00〜19:00<br>（月曜定休）</td>\n            <td>越谷市・草加市・吉川市近郊</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>有限会社ワタナベサービス</td>\n            <td>月〜土 7:30〜17:30</td>\n            <td>草加市中心に埼玉県・東京都・千葉県</td>\n            <td>屋根工事専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>株式会社MMK</td>\n            <td>9:00〜21:00<br>（土日も営業）</td>\n            <td>草加市中心に埼玉県・千葉県全域</td>\n            <td>塗装店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>株式会社屋根と壁のお店｜国家資格者とドローン診断で越谷・草加・吉川に対応</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_yanetokabenoomise.jpg\" alt=\"株式会社屋根と壁のお店 公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社屋根と壁のお店 公式サイト</figcaption>\n      </figure>\n      <p>越谷市レイクタウンに本社を置き、草加市八幡町にもショールームを構える外壁・屋根のリフォーム会社。<span class=\"mk\">一級塗装技能士・一級シーリング技能士などの国家資格保有者</span>が在籍し、ドローンを使った無料診断にも対応しています。</p>\n      <ul class=\"check\">\n        <li>ご相談・お見積り・診断は無料</li>\n        <li>施工後は最長13年の品質保証書を発行</li>\n        <li>受付10:00〜19:00・月曜定休</li>\n      </ul>\n      <p>国家資格を持つプロにきちんと診断してもらいたい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://yanetokabenoomise.com/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社屋根と壁のお店の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>有限会社ワタナベサービス｜草加生まれ草加育ちの屋根工事専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_watanabesrv.jpg\" alt=\"有限会社ワタナベサービス公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：有限会社ワタナベサービス公式サイト</figcaption>\n      </figure>\n      <p>草加市手代に拠点を置き、<span class=\"mk\">「草加市で生まれ草加市で育った」地元密着の屋根工事専門店</span>。草加市のリフォーム補助金の認定事業者にもなっています。</p>\n      <ul class=\"check\">\n        <li>相談・お見積りは無料</li>\n        <li>草加市リフォーム補助金の認定事業者</li>\n        <li>受付：月〜土7:30〜17:30</li>\n      </ul>\n      <p>屋根の工事を地元の業者に頼みたい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://watanabe-srv.com/\" target=\"_blank\" rel=\"nofollow noopener\">有限会社ワタナベサービスの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>株式会社MMK｜埼玉県知事許可・1級塗装技能士が自社施工する塗装店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_mmkinc.jpg\" alt=\"株式会社MMK公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社MMK公式サイト</figcaption>\n      </figure>\n      <p>草加市稲荷に本社を置き、埼玉県・千葉県全域に対応する塗装店。<span class=\"mk\">埼玉県知事許可（般-7）第78535号を取得し、1級塗装技能士の職人が自社施工</span>する体制です。</p>\n      <ul class=\"check\">\n        <li>相談・お見積りは完全無料（0円）</li>\n        <li>埼玉県知事許可（般-7）第78535号</li>\n        <li>受付9:00〜21:00・土日も営業</li>\n      </ul>\n      <p>外壁・屋根の無料診断からまとめて相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://mmk-inc.co.jp/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社MMKの公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}

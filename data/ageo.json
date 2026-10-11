@@ -1,0 +1,24 @@
+{
+ "slug": "ageo",
+ "city": "上尾市",
+ "pref": "埼玉県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_ageo",
+ "area_wide": "関東全域",
+ "nearby": "埼玉県内",
+ "consumer_center": "上尾市消費生活センター",
+ "date_pub": "2026-10-11",
+ "date_mod": "2026-10-11",
+ "order": 130,
+ "intro_local": "上尾市は大宮台地のほぼ平坦な地形に広がるまちで、江戸時代には中山道の宿場町として栄えた歴史を持ちます。都市化の進行とともに戸建て住宅地が広がってきた一方、築年数の経過した住宅も多く、台風や豪雨の後に屋根・外壁の劣化から雨漏りに気づくケースが見られるエリアです。",
+ "companies": [
+  "アメトメ",
+  "株式会社新日本ペイント",
+  "美彩建装",
+  "株式会社ヒロタ",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>株式会社新日本ペイント</td>\n            <td>9:00〜18:00<br>（年中無休）</td>\n            <td>上尾市中心に桶川市・北本市など埼玉県中部</td>\n            <td>屋根リフォーム専門店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>美彩建装</td>\n            <td>8:00〜18:00<br>（日曜定休）</td>\n            <td>上尾市中心に桶川市・伊奈町・さいたま市</td>\n            <td>塗装専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>株式会社ヒロタ</td>\n            <td>9:00〜20:00</td>\n            <td>上尾市中心に桶川市・北本市・鴻巣市</td>\n            <td>塗装店<br>（リフォームも対応）</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>株式会社新日本ペイント｜施工実績700棟超・最長10年保証の屋根リフォーム専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_newjapanp.jpg\" alt=\"株式会社新日本ペイント公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社新日本ペイント公式サイト</figcaption>\n      </figure>\n      <p>上尾市中分を拠点に、桶川市・北本市など埼玉県中部に対応する屋根リフォーム専門店。<span class=\"mk\">施工実績700棟以上で、工事後は最長10年の保証と定期点検</span>がついています。</p>\n      <ul class=\"check\">\n        <li>診断・お見積りは無料</li>\n        <li>最長10年保証・1・5・7・10年の定期点検</li>\n        <li>受付9:00〜18:00・年中無休</li>\n      </ul>\n      <p>工事後の定期点検まで含めて長く付き合いたい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://newjapan-p.com/roof/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社新日本ペイントの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>美彩建装｜現地調査・見積もり無料を明記する地域密着の塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_bisaikensou.jpg\" alt=\"美彩建装公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：美彩建装公式サイト</figcaption>\n      </figure>\n      <p>上尾市久保を拠点とする、完全地域密着型の塗装専門店。<span class=\"mk\">お見積り・ご相談・現地調査はすべて無料</span>で、屋根工事や防水工事、雨樋交換にも対応しています。</p>\n      <ul class=\"check\">\n        <li>お見積り・ご相談・現地調査はすべて無料</li>\n        <li>外壁診断士の資格を持つ代表が対応</li>\n        <li>受付8:00〜18:00・日曜定休</li>\n      </ul>\n      <p>地元の職人に直接相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://bisaikensou.com/\" target=\"_blank\" rel=\"nofollow noopener\">美彩建装の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>株式会社ヒロタ｜埼玉県内施工実績12,000件超のLIXIL認定リフォーム専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_tosouhonpo.jpg\" alt=\"株式会社ヒロタ公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社ヒロタ（外壁塗装本舗）公式サイト</figcaption>\n      </figure>\n      <p>上尾市中分に本店を置く、LIXIL認定リフォームショップ。<span class=\"mk\">埼玉県内の施工実績は12,000件以上で、1級塗装技能士が在籍</span>し、外壁・屋根塗装から屋根カバー工法まで対応しています。</p>\n      <ul class=\"check\">\n        <li>お見積りは無料</li>\n        <li>埼玉県内施工実績12,000件以上・LIXIL認定店</li>\n        <li>受付9:00〜20:00</li>\n      </ul>\n      <p>実績豊富な店舗でまとめて相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.tosou-honpo.com/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社ヒロタの公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}

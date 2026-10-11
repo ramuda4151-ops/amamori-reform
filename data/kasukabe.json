@@ -1,0 +1,24 @@
+{
+ "slug": "kasukabe",
+ "city": "春日部市",
+ "pref": "埼玉県",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_kasukabe",
+ "area_wide": "関東全域",
+ "nearby": "埼玉県内",
+ "consumer_center": "春日部市消費生活センター",
+ "date_pub": "2026-10-11",
+ "date_mod": "2026-10-11",
+ "order": 129,
+ "intro_local": "春日部市は中川・古利根川流域の低い地形に広がるまちで、急速な都市化により大雨のたびに浸水被害が多発したことから「首都圏外郭放水路」が整備された歴史を持ちます。市内には高度経済成長期に建てられた戸建て住宅が多く残り、台風や豪雨の後に屋根・外壁の劣化から雨漏りに気づくケースが見られます。",
+ "companies": [
+  "アメトメ",
+  "有限会社アイライクホーム",
+  "明石住装",
+  "街の屋根やさん春日部店",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>有限会社アイライクホーム</td>\n            <td>9:00〜18:00<br>（日曜・祝日定休）</td>\n            <td>春日部市中心に埼玉県東部</td>\n            <td>リフォーム店<br>（雨漏り診断も対応）</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>明石住装</td>\n            <td>8:30〜18:00<br>（日曜・祝日定休）</td>\n            <td>春日部市はじめ近隣地域</td>\n            <td>塗装専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>街の屋根やさん春日部店</td>\n            <td>8:00〜18:00</td>\n            <td>春日部市・越谷市・草加市など埼玉県東部</td>\n            <td>屋根工事専門店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>有限会社アイライクホーム｜創業30年・日本屋根診断士協会会員の総合リフォーム会社</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_ilikehome.jpg\" alt=\"有限会社アイライクホーム公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：有限会社アイライクホーム公式サイト</figcaption>\n      </figure>\n      <p>春日部市中央に本店を置き、平成7年創業の総合リフォーム会社。<span class=\"mk\">日本屋根診断士協会会員・ニチハ保証システム登録工事店</span>で、ドローンや赤外線を使った屋根診断を無料で行っています。</p>\n      <ul class=\"check\">\n        <li>屋根診断・雨漏り診断は無料</li>\n        <li>埼玉県知事許可（般-3）第56319号</li>\n        <li>受付9:00〜18:00・日曜・祝日定休</li>\n      </ul>\n      <p>屋根の状態をまず無料で診断してもらいたい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://ilikehome-co.com/\" target=\"_blank\" rel=\"nofollow noopener\">有限会社アイライクホームの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>明石住装｜1級塗装技能士在籍・完全自社施工の地元塗装店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_akashijyuso.jpg\" alt=\"明石住装公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：明石住装公式サイト</figcaption>\n      </figure>\n      <p>春日部市赤沼を拠点とする塗装専門店。<span class=\"mk\">1級塗装技能士が在籍し、完全自社施工</span>で外壁・屋根塗装から防水工事まで対応しています。</p>\n      <ul class=\"check\">\n        <li>お見積りは無料</li>\n        <li>1級塗装技能士在籍・完全自社施工</li>\n        <li>受付8:30〜18:00・日曜・祝日定休</li>\n      </ul>\n      <p>地元の職人に直接施工してもらいたい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://akashi-jyuso.jp/\" target=\"_blank\" rel=\"nofollow noopener\">明石住装の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>街の屋根やさん春日部店｜施工実績10,000件超・三代続く板金店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_machiyanekasukabe.jpg\" alt=\"街の屋根やさん春日部店公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：街の屋根やさん春日部店（山下板金工業株式会社）公式サイト</figcaption>\n      </figure>\n      <p>春日部市豊野町を拠点に、山下板金工業株式会社が運営する屋根工事専門店。<span class=\"mk\">三代続く建築板金店で、屋根の施工実績は10,000件以上</span>。代表は一級建築板金技能士の資格を持ちます。</p>\n      <ul class=\"check\">\n        <li>点検・お見積りは無料</li>\n        <li>施工保証5〜12年、JIOのリフォーム瑕疵保険加入</li>\n        <li>受付8:00〜18:00</li>\n      </ul>\n      <p>屋根の板金工事まで含めて相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://machiyane-kasukabe.com/\" target=\"_blank\" rel=\"nofollow noopener\">街の屋根やさん春日部店の公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}
