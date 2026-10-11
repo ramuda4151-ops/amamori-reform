@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-10",
+ "generated": "2026-10-11",
  "range7": [
-  "2026-10-02",
-  "2026-10-08"
+  "2026-10-03",
+  "2026-10-09"
  ],
  "range28": [
-  "2026-09-11",
-  "2026-10-08"
+  "2026-09-12",
+  "2026-10-09"
  ],
  "pages_7d": [
   {
    "keys": [
     "/chiba/"
    ],
-   "imp": 71,
+   "imp": 63,
    "clicks": 1,
-   "pos": 58.3
+   "pos": 55.0
   },
   {
    "keys": [
     "/fujisawa/"
    ],
-   "imp": 17,
+   "imp": 13,
    "clicks": 0,
    "pos": 13.8
   },
@@ -29,17 +29,17 @@
    "keys": [
     "/funabashi/"
    ],
-   "imp": 8,
+   "imp": 7,
    "clicks": 0,
-   "pos": 20.6
+   "pos": 23
   },
   {
    "keys": [
     "/hachioji/"
    ],
-   "imp": 17,
+   "imp": 12,
    "clicks": 0,
-   "pos": 36.8
+   "pos": 32.2
   },
   {
    "keys": [
@@ -53,17 +53,17 @@
    "keys": [
     "/saitama/"
    ],
-   "imp": 7,
+   "imp": 5,
    "clicks": 0,
-   "pos": 20.1
+   "pos": 21
   },
   {
    "keys": [
     "/sendai/"
    ],
-   "imp": 6,
+   "imp": 5,
    "clicks": 0,
-   "pos": 6.7
+   "pos": 7.6
   }
  ],
  "pages_28d": [
