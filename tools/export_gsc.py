@@ -19,9 +19,10 @@ from daily_report import gsc_token, SITE, DOMAIN
 
 LAUNCH = '2026-09-18'  # サイト公開日（履歴の起点）
 
-def query(token, start, end, dims, limit=500):
+def query(token, start, end, dims, limit=500, data_state='final'):
     url = f'https://searchconsole.googleapis.com/webmasters/v3/sites/{urllib.parse.quote(SITE, safe="")}/searchAnalytics/query'
-    body = json.dumps({'startDate': start, 'endDate': end, 'dimensions': dims, 'rowLimit': limit}).encode()
+    body = json.dumps({'startDate': start, 'endDate': end, 'dimensions': dims,
+                       'rowLimit': limit, 'dataState': data_state}).encode()
     req = urllib.request.Request(url, data=body, method='POST', headers={
         'Authorization': f'Bearer {token}', 'Content-Type': 'application/json'})
     with urllib.request.urlopen(req) as r:
@@ -40,9 +41,14 @@ def load_articles():
 
 
 def export_history(token, end):
-    """日別×記事別の履歴CSVを全期間分再生成（常に整合する冪等方式）"""
+    """日別×記事別の履歴CSVを全期間分再生成（常に整合する冪等方式）
+
+    速報値(dataState=all)込みで当日分まで取得する。速報値は後日GSC側で
+    確定値に差し替わるが、毎朝全期間を再生成するため自動的に整合する。
+    """
     arts = load_articles()
-    rows = query(token, LAUNCH, end, ['date', 'page'], limit=25000)
+    end = datetime.date.today().isoformat()  # 速報値は当日近くまで存在する
+    rows = query(token, LAUNCH, end, ['date', 'page'], limit=25000, data_state='all')
     hist = []
     for r in rows:
         date, page = r['keys'][0], r['keys'][1].replace(DOMAIN, '') or '/'
