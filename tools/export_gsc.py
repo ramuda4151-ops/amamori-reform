@@ -57,10 +57,9 @@ def export_history(token, end):
             name = arts.get(page, ('トップ' if page == '/' else page, 0))[0]
             w.writerow([date, page, name, imp, clk, pos])
 
-    # 日付×記事の順位マトリクス（列は記事order順、表示実績のある記事のみ）
+    # 日付×記事の順位マトリクス（列は公開済み全記事をorder順で常に表示）
     dates = sorted({h[0] for h in hist})
-    pages_seen = {h[1] for h in hist if h[1] in arts}
-    cols = sorted(pages_seen, key=lambda p: arts[p][1])
+    cols = sorted(arts, key=lambda p: arts[p][1])
     posmap = {(h[0], h[1]): h[4] for h in hist}
     with open('reports/rank_matrix.csv', 'w', newline='', encoding='utf-8') as f:
         w = csv.writer(f)
