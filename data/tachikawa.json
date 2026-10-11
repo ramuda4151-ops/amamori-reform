@@ -1,0 +1,25 @@
+{
+ "slug": "tachikawa",
+ "city": "立川市",
+ "pref": "東京都",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_tachikawa",
+ "area_wide": "関東全域",
+ "nearby": "東京近郊",
+ "consumer_center": "立川市消費生活センター",
+ "date_pub": "2026-10-11",
+ "date_mod": "2026-10-11",
+ "order": 133,
+ "intro_local": "立川市はJR中央線など複数路線が乗り入れる多摩地域の交通拠点で、市内には昭和56年5月31日以前に建てられた木造戸建て住宅も残っています。築年数の経過した屋根・外壁の劣化による雨漏りに注意が必要なエリアです。",
+ "companies": [
+  "アメトメ",
+  "株式会社INGコーポレーション",
+  "株式会社CHIKAZAWA",
+  "エスケー住宅サービス株式会社",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>株式会社INGコーポレーション</td>\n            <td>8:00〜22:00<br>（年中無休）</td>\n            <td>立川市砂川町に本社を置き多摩地域に対応</td>\n            <td>屋根工事店<br>（外壁塗装・防水も対応）</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>株式会社CHIKAZAWA</td>\n            <td>9:00〜18:00<br>（日曜定休）</td>\n            <td>立川市を含む多摩地域・埼玉県南西部24市区町</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>エスケー住宅サービス株式会社</td>\n            <td>9:00〜18:00<br>（年中無休。LINE・メールは24時間）</td>\n            <td>立川市を含む東京都・千葉県全域</td>\n            <td>屋根修理店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>株式会社INGコーポレーション｜立川市砂川町に本社を置く屋根・外壁の専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_ingcorp.jpg\" alt=\"株式会社INGコーポレーション 公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社INGコーポレーション 公式サイト</figcaption>\n      </figure>\n      <p>立川市砂川町に本社を置き、東京都知事の建設業許可（般-4）を取得している屋根・外壁塗装の専門店。<span class=\"mk\">施工実績3,200棟以上</span>で、雨漏りページでは調査費0円を明記しています。</p>\n      <ul class=\"check\">\n        <li>出張見積りは無料、雨漏り調査も0円</li>\n        <li>施工実績3,200棟以上</li>\n        <li>営業時間8:00〜22:00・年中無休</li>\n      </ul>\n      <p>立川市内に本社がある業者に直接頼みたい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://ing-corporation.com/leakage/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社INGコーポレーションの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>株式会社CHIKAZAWA｜施工実績7,000件超・完全自社施工のリフォーム店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_chikazawa.jpg\" alt=\"株式会社CHIKAZAWA 公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社CHIKAZAWA 公式サイト</figcaption>\n      </figure>\n      <p>埼玉県南西部から東京都多摩地域まで対応する外壁・屋根・防水の総合リフォーム店。<span class=\"mk\">現地調査・見積りは完全無料</span>で、立川市専用の対応ページも用意しています。</p>\n      <ul class=\"check\">\n        <li>現地調査・見積り完全無料</li>\n        <li>施工実績7,000件以上、完全自社施工</li>\n        <li>受付9:00〜18:00・日曜定休</li>\n      </ul>\n      <p>外壁や雨樋まわりまで含めて総合的に相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://chikazawa.info/area/tachikawa-city/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社CHIKAZAWAの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>エスケー住宅サービス株式会社｜屋根修理・雨漏り修理に特化した専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_skroof_tachikawa.jpg\" alt=\"エスケー住宅サービス株式会社 公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：エスケー住宅サービス株式会社 公式サイト</figcaption>\n      </figure>\n      <p>屋根修理・雨漏り修理を専門に手がける会社で、立川市専用の対応ページを公式サイト内に設けています。<span class=\"mk\">見積りや現地調査は無料</span>で、火災保険申請のサポートにも対応しています。</p>\n      <ul class=\"check\">\n        <li>見積り・現地調査は無料（無料診断・無料見積もりも案内）</li>\n        <li>電話受付9:00〜18:00・年中無休（メール・LINEは24時間受付）</li>\n        <li>火災保険申請のサポートに対応</li>\n      </ul>\n      <p>屋根まわりの修理に絞って相談したい人向け。</p>\n      <p class=\"ext-link\"><a href=\"https://www.sk-roof-repair.com/leak-repair/tachikawa-city/\" target=\"_blank\" rel=\"nofollow noopener\">エスケー住宅サービスの公式サイトはこちら ›</a></p>\n    </div>\n\n    ",
+ "extra_html": "<h2 id=\"josei\">立川市の木造住宅耐震化助成制度</h2>\n    <p>立川市では、昭和56年5月31日以前に建築された木造の戸建て住宅などを対象に「木造住宅の耐震化助成制度」を実施しています。<span class=\"mk\">耐震診断費の2分の1（上限10万円）、補強設計・工事監理費の2分の1（上限10万円）、耐震改修工事費の2分の1（上限100万円）</span>を助成する仕組みです（診断で上部構造評点が1.0未満の住宅が対象）。</p>\n    <p>この制度は<span class=\"mk\">雨漏り修理そのものを直接対象とするものではありません</span>が、屋根・外壁の耐震改修と合わせて工事を行う場合に関係してくることがあります。利用を検討する場合は立川市役所住宅課住宅対策係（電話042-523-2111 内線2562）に事前に確認してください。</p>\n"
+}
