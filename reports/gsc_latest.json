@@ -1,29 +1,29 @@
 {
- "generated": "2026-10-12",
+ "generated": "2026-10-13",
  "range7": [
-  "2026-10-04",
-  "2026-10-10"
+  "2026-10-05",
+  "2026-10-11"
  ],
  "range28": [
-  "2026-09-13",
-  "2026-10-10"
+  "2026-09-14",
+  "2026-10-11"
  ],
  "pages_7d": [
   {
    "keys": [
     "/saitama/"
    ],
-   "imp": 14,
+   "imp": 16,
    "clicks": 1,
-   "pos": 14.1
+   "pos": 14.6
   },
   {
    "keys": [
     "/chiba/"
    ],
-   "imp": 61,
+   "imp": 46,
    "clicks": 0,
-   "pos": 56.8
+   "pos": 60.0
   },
   {
    "keys": [
@@ -37,17 +37,17 @@
    "keys": [
     "/fujisawa/"
    ],
-   "imp": 45,
+   "imp": 49,
    "clicks": 0,
-   "pos": 13.7
+   "pos": 13.8
   },
   {
    "keys": [
     "/funabashi/"
    ],
-   "imp": 4,
+   "imp": 3,
    "clicks": 0,
-   "pos": 26
+   "pos": 34
   },
   {
    "keys": [
@@ -55,7 +55,7 @@
    ],
    "imp": 22,
    "clicks": 0,
-   "pos": 24.8
+   "pos": 21.2
   },
   {
    "keys": [
@@ -69,15 +69,15 @@
    "keys": [
     "/sendai/"
    ],
-   "imp": 10,
+   "imp": 6,
    "clicks": 0,
-   "pos": 8
+   "pos": 7.7
   },
   {
    "keys": [
     "/suga-more/"
    ],
-   "imp": 1,
+   "imp": 2,
    "clicks": 0,
    "pos": 16
   },
@@ -95,9 +95,9 @@
    "keys": [
     "/chiba/"
    ],
-   "imp": 131,
+   "imp": 132,
    "clicks": 1,
-   "pos": 60.9
+   "pos": 61.4
   },
   {
    "keys": [
@@ -111,9 +111,9 @@
    "keys": [
     "/saitama/"
    ],
-   "imp": 37,
+   "imp": 39,
    "clicks": 1,
-   "pos": 27.8
+   "pos": 27.3
   },
   {
    "keys": [
@@ -127,9 +127,9 @@
    "keys": [
     "/fujisawa/"
    ],
-   "imp": 86,
+   "imp": 94,
    "clicks": 0,
-   "pos": 26.6
+   "pos": 25.6
   },
   {
    "keys": [
@@ -143,9 +143,9 @@
    "keys": [
     "/hachioji/"
    ],
-   "imp": 55,
+   "imp": 58,
    "clicks": 0,
-   "pos": 37.2
+   "pos": 36.0
   },
   {
    "keys": [
@@ -159,7 +159,7 @@
    "keys": [
     "/suga-more/"
    ],
-   "imp": 1,
+   "imp": 2,
    "clicks": 0,
    "pos": 16
   },
@@ -403,9 +403,9 @@
     "/chiba/",
     "雨漏り 修理 千葉"
    ],
-   "imp": 12,
+   "imp": 13,
    "clicks": 0,
-   "pos": 103.2
+   "pos": 104.4
   },
   {
    "keys": [
@@ -439,18 +439,18 @@
     "/fujisawa/",
     "藤沢 雨漏り修理"
    ],
-   "imp": 19,
+   "imp": 20,
    "clicks": 0,
-   "pos": 36.8
+   "pos": 35.3
   },
   {
    "keys": [
     "/fujisawa/",
     "藤沢市 雨樋修理"
    ],
-   "imp": 20,
+   "imp": 22,
    "clicks": 0,
-   "pos": 20.2
+   "pos": 20.6
   },
   {
    "keys": [
@@ -484,9 +484,9 @@
     "/fujisawa/",
     "雨漏り 藤沢"
    ],
-   "imp": 18,
+   "imp": 19,
    "clicks": 0,
-   "pos": 37.3
+   "pos": 36.2
   },
   {
    "keys": [
@@ -502,9 +502,9 @@
     "/fujisawa/",
     "雨漏り修理 藤沢市"
    ],
-   "imp": 9,
+   "imp": 11,
    "clicks": 0,
-   "pos": 11.2
+   "pos": 11.6
   },
   {
    "keys": [
@@ -574,9 +574,9 @@
     "/hachioji/",
     "アメトメ 口コミ"
    ],
-   "imp": 4,
+   "imp": 5,
    "clicks": 0,
-   "pos": 21
+   "pos": 22.6
   },
   {
    "keys": [
@@ -646,9 +646,9 @@
     "/hachioji/",
     "八王子市 雨漏り"
    ],
-   "imp": 1,
+   "imp": 2,
    "clicks": 0,
-   "pos": 7
+   "pos": 7.5
   },
   {
    "keys": [
@@ -763,9 +763,9 @@
     "/saitama/",
     "アメトメ 口コミ"
    ],
-   "imp": 2,
+   "imp": 3,
    "clicks": 0,
-   "pos": 22.5
+   "pos": 23
   },
   {
    "keys": [
