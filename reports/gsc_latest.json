@@ -1,29 +1,29 @@
 {
- "generated": "2026-10-13",
+ "generated": "2026-10-14",
  "range7": [
-  "2026-10-05",
-  "2026-10-11"
+  "2026-10-06",
+  "2026-10-12"
  ],
  "range28": [
-  "2026-09-14",
-  "2026-10-11"
+  "2026-09-15",
+  "2026-10-12"
  ],
  "pages_7d": [
   {
    "keys": [
     "/saitama/"
    ],
-   "imp": 16,
+   "imp": 17,
    "clicks": 1,
-   "pos": 14.6
+   "pos": 18.2
   },
   {
    "keys": [
     "/chiba/"
    ],
-   "imp": 46,
+   "imp": 34,
    "clicks": 0,
-   "pos": 60.0
+   "pos": 61.4
   },
   {
    "keys": [
@@ -37,17 +37,17 @@
    "keys": [
     "/fujisawa/"
    ],
-   "imp": 49,
+   "imp": 51,
    "clicks": 0,
-   "pos": 13.8
+   "pos": 14.1
   },
   {
    "keys": [
     "/funabashi/"
    ],
-   "imp": 3,
+   "imp": 2,
    "clicks": 0,
-   "pos": 34
+   "pos": 39
   },
   {
    "keys": [
@@ -55,31 +55,31 @@
    ],
    "imp": 22,
    "clicks": 0,
-   "pos": 21.2
+   "pos": 21.7
   },
   {
    "keys": [
     "/machida/"
    ],
-   "imp": 7,
+   "imp": 5,
    "clicks": 0,
-   "pos": 39.1
+   "pos": 29.6
   },
   {
    "keys": [
     "/sendai/"
    ],
-   "imp": 6,
+   "imp": 5,
    "clicks": 0,
-   "pos": 7.7
+   "pos": 8.4
   },
   {
    "keys": [
     "/suga-more/"
    ],
-   "imp": 2,
+   "imp": 3,
    "clicks": 0,
-   "pos": 16
+   "pos": 13
   },
   {
    "keys": [
@@ -95,9 +95,9 @@
    "keys": [
     "/chiba/"
    ],
-   "imp": 132,
+   "imp": 133,
    "clicks": 1,
-   "pos": 61.4
+   "pos": 61.8
   },
   {
    "keys": [
@@ -111,9 +111,9 @@
    "keys": [
     "/saitama/"
    ],
-   "imp": 39,
+   "imp": 41,
    "clicks": 1,
-   "pos": 27.3
+   "pos": 28.0
   },
   {
    "keys": [
@@ -127,25 +127,25 @@
    "keys": [
     "/fujisawa/"
    ],
-   "imp": 94,
+   "imp": 99,
    "clicks": 0,
-   "pos": 25.6
+   "pos": 25.1
   },
   {
    "keys": [
     "/funabashi/"
    ],
-   "imp": 21,
+   "imp": 22,
    "clicks": 0,
-   "pos": 33.1
+   "pos": 35.0
   },
   {
    "keys": [
     "/hachioji/"
    ],
-   "imp": 58,
+   "imp": 62,
    "clicks": 0,
-   "pos": 36.0
+   "pos": 34.7
   },
   {
    "keys": [
@@ -159,9 +159,9 @@
    "keys": [
     "/suga-more/"
    ],
-   "imp": 2,
+   "imp": 3,
    "clicks": 0,
-   "pos": 16
+   "pos": 13
   },
   {
    "keys": [
@@ -403,9 +403,9 @@
     "/chiba/",
     "雨漏り 修理 千葉"
    ],
-   "imp": 13,
+   "imp": 14,
    "clicks": 0,
-   "pos": 104.4
+   "pos": 105.4
   },
   {
    "keys": [
@@ -439,18 +439,18 @@
     "/fujisawa/",
     "藤沢 雨漏り修理"
    ],
-   "imp": 20,
+   "imp": 21,
    "clicks": 0,
-   "pos": 35.3
+   "pos": 33.9
   },
   {
    "keys": [
     "/fujisawa/",
     "藤沢市 雨樋修理"
    ],
-   "imp": 22,
+   "imp": 24,
    "clicks": 0,
-   "pos": 20.6
+   "pos": 20.8
   },
   {
    "keys": [
@@ -484,9 +484,9 @@
     "/fujisawa/",
     "雨漏り 藤沢"
    ],
-   "imp": 19,
+   "imp": 20,
    "clicks": 0,
-   "pos": 36.2
+   "pos": 35.2
   },
   {
    "keys": [
@@ -502,9 +502,9 @@
     "/fujisawa/",
     "雨漏り修理 藤沢市"
    ],
-   "imp": 11,
+   "imp": 12,
    "clicks": 0,
-   "pos": 11.6
+   "pos": 11.7
   },
   {
    "keys": [
@@ -541,6 +541,15 @@
    "imp": 4,
    "clicks": 0,
    "pos": 74.8
+  },
+  {
+   "keys": [
+    "/funabashi/",
+    "船橋市 雨漏り修理"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 73
   },
   {
    "keys": [
@@ -619,9 +628,9 @@
     "/hachioji/",
     "八王子 雨漏り"
    ],
-   "imp": 1,
+   "imp": 2,
    "clicks": 0,
-   "pos": 6
+   "pos": 6.5
   },
   {
    "keys": [
@@ -655,9 +664,9 @@
     "/hachioji/",
     "八王子市 雨漏り修理"
    ],
-   "imp": 2,
+   "imp": 3,
    "clicks": 0,
-   "pos": 42
+   "pos": 38
   },
   {
    "keys": [
@@ -685,6 +694,15 @@
    "imp": 1,
    "clicks": 0,
    "pos": 9
+  },
+  {
+   "keys": [
+    "/hachioji/",
+    "雨漏り修理 八王子"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 10
   },
   {
    "keys": [
