@@ -13,17 +13,17 @@
    "keys": [
     "/saitama/"
    ],
-   "imp": 17,
+   "imp": 18,
    "clicks": 1,
-   "pos": 18.2
+   "pos": 18.4
   },
   {
    "keys": [
     "/chiba/"
    ],
-   "imp": 34,
+   "imp": 36,
    "clicks": 0,
-   "pos": 61.4
+   "pos": 62.6
   },
   {
    "keys": [
@@ -37,33 +37,33 @@
    "keys": [
     "/fujisawa/"
    ],
-   "imp": 51,
+   "imp": 58,
    "clicks": 0,
-   "pos": 14.1
+   "pos": 14.3
   },
   {
    "keys": [
     "/funabashi/"
    ],
-   "imp": 2,
+   "imp": 6,
    "clicks": 0,
-   "pos": 39
+   "pos": 56.5
   },
   {
    "keys": [
     "/hachioji/"
    ],
-   "imp": 22,
+   "imp": 26,
    "clicks": 0,
-   "pos": 21.7
+   "pos": 21.1
   },
   {
    "keys": [
     "/machida/"
    ],
-   "imp": 5,
+   "imp": 7,
    "clicks": 0,
-   "pos": 29.6
+   "pos": 22.9
   },
   {
    "keys": [
@@ -77,9 +77,9 @@
    "keys": [
     "/suga-more/"
    ],
-   "imp": 3,
+   "imp": 4,
    "clicks": 0,
-   "pos": 13
+   "pos": 10.8
   },
   {
    "keys": [
@@ -95,25 +95,25 @@
    "keys": [
     "/chiba/"
    ],
-   "imp": 133,
+   "imp": 135,
    "clicks": 1,
-   "pos": 61.8
+   "pos": 62.2
   },
   {
    "keys": [
     "/machida/"
    ],
-   "imp": 30,
+   "imp": 32,
    "clicks": 1,
-   "pos": 33.4
+   "pos": 31.7
   },
   {
    "keys": [
     "/saitama/"
    ],
-   "imp": 41,
+   "imp": 42,
    "clicks": 1,
-   "pos": 28.0
+   "pos": 27.8
   },
   {
    "keys": [
@@ -127,25 +127,25 @@
    "keys": [
     "/fujisawa/"
    ],
-   "imp": 99,
+   "imp": 106,
    "clicks": 0,
-   "pos": 25.1
+   "pos": 24.5
   },
   {
    "keys": [
     "/funabashi/"
    ],
-   "imp": 22,
+   "imp": 26,
    "clicks": 0,
-   "pos": 35.0
+   "pos": 39.6
   },
   {
    "keys": [
     "/hachioji/"
    ],
-   "imp": 62,
+   "imp": 66,
    "clicks": 0,
-   "pos": 34.7
+   "pos": 33.7
   },
   {
    "keys": [
@@ -159,9 +159,9 @@
    "keys": [
     "/suga-more/"
    ],
-   "imp": 3,
+   "imp": 4,
    "clicks": 0,
-   "pos": 13
+   "pos": 10.8
   },
   {
    "keys": [
@@ -196,9 +196,9 @@
     "/chiba/",
     "マンション 雨漏り修繕 千葉"
    ],
-   "imp": 1,
+   "imp": 2,
    "clicks": 0,
-   "pos": 41
+   "pos": 45.5
   },
   {
    "keys": [
@@ -403,9 +403,9 @@
     "/chiba/",
     "雨漏り 修理 千葉"
    ],
-   "imp": 14,
+   "imp": 15,
    "clicks": 0,
-   "pos": 105.4
+   "pos": 106.3
   },
   {
    "keys": [
@@ -439,18 +439,18 @@
     "/fujisawa/",
     "藤沢 雨漏り修理"
    ],
-   "imp": 21,
+   "imp": 23,
    "clicks": 0,
-   "pos": 33.9
+   "pos": 31.7
   },
   {
    "keys": [
     "/fujisawa/",
     "藤沢市 雨樋修理"
    ],
-   "imp": 24,
+   "imp": 25,
    "clicks": 0,
-   "pos": 20.8
+   "pos": 21.4
   },
   {
    "keys": [
@@ -484,9 +484,9 @@
     "/fujisawa/",
     "雨漏り 藤沢"
    ],
-   "imp": 20,
+   "imp": 21,
    "clicks": 0,
-   "pos": 35.2
+   "pos": 34.3
   },
   {
    "keys": [
@@ -502,9 +502,9 @@
     "/fujisawa/",
     "雨漏り修理 藤沢市"
    ],
-   "imp": 12,
+   "imp": 14,
    "clicks": 0,
-   "pos": 11.7
+   "pos": 12.1
   },
   {
    "keys": [
@@ -529,9 +529,9 @@
     "/funabashi/",
     "屋根修理 船橋"
    ],
-   "imp": 2,
+   "imp": 3,
    "clicks": 0,
-   "pos": 87
+   "pos": 86
   },
   {
    "keys": [
@@ -550,6 +550,15 @@
    "imp": 1,
    "clicks": 0,
    "pos": 73
+  },
+  {
+   "keys": [
+    "/funabashi/",
+    "近くの雨漏り修理業者"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 12
   },
   {
    "keys": [
@@ -574,9 +583,9 @@
     "/funabashi/",
     "雨漏り工事 船橋市"
    ],
-   "imp": 1,
+   "imp": 3,
    "clicks": 0,
-   "pos": 72
+   "pos": 79
   },
   {
    "keys": [
@@ -595,6 +604,15 @@
    "imp": 4,
    "clicks": 0,
    "pos": 9.5
+  },
+  {
+   "keys": [
+    "/hachioji/",
+    "アメニモマケズ工務店"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 48
   },
   {
    "keys": [
@@ -637,9 +655,9 @@
     "/hachioji/",
     "八王子 雨漏り 修理"
    ],
-   "imp": 2,
+   "imp": 3,
    "clicks": 0,
-   "pos": 30.5
+   "pos": 23
   },
   {
    "keys": [
@@ -655,9 +673,9 @@
     "/hachioji/",
     "八王子市 雨漏り"
    ],
-   "imp": 2,
+   "imp": 3,
    "clicks": 0,
-   "pos": 7.5
+   "pos": 7.7
   },
   {
    "keys": [
@@ -685,6 +703,15 @@
    "imp": 10,
    "clicks": 0,
    "pos": 58.2
+  },
+  {
+   "keys": [
+    "/hachioji/",
+    "雨漏り 業者"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 8
   },
   {
    "keys": [
@@ -730,6 +757,15 @@
    "imp": 1,
    "clicks": 0,
    "pos": 68
+  },
+  {
+   "keys": [
+    "/machida/",
+    "雨漏り 業者 おすすめ"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 8
   },
   {
    "keys": [
@@ -829,6 +865,15 @@
    "imp": 1,
    "clicks": 0,
    "pos": 8
+  },
+  {
+   "keys": [
+    "/saitama/",
+    "雨漏り修理業者ランキング"
+   ],
+   "imp": 1,
+   "clicks": 0,
+   "pos": 22
   },
   {
    "keys": [
