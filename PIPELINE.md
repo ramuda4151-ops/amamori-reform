@@ -45,7 +45,7 @@ python3 tools/screenshot.py site_<業者名ローマ字>=<公式サイトURL> ×
   雨漏り寄りの業者は「リフォーム店<br>（雨漏り修理も対応）」等にする。1位の雨漏り修理専門はアメトメ専用）
 - `cards_html`: 2〜4位の業者カード（h3タイトル・site-shotフィギュア・紹介文・check3点・ext-link必須。
   紹介文は公式サイトの事実のみ、1文に1つ `<span class="mk">強調</span>`）
-- `lpid`: `amarefo_<slug>` / `lp`: 関東=lp1・東北=lp3 / `area_wide`: 関東全域 or 東北全域
+- `lpid`: `amarefo_<slug>` / `lp`: 関東=lp1・東北=lp3・九州（福岡）=lp4 / `area_wide`: 関東全域・東北全域・福岡県全域のいずれか
 - `nearby`: 費用相場の地域表現（例: 埼玉県内・宮城県内・東京近郊）
 - `date_pub` = `date_mod` = 当日の**JST日付**（実行環境がUTCの場合ズレるため `TZ=Asia/Tokyo date +%F` で取得）、`order` = 既存最大値+1
 - `extra_html`（任意）: 市の助成金情報等の固有セクション（h2 + p数個。事実が取れた場合のみ）

@@ -1,1 +1,162 @@
-[]
+[
+ {
+  "slug": "kitakyushu",
+  "city": "北九州市",
+  "pref": "福岡県",
+  "region": "九州",
+  "lp": "lp4",
+  "batch": 10
+ },
+ {
+  "slug": "kurume",
+  "city": "久留米市",
+  "pref": "福岡県",
+  "region": "九州",
+  "lp": "lp4",
+  "batch": 10
+ },
+ {
+  "slug": "omuta",
+  "city": "大牟田市",
+  "pref": "福岡県",
+  "region": "九州",
+  "lp": "lp4",
+  "batch": 10
+ },
+ {
+  "slug": "iizuka",
+  "city": "飯塚市",
+  "pref": "福岡県",
+  "region": "九州",
+  "lp": "lp4",
+  "batch": 10
+ },
+ {
+  "slug": "chikushino",
+  "city": "筑紫野市",
+  "pref": "福岡県",
+  "region": "九州",
+  "lp": "lp4",
+  "batch": 10
+ },
+ {
+  "slug": "onojo",
+  "city": "大野城市",
+  "pref": "福岡県",
+  "region": "九州",
+  "lp": "lp4",
+  "batch": 10
+ },
+ {
+  "slug": "munakata",
+  "city": "宗像市",
+  "pref": "福岡県",
+  "region": "九州",
+  "lp": "lp4",
+  "batch": 10
+ },
+ {
+  "slug": "itoshima",
+  "city": "糸島市",
+  "pref": "福岡県",
+  "region": "九州",
+  "lp": "lp4",
+  "batch": 10
+ },
+ {
+  "slug": "kasuga",
+  "city": "春日市",
+  "pref": "福岡県",
+  "region": "九州",
+  "lp": "lp4",
+  "batch": 10
+ },
+ {
+  "slug": "fukuoka",
+  "city": "福岡市",
+  "pref": "福岡県",
+  "region": "九州",
+  "lp": "lp4",
+  "batch": 10
+ },
+ {
+  "slug": "setagaya",
+  "city": "世田谷区",
+  "pref": "東京都",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "nerima",
+  "city": "練馬区",
+  "pref": "東京都",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "ota-tokyo",
+  "city": "大田区",
+  "pref": "東京都",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "adachi",
+  "city": "足立区",
+  "pref": "東京都",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "edogawa",
+  "city": "江戸川区",
+  "pref": "東京都",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "suginami",
+  "city": "杉並区",
+  "pref": "東京都",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "itabashi",
+  "city": "板橋区",
+  "pref": "東京都",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "katsushika",
+  "city": "葛飾区",
+  "pref": "東京都",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "koto",
+  "city": "江東区",
+  "pref": "東京都",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "kita-tokyo",
+  "city": "北区",
+  "pref": "東京都",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ }
+]
