@@ -1,29 +1,5 @@
 [
  {
-  "slug": "iizuka",
-  "city": "飯塚市",
-  "pref": "福岡県",
-  "region": "九州",
-  "lp": "lp4",
-  "batch": 10
- },
- {
-  "slug": "chikushino",
-  "city": "筑紫野市",
-  "pref": "福岡県",
-  "region": "九州",
-  "lp": "lp4",
-  "batch": 10
- },
- {
-  "slug": "onojo",
-  "city": "大野城市",
-  "pref": "福岡県",
-  "region": "九州",
-  "lp": "lp4",
-  "batch": 10
- },
- {
   "slug": "munakata",
   "city": "宗像市",
   "pref": "福岡県",
