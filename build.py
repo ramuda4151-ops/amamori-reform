@@ -152,6 +152,9 @@ def render_sitemap(items):
     s += f'  <url>\n    <loc>{DOMAIN}/</loc>\n    <lastmod>{top_mod}</lastmod>\n  </url>\n'
     for d in items:
         s += f'  <url>\n    <loc>{DOMAIN}/{d["slug"]}/</loc>\n    <lastmod>{d["date_mod"]}</lastmod>\n  </url>\n'
+    # 固定ページ（運営者情報・プライバシーポリシー）
+    for slug, mod in [('about', '2026-10-16'), ('privacy', '2026-10-16')]:
+        s += f'  <url>\n    <loc>{DOMAIN}/{slug}/</loc>\n    <lastmod>{mod}</lastmod>\n  </url>\n'
     s += '</urlset>\n'
     return s
 
