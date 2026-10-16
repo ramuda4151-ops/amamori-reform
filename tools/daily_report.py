@@ -92,6 +92,7 @@ def gsc_query(token, date):
         'endDate': date,
         'dimensions': ['page'],
         'rowLimit': 100,
+        'dataState': 'all',  # 確定データは5日程度遅れるため速報値込みで取得
     }).encode()
     req = urllib.request.Request(url, data=body, method='POST', headers={
         'Authorization': f'Bearer {token}', 'Content-Type': 'application/json'})
@@ -191,7 +192,7 @@ def main():
         for city, url in new_arts:
             lines.append(f'・{city} {url}')
     lines.append('')
-    lines.append(f'📊 検索: {gsc_date} ／ LP遷移: {click_date}')
+    lines.append(f'📊 検索: {gsc_date}（速報値）／ LP遷移: {click_date}')
     if rows:
         lines.extend(rows)
     if zeros:
