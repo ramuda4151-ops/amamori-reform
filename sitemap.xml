@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://amamori-reform.com/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-16</lastmod>
   </url>
   <url>
     <loc>https://amamori-reform.com/machida/</loc>
@@ -315,5 +315,17 @@
   <url>
     <loc>https://amamori-reform.com/tachikawa/</loc>
     <lastmod>2026-10-11</lastmod>
+  </url>
+  <url>
+    <loc>https://amamori-reform.com/kitakyushu/</loc>
+    <lastmod>2026-10-16</lastmod>
+  </url>
+  <url>
+    <loc>https://amamori-reform.com/kurume/</loc>
+    <lastmod>2026-10-16</lastmod>
+  </url>
+  <url>
+    <loc>https://amamori-reform.com/omuta/</loc>
+    <lastmod>2026-10-16</lastmod>
   </url>
 </urlset>

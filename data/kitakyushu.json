@@ -1,0 +1,23 @@
+{
+ "slug": "kitakyushu",
+ "city": "北九州市",
+ "pref": "福岡県",
+ "region": "九州",
+ "lp": "lp4",
+ "lpid": "amarefo_kitakyushu",
+ "area_wide": "福岡県全域",
+ "nearby": "福岡県内",
+ "consumer_center": "北九州市立消費生活センター",
+ "date_pub": "2026-10-16",
+ "date_mod": "2026-10-16",
+ "order": 134,
+ "intro_local": "北九州市は官営八幡製鐵所の操業以来、重化学工業地帯として発展してきた歴史を持つ都市で、市内には築年数の経った戸建て住宅も多く、台風や豪雨の際に屋根や外壁の傷みから雨漏りが発生しやすいエリア。",
+ "companies": [
+  "エスケールーフ",
+  "官兵衛ルーフ",
+  "坂木塗装",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>エスケールーフ</td>\n            <td>9:00〜18:30<br>（年中無休）</td>\n            <td>北九州市中心に福岡県内</td>\n            <td>屋根工事専門店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>官兵衛ルーフ</td>\n            <td>10:00〜18:00<br>（月曜定休・メールは24時間受付）</td>\n            <td>北九州市中心に福岡県全域</td>\n            <td>屋根工事専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>坂木塗装</td>\n            <td>8:00〜18:00<br>（詳細は要確認）</td>\n            <td>北九州市・中間市中心に福岡県北部</td>\n            <td>塗装・防水店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>エスケールーフ｜累計施工実績15,000棟以上の屋根工事専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_skhouse_kitakyushu.jpg\" alt=\"エスケールーフ公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：エスケーハウス株式会社「エスケールーフ」公式サイト</figcaption>\n      </figure>\n      <p>北九州市八幡西区に拠点を置く屋根工事・雨漏り対応の専門店。<span class=\"mk\">累計施工実績15,000棟以上</span>という実績があり、現場調査から相談・お見積もりまで無料で対応しています。</p>\n      <ul class=\"check\">\n        <li>現場調査・相談・お見積もりすべて無料</li>\n        <li>累計施工実績15,000棟以上</li>\n        <li>受付9:00〜18:30・年中無休</li>\n      </ul>\n      <p>「まず実績の多い屋根専門店に見てほしい」ならここから。</p>\n      <p class=\"ext-link\"><a href=\"https://sk-roof.com/\" target=\"_blank\" rel=\"nofollow noopener\">エスケールーフの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>官兵衛ルーフ｜累計実績2,000件・福岡県全域対応の屋根工事店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_kanbee.jpg\" alt=\"官兵衛ルーフの北九州市向け雨漏り修理ページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社GROW HOME「官兵衛ルーフ」公式サイト</figcaption>\n      </figure>\n      <p>北九州市小倉南区に本社を置き、福岡県全域で屋根修理・塗装・リフォームを手がける会社。<span class=\"mk\">累計施工実績2,000件を超える</span>実績があり、一級塗装技能士・外装劣化診断士が在籍しています。</p>\n      <ul class=\"check\">\n        <li>無料診断・無料見積もり対応</li>\n        <li>累計施工実績2,000件以上</li>\n        <li>一級塗装技能士・外装劣化診断士が在籍</li>\n      </ul>\n      <p>応急処置から本格修繕まで料金目安を見ながら比較したい人に。</p>\n      <p class=\"ext-link\"><a href=\"https://kanbee-roof.com/leak-repair/kitakyushu/\" target=\"_blank\" rel=\"nofollow noopener\">官兵衛ルーフの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>坂木塗装｜一級建築塗装技能士が施工する地元密着の塗装店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_sakakitosou.jpg\" alt=\"坂木塗装の防水・雨漏りページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：坂木塗装 公式サイト</figcaption>\n      </figure>\n      <p>中間市を拠点に北九州市内（小倉北区・小倉南区・門司区・若松区・八幡東区・八幡西区・戸畑区）を中心に対応する地元の職人直営店。<span class=\"mk\">一級建築塗装技能士が必ず施工</span>し、最長10年の施工保証書を発行しています。</p>\n      <ul class=\"check\">\n        <li>現地調査・お見積もり無料（エリア内は出張費・診断費も無料）</li>\n        <li>一級建築塗装技能士が必ず施工</li>\n        <li>最長10年の施工保証書を発行</li>\n      </ul>\n      <p>塗装からの防水・雨漏り対応まで地元の職人に任せたい人に。</p>\n      <p class=\"ext-link\"><a href=\"https://www.sakakitosou.com/bousui-amamori/\" target=\"_blank\" rel=\"nofollow noopener\">坂木塗装の公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}

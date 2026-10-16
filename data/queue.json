@@ -1,29 +1,5 @@
 [
  {
-  "slug": "kitakyushu",
-  "city": "北九州市",
-  "pref": "福岡県",
-  "region": "九州",
-  "lp": "lp4",
-  "batch": 10
- },
- {
-  "slug": "kurume",
-  "city": "久留米市",
-  "pref": "福岡県",
-  "region": "九州",
-  "lp": "lp4",
-  "batch": 10
- },
- {
-  "slug": "omuta",
-  "city": "大牟田市",
-  "pref": "福岡県",
-  "region": "九州",
-  "lp": "lp4",
-  "batch": 10
- },
- {
   "slug": "iizuka",
   "city": "飯塚市",
   "pref": "福岡県",

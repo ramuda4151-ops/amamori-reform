@@ -1,0 +1,23 @@
+{
+ "slug": "omuta",
+ "city": "大牟田市",
+ "pref": "福岡県",
+ "region": "九州",
+ "lp": "lp4",
+ "lpid": "amarefo_omuta",
+ "area_wide": "福岡県全域",
+ "nearby": "福岡県内",
+ "consumer_center": "大牟田市消費生活センター",
+ "date_pub": "2026-10-16",
+ "date_mod": "2026-10-16",
+ "order": 136,
+ "intro_local": "大牟田市は三池炭鉱の閉山後に人口が減少に転じた旧産炭地で、建築時期の古い住宅ストックも多いとされるエリア。経年劣化した屋根や外壁から台風・豪雨時に雨漏りが発生しやすい住宅も少なくない。",
+ "companies": [
+  "株式会社小川塗装工業（リペイントラボ）",
+  "太洋瓦総工",
+  "ひびきホーム",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>株式会社小川塗装工業（リペイントラボ）</td>\n            <td>9:30〜18:00<br>（水・日定休）</td>\n            <td>大牟田市・みやま市・柳川市中心に対応</td>\n            <td>塗装・屋根工事店<br>（雨漏り診断も対応）</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>太洋瓦総工</td>\n            <td>8:30〜19:00<br>（日曜・祝日定休）</td>\n            <td>大牟田市中心に福岡県南部・熊本県北部</td>\n            <td>屋根工事専門店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>ひびきホーム</td>\n            <td>9:00〜18:00<br>（土日定休・メール等は24時間受付）</td>\n            <td>大牟田市中心に福岡県・佐賀県・長崎県</td>\n            <td>屋根リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>株式会社小川塗装工業（リペイントラボ）｜施工実績3,000件超・創業約30年の塗装・屋根工事専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_ogawapainter.jpg\" alt=\"リペイントラボの雨漏り診断ページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社小川塗装工業「リペイントラボ」公式サイト</figcaption>\n      </figure>\n      <p>大牟田市船津町に拠点を置く創業約30年の外壁・屋根塗装専門店（プロタイムズ大牟田店）。<span class=\"mk\">施工実績3,000件以上</span>という実績があり、外装劣化診断士が国土交通省のガイドラインに沿った雨漏り診断を行っています。</p>\n      <ul class=\"check\">\n        <li>相談・お見積もり・診断すべて無料</li>\n        <li>施工実績3,000件以上</li>\n        <li>最大10年の工事保証（塗料メーカー＋塗装会社のW保証）</li>\n      </ul>\n      <p>長年の実績がある地元塗装店にまず相談したい人に。</p>\n      <p class=\"ext-link\"><a href=\"https://ogawapainter.jp/amamori/\" target=\"_blank\" rel=\"nofollow noopener\">リペイントラボの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>太洋瓦総工｜約40年の実績がある屋根工事専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_taiyoukawara.jpg\" alt=\"太洋瓦総工公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：太洋瓦総工 公式サイト</figcaption>\n      </figure>\n      <p>大牟田市大字三池に拠点を置く屋根工事専門店。瓦の葺き替えから雨漏り修理、屋根塗装、板金屋根まで<span class=\"mk\">約40年にわたり屋根リフォーム・雨漏り対策を手がけてきた</span>実績があります。</p>\n      <ul class=\"check\">\n        <li>相談・お見積もり、屋根診断・調査すべて無料</li>\n        <li>約40年の屋根リフォーム・雨漏り対策の実績</li>\n        <li>工事に欠陥があった場合は無償で対応（天災を除く）</li>\n      </ul>\n      <p>瓦屋根の葺き替えなど専門的な工事まで相談したい人に。</p>\n      <p class=\"ext-link\"><a href=\"https://www.taiyou-ks.com/\" target=\"_blank\" rel=\"nofollow noopener\">太洋瓦総工の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>ひびきホーム｜完全自社施工の屋根リフォーム店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_hibikihome.jpg\" alt=\"ひびきホームの大牟田市向け雨漏り修理ページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社ピュア「ひびきホーム」公式サイト</figcaption>\n      </figure>\n      <p>福岡市を拠点に大牟田市を含む福岡県・佐賀県・長崎県で屋根修理・雨漏り修理を手がける完全自社施工の会社。<span class=\"mk\">瓦葺き技一級技能士が在籍</span>し、葺き替えやカバー工法を行った場合は10年の雨漏り保証を実施しています。</p>\n      <ul class=\"check\">\n        <li>見積もり・現地調査無料</li>\n        <li>瓦葺き技一級技能士が在籍</li>\n        <li>葺き替え・カバー工法施工時は10年の雨漏り保証</li>\n      </ul>\n      <p>職人直営の自社施工にこだわりたい人に。</p>\n      <p class=\"ext-link\"><a href=\"https://hibikihome-roof.com/leak-repair/omuta-city/\" target=\"_blank\" rel=\"nofollow noopener\">ひびきホームの公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}
