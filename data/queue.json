@@ -110,5 +110,165 @@
   "region": "関東",
   "lp": "lp1",
   "batch": 11
+ },
+ {
+  "slug": "toda",
+  "city": "戸田市",
+  "pref": "埼玉県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "asaka",
+  "city": "朝霞市",
+  "pref": "埼玉県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "niiza",
+  "city": "新座市",
+  "pref": "埼玉県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "misato",
+  "city": "三郷市",
+  "pref": "埼玉県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "kuki",
+  "city": "久喜市",
+  "pref": "埼玉県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "sayama",
+  "city": "狭山市",
+  "pref": "埼玉県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "iruma",
+  "city": "入間市",
+  "pref": "埼玉県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "fukaya",
+  "city": "深谷市",
+  "pref": "埼玉県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "narashino",
+  "city": "習志野市",
+  "pref": "千葉県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "yachiyo",
+  "city": "八千代市",
+  "pref": "千葉県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "noda",
+  "city": "野田市",
+  "pref": "千葉県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "kisarazu",
+  "city": "木更津市",
+  "pref": "千葉県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "narita",
+  "city": "成田市",
+  "pref": "千葉県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "hadano",
+  "city": "秦野市",
+  "pref": "神奈川県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "ebina",
+  "city": "海老名市",
+  "pref": "神奈川県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "zama",
+  "city": "座間市",
+  "pref": "神奈川県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "isehara",
+  "city": "伊勢原市",
+  "pref": "神奈川県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "kamakura",
+  "city": "鎌倉市",
+  "pref": "神奈川県",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "hino",
+  "city": "日野市",
+  "pref": "東京都",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
+ },
+ {
+  "slug": "kodaira",
+  "city": "小平市",
+  "pref": "東京都",
+  "region": "関東",
+  "lp": "lp1",
+  "batch": 11
  }
 ]
