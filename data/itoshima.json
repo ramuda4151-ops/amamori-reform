@@ -1,0 +1,23 @@
+{
+ "slug": "itoshima",
+ "city": "糸島市",
+ "pref": "福岡県",
+ "region": "九州",
+ "lp": "lp4",
+ "lpid": "amarefo_itoshima",
+ "area_wide": "福岡県全域",
+ "nearby": "福岡県内",
+ "consumer_center": "糸島市消費生活センター",
+ "date_pub": "2026-10-17",
+ "date_mod": "2026-10-17",
+ "order": 141,
+ "intro_local": "糸島市は玄界灘と博多湾に囲まれた半島地形のまちで、海沿いの住宅では潮風による塩害の影響を受けやすい土地柄。台風や豪雨の際に屋根や外壁の傷みから雨漏りが発生しやすいエリア。",
+ "companies": [
+  "山口塗装",
+  "株式会社エコテックス",
+  "株式会社川口（福岡の塗装屋さん）",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>山口塗装</td>\n            <td>24時間対応<br>（年中無休）</td>\n            <td>糸島市中心に福岡市西区など</td>\n            <td>塗装店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>株式会社エコテックス</td>\n            <td>記載なし（要問合せ）<br>（24時間365日受付）</td>\n            <td>福岡市・糸島市中心に福岡県内</td>\n            <td>外壁・屋根塗装店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>株式会社川口（福岡の塗装屋さん）</td>\n            <td>9:00〜18:00<br>（日曜・祝日定休）</td>\n            <td>福岡市西区・糸島市中心</td>\n            <td>塗装店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>山口塗装｜糸島市前原に拠点を置く創業30年以上の塗装店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_yamaguchitosou.jpg\" alt=\"山口塗装公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：山口塗装 公式サイト</figcaption>\n      </figure>\n      <p>糸島市前原駅南に拠点を置く塗装専門店。<span class=\"mk\">糸島市で30年以上の実績</span>があり、出張・お見積りを無料で行っています。</p>\n      <ul class=\"check\">\n        <li>出張・お見積り無料</li>\n        <li>糸島市で創業以来30年以上の実績</li>\n        <li>電話受付24時間対応・年中無休（営業電話は不可）</li>\n      </ul>\n      <p>糸島市内に根を張る老舗にまず相談したい人に。</p>\n      <p class=\"ext-link\"><a href=\"https://www.yamaguchi-tosou.net/\" target=\"_blank\" rel=\"nofollow noopener\">山口塗装の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>株式会社エコテックス｜施工実績3,000件以上・雨漏り補修にも対応</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_ecotexpaint.jpg\" alt=\"株式会社エコテックス公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社エコテックス 公式サイト</figcaption>\n      </figure>\n      <p>福岡市早良区に拠点を置き、福岡市・糸島市を中心に<span class=\"mk\">リフォーム施工実績3,000件以上</span>を手がける塗装店。無料で現地調査・お見積りを行い、雨漏り補修工事にも対応しています。</p>\n      <ul class=\"check\">\n        <li>現地調査・お見積り無料</li>\n        <li>福岡市・糸島市中心に施工実績3,000件以上</li>\n        <li>10年保証・電話受付24時間365日</li>\n      </ul>\n      <p>雨漏り補修まで幅広く相談したい人に。</p>\n      <p class=\"ext-link\"><a href=\"https://ecotex-paint.com/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社エコテックスの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>株式会社川口（福岡の塗装屋さん）｜昭和42年創業の老舗塗装店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_kawaguchipaint.jpg\" alt=\"株式会社川口（福岡の塗装屋さん）公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社川口「福岡の塗装屋さん」公式サイト</figcaption>\n      </figure>\n      <p>福岡市西区生の松原に拠点を置き、<span class=\"mk\">昭和42年創業</span>の老舗塗装店。現地での無料見積もりに対応し、屋根の雨漏りなどの相談も受け付けています。</p>\n      <ul class=\"check\">\n        <li>現地での無料見積もり対応</li>\n        <li>昭和42年創業の老舗塗装店</li>\n        <li>電話受付9:00〜18:00（日曜・祝日定休）</li>\n      </ul>\n      <p>長年の実績がある会社にまず相談したい人に。</p>\n      <p class=\"ext-link\"><a href=\"https://www.kawaguchi-paint.co.jp/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社川口の公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}

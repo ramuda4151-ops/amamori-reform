@@ -1,0 +1,23 @@
+{
+ "slug": "munakata",
+ "city": "宗像市",
+ "pref": "福岡県",
+ "region": "九州",
+ "lp": "lp4",
+ "lpid": "amarefo_munakata",
+ "area_wide": "福岡県全域",
+ "nearby": "福岡県内",
+ "consumer_center": "宗像市消費生活センター",
+ "date_pub": "2026-10-17",
+ "date_mod": "2026-10-17",
+ "order": 140,
+ "intro_local": "宗像市は玄界灘に面し、世界遺産「宗像・沖ノ島と関連遺産群」でも知られる海沿いのまち。海からの潮風による塩害に加え、台風や豪雨の際に屋根や外壁の傷みから雨漏りが発生しやすいエリア。",
+ "companies": [
+  "フクモト工業（プロタイムズ福岡北店）",
+  "雨漏り修理専門店だいわ",
+  "縁家（ENYA）宗像支店",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>フクモト工業（プロタイムズ福岡北店）</td>\n            <td>9:00〜17:00</td>\n            <td>宗像市中心に福津市・古賀市など福岡県内</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>雨漏り修理専門店だいわ</td>\n            <td>7:00〜20:00<br>（年中無休）</td>\n            <td>宗像市中心に北九州市など福岡県内</td>\n            <td>屋根工事店<br>（雨漏り修理も対応）</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>縁家（ENYA）宗像支店</td>\n            <td>記載なし（要問合せ）</td>\n            <td>宗像市中心に福岡県内</td>\n            <td>外壁・屋根塗装店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>フクモト工業（プロタイムズ福岡北店）｜宗像市自由ヶ丘に拠点を置く施工実績3,000棟以上の専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_housemake.jpg\" alt=\"フクモト工業（プロタイムズ福岡北店）公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社フクモト工業「プロタイムズ福岡北店」公式サイト</figcaption>\n      </figure>\n      <p>宗像市自由ヶ丘に宗像ショールームを構える創業67年の塗装・リフォーム専門店。<span class=\"mk\">施工実績3,000棟以上</span>で、雨漏り調査も無料で行っています。</p>\n      <ul class=\"check\">\n        <li>雨漏り調査・ご相談・お見積り無料</li>\n        <li>施工実績3,000棟以上</li>\n        <li>最長10年の施工保証</li>\n      </ul>\n      <p>宗像市内に実店舗を持つ老舗にじっくり相談したい人に。</p>\n      <p class=\"ext-link\"><a href=\"https://www.house-make.net/\" target=\"_blank\" rel=\"nofollow noopener\">フクモト工業の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>雨漏り修理専門店だいわ｜施工実績1万件以上・7時〜20時受付の屋根工事店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_amamoridaiwa.jpg\" alt=\"雨漏り修理専門店だいわ公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社大和建工「雨漏り修理専門店だいわ」公式サイト</figcaption>\n      </figure>\n      <p>北九州市八幡西区に本店を置き、宗像市にも対応エリアを広げる屋根工事店。<span class=\"mk\">施工実績1万件以上</span>で、相談・診断調査・お見積りをすべて無料で行っています。</p>\n      <ul class=\"check\">\n        <li>ご相談・診断調査・お見積り無料</li>\n        <li>施工実績1万件以上</li>\n        <li>受付時間7:00〜20:00（年中無休）</li>\n      </ul>\n      <p>朝早くから夜まで相談できる窓口を探している人に。</p>\n      <p class=\"ext-link\"><a href=\"https://www.amamori-daiwa.com/\" target=\"_blank\" rel=\"nofollow noopener\">雨漏り修理専門店だいわの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>縁家（ENYA）宗像支店｜宗像エリアの施工事例を公開する外壁・屋根塗装店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_enyagroup.jpg\" alt=\"縁家（ENYA）公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：縁家（ENYA） 公式サイト</figcaption>\n      </figure>\n      <p>福岡市東区に本社を置き、宗像支店を構える外壁・屋根塗装の専門店。<span class=\"mk\">見積り・ご相談は無料</span>で、宗像市内での外壁屋根塗装の施工事例を公式サイトで公開しています。</p>\n      <ul class=\"check\">\n        <li>見積り・ご相談無料</li>\n        <li>宗像市内の施工事例を公式サイトで公開</li>\n        <li>宗像支店など福岡県内に複数店舗を展開</li>\n      </ul>\n      <p>支店ネットワークを持つ会社の施工事例を見てから決めたい人に。</p>\n      <p class=\"ext-link\"><a href=\"https://enya-group.jp/\" target=\"_blank\" rel=\"nofollow noopener\">縁家（ENYA）の公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}

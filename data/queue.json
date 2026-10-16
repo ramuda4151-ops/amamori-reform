@@ -1,29 +1,5 @@
 [
  {
-  "slug": "munakata",
-  "city": "宗像市",
-  "pref": "福岡県",
-  "region": "九州",
-  "lp": "lp4",
-  "batch": 10
- },
- {
-  "slug": "itoshima",
-  "city": "糸島市",
-  "pref": "福岡県",
-  "region": "九州",
-  "lp": "lp4",
-  "batch": 10
- },
- {
-  "slug": "kasuga",
-  "city": "春日市",
-  "pref": "福岡県",
-  "region": "九州",
-  "lp": "lp4",
-  "batch": 10
- },
- {
   "slug": "fukuoka",
   "city": "福岡市",
   "pref": "福岡県",
