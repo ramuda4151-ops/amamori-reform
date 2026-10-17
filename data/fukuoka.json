@@ -1,0 +1,24 @@
+{
+ "slug": "fukuoka",
+ "city": "福岡市",
+ "pref": "福岡県",
+ "region": "九州",
+ "lp": "lp4",
+ "lpid": "amarefo_fukuoka",
+ "area_wide": "福岡県全域",
+ "nearby": "福岡県内",
+ "consumer_center": "福岡市消費生活センター",
+ "date_pub": "2026-10-17",
+ "date_mod": "2026-10-17",
+ "order": 143,
+ "intro_local": "福岡市は人口166万人を超える九州最大の都市で、都心部には築30年前後の木造戸建てやマンションも混在するエリア。1999年6月の豪雨では市内で床上・床下浸水3,300戸以上の被害が出た記録もあり、台風の通過や豪雨の際に屋根や外壁の傷みから雨漏りが発生しやすいエリア。",
+ "companies": [
+  "アメトメ",
+  "街の屋根やさん福岡西店",
+  "ユーペイント",
+  "彩架建設（雨漏り修理プロ）",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>街の屋根やさん福岡西店</td>\n            <td>9:00〜17:00<br>（Web問い合わせは24時間受付）</td>\n            <td>福岡市全区を含む福岡県内</td>\n            <td>屋根工事専門店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>ユーペイント</td>\n            <td>9:00〜18:00<br>（日曜は完全予約制）</td>\n            <td>福岡市全区中心に福岡県内</td>\n            <td>塗装店<br>（雨漏り診断も対応）</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>彩架建設（雨漏り修理プロ）</td>\n            <td>記載なし（要問合せ）<br>（WEBフォームは24時間受付）</td>\n            <td>福岡市を含む福岡県内</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>街の屋根やさん福岡西店｜福岡市全区対応の屋根工事専門チェーン</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_machiyane_fukuokashi.jpg\" alt=\"街の屋根やさん福岡西店の福岡市西区エリアページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：街の屋根やさん福岡西店 公式サイト</figcaption>\n      </figure>\n      <p>福岡市西区橋本に拠点を置く屋根工事の専門チェーン。<span class=\"mk\">福岡市東区・博多区・中央区・南区・西区・城南区・早良区の全7区</span>を対応エリアに明記し、区ごとの施工事例ページも公開しています。</p>\n      <ul class=\"check\">\n        <li>お住まいの無料点検・オンライン無料相談に対応</li>\n        <li>累計施工実績10,000棟超、最長10年の施工保証</li>\n        <li>電話受付9:00〜17:00、Web問い合わせは24時間受付</li>\n      </ul>\n      <p>自分の区の施工事例を見てから相談したい人に。</p>\n      <p class=\"ext-link\"><a href=\"https://machiyane-fukuoka.com/city/fukuoka_fukuoka-shi_nishi-ku\" target=\"_blank\" rel=\"nofollow noopener\">街の屋根やさん福岡西店の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>ユーペイント｜累計施工実績20,000件超の塗装店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_upaint.jpg\" alt=\"ユーペイント公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社アスムコーポレーション「ユーペイント」公式サイト</figcaption>\n      </figure>\n      <p>福岡市西区下山門に拠点を置く外壁・屋根塗装の専門店。<span class=\"mk\">ご相談・お見積り・診断はすべて無料</span>で、雨漏りの原因を無料で調べる雨漏り診断にも対応しています。</p>\n      <ul class=\"check\">\n        <li>相談・見積り・外壁診断・雨漏り診断すべて無料</li>\n        <li>累計施工実績20,000件超</li>\n        <li>電話受付9:00〜18:00（日曜は完全予約制）</li>\n      </ul>\n      <p>塗装と合わせて雨漏りの原因も無料で調べてほしい人に。</p>\n      <p class=\"ext-link\"><a href=\"https://u-paint.jp/\" target=\"_blank\" rel=\"nofollow noopener\">ユーペイントの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>彩架建設（雨漏り修理プロ）｜建設業許可を持つリフォーム店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_kawaraamamori.jpg\" alt=\"彩架建設「雨漏り修理プロ」公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：彩架建設株式会社「雨漏り修理プロ」公式サイト</figcaption>\n      </figure>\n      <p>久留米市に本社を置き、<span class=\"mk\">福岡市・福岡県を中心に</span>対応するリフォーム店。<span class=\"mk\">福岡県知事許可（般-3）第114465号</span>の建設業許可を持ち、無料調査・無料見積もりに対応しています。</p>\n      <ul class=\"check\">\n        <li>無料調査・無料見積もり対応</li>\n        <li>福岡県知事許可（般-3）第114465号の建設業許可業者</li>\n        <li>雨漏りが再発した場合、完全に止まるまで追加費用なし</li>\n      </ul>\n      <p>建設業許可のある業者に雨漏り修理を任せたい人に。</p>\n      <p class=\"ext-link\"><a href=\"https://kawara-amamori.com/\" target=\"_blank\" rel=\"nofollow noopener\">彩架建設（雨漏り修理プロ）の公式サイトはこちら ›</a></p>\n    </div>\n\n    "
+}

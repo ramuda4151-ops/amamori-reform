@@ -1,0 +1,25 @@
+{
+ "slug": "nerima",
+ "city": "練馬区",
+ "pref": "東京都",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_nerima",
+ "area_wide": "関東全域",
+ "consumer_center": "練馬区消費生活センター",
+ "date_pub": "2026-10-17",
+ "date_mod": "2026-10-17",
+ "intro_local": "練馬区は23区内でも戸建て住宅が多いエリアで、区内202町丁目のうち40町丁目が木造住宅密集地域に指定されているなど、古い木造住宅が密集するエリア。",
+ "companies": [
+  "アメトメ",
+  "フレッシュホーム",
+  "エスケー住宅サービス株式会社",
+  "株式会社DEAP CRAFT",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>フレッシュホーム</td>\n            <td>8:00〜19:00<br>（年末年始・夏季休暇以外は年中無休）</td>\n            <td>練馬区内限定</td>\n            <td>塗装店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>エスケー住宅サービス株式会社</td>\n            <td>9:00〜18:00・年中無休<br>（メール・LINEは24時間受付）</td>\n            <td>練馬区を含む東京都・千葉県全域</td>\n            <td>屋根修理店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>株式会社DEAP CRAFT</td>\n            <td>8:00〜18:00（月〜土）<br>LINE・メールは365日24時間受付</td>\n            <td>練馬区を含む東京都・神奈川県全域</td>\n            <td>屋根工事店</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>フレッシュホーム｜練馬区内限定・創業36年の塗装専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_freshhome.jpg\" alt=\"フレッシュホーム公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：有限会社フレッシュホーム 公式サイト</figcaption>\n      </figure>\n      <p>練馬区高松に本社を置き、<span class=\"mk\">対応エリアを練馬区内に限定</span>する地域密着の戸建住宅専門の塗装店。昭和61年の創業から36年間で3,124棟の施工実績があります。</p>\n      <ul class=\"check\">\n        <li>相談・見積もりは無料（公式サイトで明記）</li>\n        <li>築30年程度までの住宅（賃貸物件は対象外）を対象に長期無料保証付き</li>\n        <li>受付時間8:00〜19:00、年末年始・夏季休暇以外は年中無休（0120-330-828）</li>\n      </ul>\n      <p>練馬区氷川台の施工事例では、強風時に一階和室で発生していた雨漏りを、窓上の霜除けとモルタルのひび割れ部分のシーリング打ち直しで解消した実績もあります。</p>\n      <p class=\"ext-link\"><a href=\"https://fresh-home330.com/\" target=\"_blank\" rel=\"nofollow noopener\">フレッシュホームの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>エスケー住宅サービス株式会社｜練馬区対応の屋根修理店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_skroofnerima.jpg\" alt=\"エスケー住宅サービス株式会社 練馬区向け雨漏り修理ページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：エスケー住宅サービス株式会社 公式サイト</figcaption>\n      </figure>\n      <p>江戸川区に本社を置き、<span class=\"mk\">東京都・千葉県全域で屋根修理・雨漏り修理に対応</span>する会社。練馬区向けの雨漏り修理ページでも現地調査・見積もり無料と案内しています。</p>\n      <ul class=\"check\">\n        <li>現地調査・見積もりは無料（公式サイトで明記）</li>\n        <li>電話受付9:00〜18:00・年中無休、メール・LINEは24時間365日受付</li>\n        <li>施工保証あり（内容は工事ごとに異なるため要問合せ）</li>\n      </ul>\n      <p>屋根からの緊急雨漏り処置30,000円〜、外壁からの雨漏り修理35,000円〜など、症状別の料金目安を公式サイトで公開しています。</p>\n      <p class=\"ext-link\"><a href=\"https://www.sk-roof-repair.com/leak-repair/nerima-ku/\" target=\"_blank\" rel=\"nofollow noopener\">エスケー住宅サービス株式会社の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>株式会社DEAP CRAFT｜施工実績3,000棟超の屋根工事店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_deapcraftnerima.jpg\" alt=\"株式会社DEAP CRAFT 練馬区向けページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社DEAP CRAFT 公式サイト</figcaption>\n      </figure>\n      <p>横浜市港南区を拠点に、<span class=\"mk\">東京都・神奈川県全域で屋根工事・雨漏り修理に対応</span>する会社。練馬区向けページでは現地調査・お見積り無料、出張費も無料と案内しています。</p>\n      <ul class=\"check\">\n        <li>現地調査・お見積りは無料（公式サイトで明記）</li>\n        <li>施工実績3,000棟超</li>\n        <li>電話受付8:00〜18:00（月〜土）、LINE・メールは365日24時間受付</li>\n      </ul>\n      <p>その場での契約を迫らない方針を公式サイトで明言しています。</p>\n      <p class=\"ext-link\"><a href=\"https://deapcraft.net/area/tokyo/nerimaku/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社DEAP CRAFTの公式サイトはこちら ›</a></p>\n    </div>\n\n    ",
+ "order": 145,
+ "nearby": "東京近郊",
+ "extra_html": "<h2 id=\"hojo\">練馬区の住宅修繕・融資あっせん制度</h2>\n    <p>練馬区には、自己資金だけで住宅の修繕費用をまかなえない人向けに、区内の金融機関（信用金庫・東京あおば農業協同組合）を紹介し、<span class=\"mk\">区が利子を補給して低利融資を受けられる</span>「住宅修築資金融資あっせん」制度があります。基礎・外壁・屋根・内壁などの修築工事が対象で、居住部分の床面積175平方メートル以下、練馬区内に1年以上継続して住んでいることなどが条件です。</p>\n    <p>申込みは工事に着手する前に行う必要があり、予算額に達すると受付が終了します。詳細な利率や最新の受付状況は練馬区住宅課管理係（03-5984-1289）に確認してください。雨漏り修理そのものを対象にした専用の補助金ではなく、融資の利子補給という位置づけである点にも注意しましょう。</p>\n    "
+}

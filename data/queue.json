@@ -1,29 +1,5 @@
 [
  {
-  "slug": "fukuoka",
-  "city": "福岡市",
-  "pref": "福岡県",
-  "region": "九州",
-  "lp": "lp4",
-  "batch": 10
- },
- {
-  "slug": "setagaya",
-  "city": "世田谷区",
-  "pref": "東京都",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 11
- },
- {
-  "slug": "nerima",
-  "city": "練馬区",
-  "pref": "東京都",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 11
- },
- {
   "slug": "ota-tokyo",
   "city": "大田区",
   "pref": "東京都",

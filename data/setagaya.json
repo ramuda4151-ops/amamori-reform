@@ -1,0 +1,25 @@
+{
+ "slug": "setagaya",
+ "city": "世田谷区",
+ "pref": "東京都",
+ "region": "関東",
+ "lp": "lp1",
+ "lpid": "amarefo_setagaya",
+ "area_wide": "関東全域",
+ "consumer_center": "世田谷区消費生活センター",
+ "date_pub": "2026-10-17",
+ "date_mod": "2026-10-17",
+ "intro_local": "世田谷区は23区で人口最多を誇り、木造住宅が密集する地域も抱える住宅都市。古い戸建てでは屋根や外壁の劣化による雨漏りが起きやすいエリア。",
+ "companies": [
+  "アメトメ",
+  "株式会社とどろき建装",
+  "屋根の修理屋さん",
+  "ホームテックワン",
+  "雨漏り修理110番"
+ ],
+ "rows_html": "          <tr>\n            <td>2位</td>\n            <td>株式会社とどろき建装</td>\n            <td>9:00〜18:00<br>（日曜・祝日定休）</td>\n            <td>世田谷区中心に東京23区</td>\n            <td>塗装・防水専門店</td>\n          </tr>\n          <tr>\n            <td>3位</td>\n            <td>屋根の修理屋さん</td>\n            <td>電話受付<br>（時間は要問合せ）</td>\n            <td>世田谷区中心（区内全域対応）</td>\n            <td>屋根修理店</td>\n          </tr>\n          <tr>\n            <td>4位</td>\n            <td>ホームテックワン</td>\n            <td>8:00〜20:00<br>（土日祝はメール・LINE受付）</td>\n            <td>世田谷区を含む東京都内（中野・杉並・練馬など）</td>\n            <td>リフォーム店<br>（雨漏り修理も対応）</td>\n          </tr>\n",
+ "cards_html": "<h3><span class=\"rank-badge\">第2位</span>株式会社とどろき建装｜世田谷区等々力に本社を置く塗装・防水専門店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_todoroki.jpg\" alt=\"株式会社とどろき建装 公式サイトのトップページ\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社とどろき建装 公式サイト</figcaption>\n      </figure>\n      <p>世田谷区等々力に本社を置く、<span class=\"mk\">創業15年</span>の外壁塗装・屋根塗装・防水工事の専門店。雨漏り診断士・外壁劣化診断士の資格を持つ自社職人が、現地調査から施工まで対応しています。</p>\n      <ul class=\"check\">\n        <li>現場調査・見積り作成は無料（公式サイトで明記）</li>\n        <li>累計施工実績500棟、使用塗料に応じ最長15年の自社保証</li>\n        <li>受付9:00〜18:00・日曜・祝日定休</li>\n      </ul>\n      <p>世田谷区内に本社を置く業者に直接頼みたい人向けの1社です。</p>\n      <p class=\"ext-link\"><a href=\"https://todorokikensou.jp/\" target=\"_blank\" rel=\"nofollow noopener\">株式会社とどろき建装の公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第3位</span>屋根の修理屋さん｜世田谷区下馬を拠点に実績30年の屋根修理店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_gotoworkman.jpg\" alt=\"屋根の修理屋さん 世田谷区向けページのトップ画面\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：屋根の修理屋さん（後藤建築工房）公式サイト</figcaption>\n      </figure>\n      <p>世田谷区下馬を拠点に、1991年の創業から<span class=\"mk\">施工実績30年</span>を重ねる後藤建築工房が運営する屋根修理店。下請けを使わない自社職人が対応し、公式サイトでは世田谷区内の町名別に対応エリアを案内しています。</p>\n      <ul class=\"check\">\n        <li>相談・調査・見積もりは無料（公式サイトで明記）</li>\n        <li>屋根修理のほか外壁塗装・水回り修理にも対応</li>\n        <li>電話受付（時間は要問合せ、公式サイトに記載なし）</li>\n      </ul>\n      <p class=\"ext-link\"><a href=\"https://gotoworkman.com/amamori/setagayaku/\" target=\"_blank\" rel=\"nofollow noopener\">屋根の修理屋さんの公式サイトはこちら ›</a></p>\n    </div>\n\n    <h3><span class=\"rank-badge\">第4位</span>ホームテックワン｜世田谷オフィスを持つ施工実績5,000棟のリフォーム店</h3>\n    <div class=\"company-card\">\n      <figure class=\"site-shot\">\n        <img src=\"../img/site_hometechone.jpg\" alt=\"ホームテックワン 世田谷区向けページのトップ画面\" width=\"740\" height=\"371\" loading=\"lazy\">\n        <figcaption>出典：株式会社HOME TECH ONE（ホームテックワン）公式サイト</figcaption>\n      </figure>\n      <p>世田谷区船橋にオフィスを構え、中野区・杉並区など東京都内で屋根・外壁・防水工事を手がけるリフォーム店。<span class=\"mk\">累計施工実績5,000棟</span>で、二級建築士事務所の登録や東京都知事許可（般-8）を持つ点も特徴です。</p>\n      <ul class=\"check\">\n        <li>問い合わせから現地調査・診断・見積もりまで無料（公式サイトで明記）</li>\n        <li>自社工事は最長15年保証、JIOリフォーム瑕疵保険の加盟店</li>\n        <li>受付8:00〜20:00（土日祝はメール・LINE受付）</li>\n      </ul>\n      <p class=\"ext-link\"><a href=\"https://hometechone.com/areapage/setagaya/\" target=\"_blank\" rel=\"nofollow noopener\">ホームテックワンの公式サイトはこちら ›</a></p>\n    </div>\n\n    ",
+ "order": 144,
+ "nearby": "東京近郊",
+ "extra_html": "<h2 id=\"josei\">世田谷区のエコ住宅補助金（屋根の高反射改修など）</h2>\n    <p>世田谷区では、区内に住民登録がある個人を対象に「世田谷区エコ住宅補助金」を実施しています。対象工事は窓の断熱改修・高断熱ドアの設置・高断熱浴槽の設置・<span class=\"mk\">屋根の高反射改修</span>の4種類で、全体の補助上限は20万円です。屋根の高反射改修は、令和8年度後期受付分（10月1日以降）から補助単価が7万円から10万円に引き上げられました。</p>\n    <p>利用には<span class=\"mk\">工事前の事前登録が必須</span>で、区内の施工業者による工事であることが条件です。令和8年度後期の受付期間は10月1日から令和9年1月31日まで（予算に達し次第終了）。雨漏り修理そのものを直接の対象とする制度ではありませんが、屋根の改修と合わせて利用を検討する場合は、世田谷区気候危機対策課（電話03-5539-3242）に事前に確認してください。</p>\n"
+}
