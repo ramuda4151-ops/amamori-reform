@@ -1,29 +1,5 @@
 [
  {
-  "slug": "ota-tokyo",
-  "city": "大田区",
-  "pref": "東京都",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 11
- },
- {
-  "slug": "adachi",
-  "city": "足立区",
-  "pref": "東京都",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 11
- },
- {
-  "slug": "edogawa",
-  "city": "江戸川区",
-  "pref": "東京都",
-  "region": "関東",
-  "lp": "lp1",
-  "batch": 11
- },
- {
   "slug": "suginami",
   "city": "杉並区",
   "pref": "東京都",
